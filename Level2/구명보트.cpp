@@ -22,10 +22,3 @@ int solution(vector<int> people, int limit) {
 
     return answer;
 }
-
-int main() {
-
-    cout << solution({ 70, 50, 80, 50 }, 100);
-
-    return 0;
-}

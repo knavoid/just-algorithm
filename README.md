@@ -20,3 +20,34 @@
 |[키패드 누르기](https://programmers.co.kr/learn/courses/30/lessons/67256)(2020 KAKAO)|Hash / Implementation|[c++](https://github.com/shunCode/Programmers-CodingTest/blob/master/Level1/%ED%82%A4%ED%8C%A8%EB%93%9C%20%EB%88%84%EB%A5%B4%EA%B8%B0.cpp) / [python](https://github.com/shunCode/Programmers-CodingTest/blob/master/Level1/%ED%82%A4%ED%8C%A8%EB%93%9C%20%EB%88%84%EB%A5%B4%EA%B8%B0.py)|
 |[핸드폰 번호 가리기](https://programmers.co.kr/learn/courses/30/lessons/12948)|String|[c++](https://github.com/shunCode/Programmers-CodingTest/blob/master/Level1/%ED%95%B8%EB%93%9C%ED%8F%B0%20%EB%B2%88%ED%98%B8%20%EA%B0%80%EB%A6%AC%EA%B8%B0.cpp) / [python](https://github.com/shunCode/Programmers-CodingTest/blob/master/Level1/%ED%95%B8%EB%93%9C%ED%8F%B0%20%EB%B2%88%ED%98%B8%20%EA%B0%80%EB%A6%AC%EA%B8%B0.py)|
 
+
+
+## Level2
+
+| Problem | Type | Solution |
+| ------- | ---- | -------- |
+|[2개 이하로 다른 비트](https://programmers.co.kr/learn/courses/30/lessons/77885)|Bit|[c++](https://github.com/shunCode/Programmers-CodingTest/blob/master/Level2/2%EA%B0%9C%20%EC%9D%B4%ED%95%98%EB%A1%9C%20%EB%8B%A4%EB%A5%B8%20%EB%B9%84%ED%8A%B8.cpp)|
+|[H-Index](https://programmers.co.kr/learn/courses/30/lessons/42747)|Sorting|[c++](https://github.com/shunCode/Programmers-CodingTest/blob/master/Level2/H-Index.cpp)|
+|[n진수 게임](https://programmers.co.kr/learn/courses/30/lessons/17687)|String|[c++](https://github.com/shunCode/Programmers-CodingTest/blob/master/Level2/n%EC%A7%84%EC%88%98%20%EA%B2%8C%EC%9E%84.cpp)|
+|[가장 큰 수](https://programmers.co.kr/learn/courses/30/lessons/42746)|Sorting|[c++](https://github.com/shunCode/Programmers-CodingTest/blob/master/Level2/%EA%B0%80%EC%9E%A5%20%ED%81%B0%20%EC%88%98.cpp)|
+|[가장 큰 정사각형 찾기](https://programmers.co.kr/learn/courses/30/lessons/12905)|Dynamic Programming|[c++](https://github.com/shunCode/Programmers-CodingTest/blob/master/Level2/%EA%B0%80%EC%9E%A5%20%ED%81%B0%20%EC%A0%95%EC%82%AC%EA%B0%81%ED%98%95%20%EC%B0%BE%EA%B8%B0.cpp)|
+|[괄호 변환](https://programmers.co.kr/learn/courses/30/lessons/60058)|Recursion|[c++](https://github.com/shunCode/Programmers-CodingTest/blob/master/Level2/%EA%B4%84%ED%98%B8%20%EB%B3%80%ED%99%98.cpp)|
+|[구명보트](https://programmers.co.kr/learn/courses/30/lessons/42885)|Greedy|[c++](https://github.com/shunCode/Programmers-CodingTest/blob/master/Level2/%EA%B5%AC%EB%AA%85%EB%B3%B4%ED%8A%B8.cpp)|
+|[기능개발](https://programmers.co.kr/learn/courses/30/lessons/42586)|Stack / Queue|[c++](https://github.com/shunCode/Programmers-CodingTest/blob/master/Level2/%EA%B8%B0%EB%8A%A5%EA%B0%9C%EB%B0%9C.cpp)|
+|[뉴스 클러스터링](https://programmers.co.kr/learn/courses/30/lessons/17677)|Set|[c++](https://github.com/shunCode/Programmers-CodingTest/blob/master/Level2/%EB%89%B4%EC%8A%A4%20%ED%81%B4%EB%9F%AC%EC%8A%A4%ED%84%B0%EB%A7%81.cpp)|
+|[다리를 지나는 트럭](https://programmers.co.kr/learn/courses/30/lessons/42583)|Queue|[c++](https://github.com/shunCode/Programmers-CodingTest/blob/master/Level2/%EB%8B%A4%EB%A6%AC%EB%A5%BC%20%EC%A7%80%EB%82%98%EB%8A%94%20%ED%8A%B8%EB%9F%AD.cpp)|
+|[더 맵게](https://programmers.co.kr/learn/courses/30/lessons/42626)|Heap|[c++](https://github.com/shunCode/Programmers-CodingTest/blob/master/Level2/%EB%8D%94%20%EB%A7%B5%EA%B2%8C.cpp)|
+|[문자열 압축](https://programmers.co.kr/learn/courses/30/lessons/60057)|String|[c++](https://github.com/shunCode/Programmers-CodingTest/blob/master/Level2/%EB%AC%B8%EC%9E%90%EC%97%B4%20%EC%95%95%EC%B6%95.cpp)|
+|[삼각 달팽이](https://programmers.co.kr/learn/courses/30/lessons/68645)|Implementation|[c++](https://github.com/shunCode/Programmers-CodingTest/blob/master/Level2/%EC%82%BC%EA%B0%81%20%EB%8B%AC%ED%8C%BD%EC%9D%B4.cpp)|
+|[소수 찾기](https://programmers.co.kr/learn/courses/30/lessons/42839)|Brute Force|[c++](https://github.com/shunCode/Programmers-CodingTest/blob/master/Level2/%EC%86%8C%EC%88%98%20%EC%B0%BE%EA%B8%B0.cpp)|
+|[수식 최대화](https://programmers.co.kr/learn/courses/30/lessons/67257)|DFS|[c++](https://github.com/shunCode/Programmers-CodingTest/blob/master/Level2/%EC%88%98%EC%8B%9D%20%EC%B5%9C%EB%8C%80%ED%99%94.cpp)|
+|[스킬트리](https://programmers.co.kr/learn/courses/30/lessons/49993)|String|[c++](https://github.com/shunCode/Programmers-CodingTest/blob/master/Level2/%EC%8A%A4%ED%82%AC%ED%8A%B8%EB%A6%AC.cpp) / [python](https://github.com/shunCode/Programmers-CodingTest/blob/master/Level2/%EC%8A%A4%ED%82%AC%ED%8A%B8%EB%A6%AC.py)|
+|[영어 끝말잇기](https://programmers.co.kr/learn/courses/30/lessons/12981)|Hash|[c++](https://github.com/shunCode/Programmers-CodingTest/blob/master/Level2/%EC%98%81%EC%96%B4%20%EB%81%9D%EB%A7%90%EC%9E%87%EA%B8%B0.cpp) / [python](https://github.com/shunCode/Programmers-CodingTest/blob/master/Level2/%EC%98%81%EC%96%B4%20%EB%81%9D%EB%A7%90%EC%9E%87%EA%B8%B0.py)|
+|[오플채팅방](https://programmers.co.kr/learn/courses/30/lessons/42888)|Hash|[c++](https://github.com/shunCode/Programmers-CodingTest/blob/master/Level2/%EC%98%A4%ED%94%88%EC%B1%84%ED%8C%85%EB%B0%A9.cpp)|
+|[위장](https://programmers.co.kr/learn/courses/30/lessons/42578)|Hash|[c++](https://github.com/shunCode/Programmers-CodingTest/blob/master/Level2/%EC%9C%84%EC%9E%A5.cpp) / [python](https://github.com/shunCode/Programmers-CodingTest/blob/master/Level2/%EC%9C%84%EC%9E%A5.py)|
+|[조이스틱](https://programmers.co.kr/learn/courses/30/lessons/42860)|Greedy|[c++](https://github.com/shunCode/Programmers-CodingTest/blob/master/Level2/%EC%A1%B0%EC%9D%B4%EC%8A%A4%ED%8B%B1.cpp)|
+|[카카오프렌즈 컬러링북](https://github.com/shunCode/Programmers-CodingTest/blob/master/Level2/%EC%B9%B4%EC%B9%B4%EC%98%A4%ED%94%84%EB%A0%8C%EC%A6%88%20%EC%BB%AC%EB%9F%AC%EB%A7%81%EB%B6%81.cpp)|BFS|[c++](https://github.com/shunCode/Programmers-CodingTest/blob/master/Level2/%EC%B9%B4%EC%B9%B4%EC%98%A4%ED%94%84%EB%A0%8C%EC%A6%88%20%EC%BB%AC%EB%9F%AC%EB%A7%81%EB%B6%81.cpp)|
+|[카펫](https://programmers.co.kr/learn/courses/30/lessons/42842)|Brute Force|[c++](https://github.com/shunCode/Programmers-CodingTest/blob/master/Level2/%EC%B9%B4%ED%8E%AB.cpp) / [python](https://github.com/shunCode/Programmers-CodingTest/blob/master/Level2/%EC%B9%B4%ED%8E%AB.py)|
+|[큰 수 만들기](https://github.com/shunCode/Programmers-CodingTest/blob/master/Level2/%ED%81%B0%20%EC%88%98%20%EB%A7%8C%EB%93%A4%EA%B8%B0.cpp)|String|[c++](https://github.com/shunCode/Programmers-CodingTest/blob/master/Level2/%ED%81%B0%20%EC%88%98%20%EB%A7%8C%EB%93%A4%EA%B8%B0.cpp)|
+|[타겟 넘버](https://programmers.co.kr/learn/courses/30/lessons/43165)|DFS|[c++](https://github.com/shunCode/Programmers-CodingTest/blob/master/Level2/%ED%83%80%EA%B2%9F%20%EB%84%98%EB%B2%84.cpp) / [python](https://github.com/shunCode/Programmers-CodingTest/blob/master/Level2/%ED%83%80%EA%B2%9F%20%EB%84%98%EB%B2%84.py)|
+|[프린터](https://programmers.co.kr/learn/courses/30/lessons/42587)|Queue|[c++](https://github.com/shunCode/Programmers-CodingTest/blob/master/Level2/%ED%94%84%EB%A6%B0%ED%84%B0.cpp) / [python](https://github.com/shunCode/Programmers-CodingTest/blob/master/Level2/%ED%94%84%EB%A6%B0%ED%84%B0.py)|

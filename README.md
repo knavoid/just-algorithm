@@ -11,7 +11,7 @@
 
 <br>
 
-<table align="center">
+<table>
   
   
   <tr>
@@ -56,6 +56,30 @@
     <td><a href="https://swexpertacademy.com/main/code/problem/problemDetail.do?passFilterYn=Y&contestProbId=AV5PwGK6AcIDFAUq&categoryId=AV5PwGK6AcIDFAUq&categoryType=CODE&problemTitle=&orderBy=FIRST_REG_DATETIME&selectCodeLang=ALL&select-1=P&pageSize=10&pageIndex=1">조교의 성적 매기기</a></td>
     <td align="center"><a href="https://github.com/knavoid/sw-expert-academy/blob/master/D2/%EC%A1%B0%EA%B5%90%EC%9D%98%20%EC%84%B1%EC%A0%81%20%EB%A7%A4%EA%B8%B0%EA%B8%B0.cpp">C++</a></td>
   </tr>
+  <tr>
+    <td align="center">1959</td>
+    <td><a href="https://swexpertacademy.com/main/code/problem/problemDetail.do?passFilterYn=Y&contestProbId=AV5PpoFaAS4DFAUq&categoryId=AV5PpoFaAS4DFAUq&categoryType=CODE&problemTitle=&orderBy=FIRST_REG_DATETIME&selectCodeLang=ALL&select-1=P&pageSize=10&pageIndex=1">두 개의 숫자열</a></td>
+    <td align="center"><a href="https://github.com/knavoid/sw-expert-academy/blob/master/D2/%EB%91%90%20%EA%B0%9C%EC%9D%98%20%EC%88%AB%EC%9E%90%EC%97%B4.cpp">C++</a></td>
+  </tr>
+  <tr>
+    <td align="center">1974</td>
+    <td><a href="https://swexpertacademy.com/main/code/problem/problemDetail.do?passFilterYn=Y&contestProbId=AV5Psz16AYEDFAUq&categoryId=AV5Psz16AYEDFAUq&categoryType=CODE&problemTitle=&orderBy=FIRST_REG_DATETIME&selectCodeLang=ALL&select-1=P&pageSize=10&pageIndex=1">스도쿠 검증</a></td>
+    <td align="center"><a href="https://github.com/knavoid/sw-expert-academy/blob/master/D2/%EC%8A%A4%EB%8F%84%EC%BF%A0%20%EA%B2%80%EC%A6%9D.cpp">C++</a></td>
+  </tr>
+  <tr>
+    <td align="center">2007</td>
+    <td><a href="https://swexpertacademy.com/main/code/problem/problemDetail.do?passFilterYn=Y&contestProbId=AV5P1kNKAl8DFAUq&categoryId=AV5P1kNKAl8DFAUq&categoryType=CODE&problemTitle=&orderBy=FIRST_REG_DATETIME&selectCodeLang=ALL&select-1=P&pageSize=10&pageIndex=1">패턴 마디의 길이</a></td>
+    <td align="center"><a href="https://github.com/knavoid/sw-expert-academy/blob/master/D2/%ED%8C%A8%ED%84%B4%20%EB%A7%88%EB%94%94%EC%9D%98%20%EA%B8%B8%EC%9D%B4.cpp">C++</a></td>
+  </tr>
   
+  
+  <tr>
+    <td align="center" colspan="3">D3</td>
+  </tr>
+  <tr>
+    <td align="center">10761</td>
+    <td><a href="https://swexpertacademy.com/main/code/problem/problemDetail.do?passFilterYn=Y&contestProbId=AXSVc1TqEAYDFAQT&categoryId=AXSVc1TqEAYDFAQT&categoryType=CODE&problemTitle=&orderBy=FIRST_REG_DATETIME&selectCodeLang=ALL&select-1=P&pageSize=10&pageIndex=1">신뢰</a></td>
+    <td align="center"><a href="https://github.com/knavoid/sw-expert-academy/blob/master/D3/%EC%8B%A0%EB%A2%B0.cpp">C++</a></td>
+  </tr>
   
 </table>

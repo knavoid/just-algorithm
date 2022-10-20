@@ -116,6 +116,24 @@
     <td align="center"><a href="https://github.com/knavoid/sw-expert-academy/blob/master/D1/%EB%8D%94%EB%B8%94%EB%8D%94%EB%B8%94.cpp">C++</a></td>
   	<td align="center">-</td>
   </tr>
+  <tr>
+    <td align="center">2029</td>
+    <td><a href="https://swexpertacademy.com/main/code/problem/problemDetail.do?problemLevel=1&contestProbId=AV5QGNvKAtEDFAUq&categoryId=AV5QGNvKAtEDFAUq&categoryType=CODE&problemTitle=&orderBy=FIRST_REG_DATETIME&selectCodeLang=ALL&select-1=1&pageSize=20&pageIndex=1">몫과 나머지 출력하기</a></td>
+    <td align="center"><a href="https://github.com/knavoid/sw-expert-academy/blob/master/D1/%EB%AA%AB%EA%B3%BC%20%EB%82%98%EB%A8%B8%EC%A7%80%20%EC%B6%9C%EB%A0%A5%ED%95%98%EA%B8%B0.cpp">C++</a></td>
+  	<td align="center">-</td>
+  </tr>
+  <tr>
+    <td align="center">2027</td>
+    <td><a href="https://swexpertacademy.com/main/code/problem/problemDetail.do?problemLevel=1&contestProbId=AV5QFuZ6As0DFAUq&categoryId=AV5QFuZ6As0DFAUq&categoryType=CODE&problemTitle=&orderBy=FIRST_REG_DATETIME&selectCodeLang=ALL&select-1=1&pageSize=20&pageIndex=1">대각선 출력하기</a></td>
+    <td align="center"><a href="https://github.com/knavoid/sw-expert-academy/blob/master/D1/%EB%8C%80%EA%B0%81%EC%84%A0%20%EC%B6%9C%EB%A0%A5%ED%95%98%EA%B8%B0.cpp">C++</a></td>
+  	<td align="center">-</td>
+  </tr>
+  <tr>
+    <td align="center">2025</td>
+    <td><a href="https://swexpertacademy.com/main/code/problem/problemDetail.do?problemLevel=1&contestProbId=AV5QFZtaAscDFAUq&categoryId=AV5QFZtaAscDFAUq&categoryType=CODE&problemTitle=&orderBy=FIRST_REG_DATETIME&selectCodeLang=ALL&select-1=1&pageSize=20&pageIndex=1">N줄덧셈</a></td>
+    <td align="center"><a href="https://github.com/knavoid/sw-expert-academy/blob/master/D1/N%EC%A4%84%EB%8D%A7%EC%85%88.cpp">C++</a></td>
+  	<td align="center">-</td>
+  </tr>
   
   
   
@@ -208,7 +226,24 @@
     <td align="center"><a href="https://github.com/knavoid/sw-expert-academy/blob/master/D2/%EC%B4%88%EC%8B%AC%EC%9E%90%EC%9D%98%20%ED%9A%8C%EB%AC%B8%20%EA%B2%80%EC%82%AC.cpp">C++</a></td>
   	<td align="center">-</td>
   </tr>
-  
+  <tr>
+    <td align="center">1859</td>
+    <td><a href="https://swexpertacademy.com/main/code/problem/problemDetail.do?problemLevel=2&contestProbId=AV5LrsUaDxcDFAXc&categoryId=AV5LrsUaDxcDFAXc&categoryType=CODE&problemTitle=&orderBy=FIRST_REG_DATETIME&selectCodeLang=ALL&select-1=2&pageSize=10&pageIndex=1">백만 장자 프로젝트</a></td>
+    <td align="center"><a href="https://github.com/knavoid/sw-expert-academy/blob/master/D2/%EB%B0%B1%EB%A7%8C%20%EC%9E%A5%EC%9E%90%20%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8.cpp">C++</a></td>
+  	<td align="center">Greedy</td>
+  </tr>
+  <tr>
+    <td align="center">2005</td>
+    <td><a href="https://swexpertacademy.com/main/code/problem/problemDetail.do?problemLevel=2&contestProbId=AV5P0-h6Ak4DFAUq&categoryId=AV5P0-h6Ak4DFAUq&categoryType=CODE&problemTitle=&orderBy=FIRST_REG_DATETIME&selectCodeLang=ALL&select-1=2&pageSize=10&pageIndex=1">파스칼의 삼각형</a></td>
+    <td align="center"><a href="https://github.com/knavoid/sw-expert-academy/blob/master/D2/%ED%8C%8C%EC%8A%A4%EC%B9%BC%EC%9D%98%20%EC%82%BC%EA%B0%81%ED%98%95.cpp">C++</a></td>
+  	<td align="center">-</td>
+  </tr>
+  <tr>
+    <td align="center">1954</td>
+    <td><a href="https://swexpertacademy.com/main/code/problem/problemDetail.do?problemLevel=2&passFilterYn=Y&contestProbId=AV5PobmqAPoDFAUq&categoryId=AV5PobmqAPoDFAUq&categoryType=CODE&problemTitle=&orderBy=FIRST_REG_DATETIME&selectCodeLang=ALL&select-1=P&pageSize=10&pageIndex=2">달팽이 숫자</a></td>
+    <td align="center"><a href="https://github.com/knavoid/sw-expert-academy/blob/master/D2/%EB%8B%AC%ED%8C%BD%EC%9D%B4%20%EC%88%AB%EC%9E%90.cpp">C++</a></td>
+  	<td align="center">-</td>
+  </tr>
   
   
   
@@ -323,6 +358,7 @@
     <td align="center"><a href="https://github.com/knavoid/sw-expert-academy/blob/master/D3/%EC%A4%80%ED%99%8D%EC%9D%B4%EC%9D%98%20%EC%B9%B4%EB%93%9C%EB%86%80%EC%9D%B4.cpp">C++</a></td>
   	<td align="center">Tree Map</td>
   </tr>
+  
   
   
 </table>

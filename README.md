@@ -134,6 +134,18 @@
     <td align="center"><a href="https://github.com/knavoid/sw-expert-academy/blob/master/D1/N%EC%A4%84%EB%8D%A7%EC%85%88.cpp">C++</a></td>
   	<td align="center">-</td>
   </tr>
+  <tr>
+    <td align="center">1933</td>
+    <td><a href="https://swexpertacademy.com/main/code/problem/problemDetail.do?problemLevel=1&contestProbId=AV5PhcWaAKIDFAUq&categoryId=AV5PhcWaAKIDFAUq&categoryType=CODE&problemTitle=&orderBy=FIRST_REG_DATETIME&selectCodeLang=ALL&select-1=1&pageSize=10&pageIndex=2">간단한 N 의 약수</a></td>
+    <td align="center"><a href="https://github.com/knavoid/sw-expert-academy/blob/master/D1/%EA%B0%84%EB%8B%A8%ED%95%9C%20N%20%EC%9D%98%20%EC%95%BD%EC%88%98.cpp">C++</a></td>
+  	<td align="center">-</td>
+  </tr>
+  <tr>
+    <td align="center">1936</td>
+    <td><a href="https://swexpertacademy.com/main/code/problem/problemDetail.do?problemLevel=1&contestProbId=AV5PjKXKALcDFAUq&categoryId=AV5PjKXKALcDFAUq&categoryType=CODE&problemTitle=&orderBy=FIRST_REG_DATETIME&selectCodeLang=ALL&select-1=1&pageSize=10&pageIndex=2">1대1 가위바위보</a></td>
+    <td align="center"><a href="https://github.com/knavoid/sw-expert-academy/blob/master/D1/1%EB%8C%801%20%EA%B0%80%EC%9C%84%EB%B0%94%EC%9C%84%EB%B3%B4.cpp">C++</a></td>
+  	<td align="center">-</td>
+  </tr>
   
   
   
@@ -242,6 +254,24 @@
     <td align="center">1954</td>
     <td><a href="https://swexpertacademy.com/main/code/problem/problemDetail.do?problemLevel=2&passFilterYn=Y&contestProbId=AV5PobmqAPoDFAUq&categoryId=AV5PobmqAPoDFAUq&categoryType=CODE&problemTitle=&orderBy=FIRST_REG_DATETIME&selectCodeLang=ALL&select-1=P&pageSize=10&pageIndex=2">달팽이 숫자</a></td>
     <td align="center"><a href="https://github.com/knavoid/sw-expert-academy/blob/master/D2/%EB%8B%AC%ED%8C%BD%EC%9D%B4%20%EC%88%AB%EC%9E%90.cpp">C++</a></td>
+  	<td align="center">-</td>
+  </tr>
+  <tr>
+    <td align="center">1926</td>
+    <td><a href="https://swexpertacademy.com/main/code/problem/problemDetail.do?problemLevel=2&contestProbId=AV5PTeo6AHUDFAUq&categoryId=AV5PTeo6AHUDFAUq&categoryType=CODE&problemTitle=&orderBy=FIRST_REG_DATETIME&selectCodeLang=ALL&select-1=2&pageSize=10&pageIndex=1">간단한 369게임</a></td>
+    <td align="center"><a href="https://github.com/knavoid/sw-expert-academy/blob/master/D2/%EA%B0%84%EB%8B%A8%ED%95%9C%20369%EA%B2%8C%EC%9E%84.cpp">C++</a></td>
+  	<td align="center">-</td>
+  </tr>
+  <tr>
+    <td align="center">1979</td>
+    <td><a href="https://swexpertacademy.com/main/code/problem/problemDetail.do?problemLevel=2&contestProbId=AV5PuPq6AaQDFAUq&categoryId=AV5PuPq6AaQDFAUq&categoryType=CODE&problemTitle=&orderBy=FIRST_REG_DATETIME&selectCodeLang=ALL&select-1=2&pageSize=10&pageIndex=1">어디에 단어가 들어갈 수 있을까</a></td>
+    <td align="center"><a href="https://github.com/knavoid/sw-expert-academy/blob/master/D2/%EC%96%B4%EB%94%94%EC%97%90%20%EB%8B%A8%EC%96%B4%EA%B0%80%20%EB%93%A4%EC%96%B4%EA%B0%88%20%EC%88%98%20%EC%9E%88%EC%9D%84%EA%B9%8C.cpp">C++</a></td>
+  	<td align="center">-</td>
+  </tr>
+  <tr>
+    <td align="center">1946</td>
+    <td><a href="https://swexpertacademy.com/main/code/problem/problemDetail.do?problemLevel=2&contestProbId=AV5PmkDKAOMDFAUq&categoryId=AV5PmkDKAOMDFAUq&categoryType=CODE&problemTitle=&orderBy=FIRST_REG_DATETIME&selectCodeLang=ALL&select-1=2&pageSize=10&pageIndex=2">간단한 압축 풀기</a></td>
+    <td align="center"><a href="https://github.com/knavoid/sw-expert-academy/blob/master/D2/%EA%B0%84%EB%8B%A8%ED%95%9C%20%EC%95%95%EC%B6%95%20%ED%92%80%EA%B8%B0.cpp">C++</a></td>
   	<td align="center">-</td>
   </tr>
   
@@ -358,7 +388,6 @@
     <td align="center"><a href="https://github.com/knavoid/sw-expert-academy/blob/master/D3/%EC%A4%80%ED%99%8D%EC%9D%B4%EC%9D%98%20%EC%B9%B4%EB%93%9C%EB%86%80%EC%9D%B4.cpp">C++</a></td>
   	<td align="center">Tree Map</td>
   </tr>
-  
   
   
 </table>

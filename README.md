@@ -274,6 +274,12 @@
     <td align="center"><a href="https://github.com/knavoid/sw-expert-academy/blob/master/D2/%EA%B0%84%EB%8B%A8%ED%95%9C%20%EC%95%95%EC%B6%95%20%ED%92%80%EA%B8%B0.cpp">C++</a></td>
   	<td align="center">-</td>
   </tr>
+  <tr>
+    <td align="center">1961</td>
+    <td><a href="https://swexpertacademy.com/main/code/problem/problemDetail.do?problemLevel=2&contestProbId=AV5Pq-OKAVYDFAUq&categoryId=AV5Pq-OKAVYDFAUq&categoryType=CODE&problemTitle=&orderBy=FIRST_REG_DATETIME&selectCodeLang=ALL&select-1=2&pageSize=10&pageIndex=2">숫자 배열 회전</a></td>
+    <td align="center"><a href="https://github.com/knavoid/sw-expert-academy/blob/master/D2/%EC%88%AB%EC%9E%90%20%EB%B0%B0%EC%97%B4%20%ED%9A%8C%EC%A0%84.cpp">C++</a></td>
+  	<td align="center">-</td>
+  </tr>
   
   
   
@@ -387,6 +393,24 @@
     <td><a href="https://swexpertacademy.com/main/code/problem/problemDetail.do?problemLevel=3&passFilterYn=Y&contestProbId=AWkIlHWqBYcDFAXC&categoryId=AWkIlHWqBYcDFAXC&categoryType=CODE&problemTitle=&orderBy=FIRST_REG_DATETIME&selectCodeLang=ALL&select-1=P&pageSize=10&pageIndex=2">준홍이의 카드놀이</a></td>
     <td align="center"><a href="https://github.com/knavoid/sw-expert-academy/blob/master/D3/%EC%A4%80%ED%99%8D%EC%9D%B4%EC%9D%98%20%EC%B9%B4%EB%93%9C%EB%86%80%EC%9D%B4.cpp">C++</a></td>
   	<td align="center">Tree Map</td>
+  </tr>
+  <tr>
+    <td align="center">13428</td>
+    <td><a href="https://swexpertacademy.com/main/code/problem/problemDetail.do?problemLevel=3&contestProbId=AX4EJPs68IkDFARe&categoryId=AX4EJPs68IkDFARe&categoryType=CODE&problemTitle=&orderBy=FIRST_REG_DATETIME&selectCodeLang=ALL&select-1=3&pageSize=10&pageIndex=1">숫자 조작</a></td>
+    <td align="center"><a href="https://github.com/knavoid/sw-expert-academy/blob/master/D3/%EC%88%AB%EC%9E%90%20%EC%A1%B0%EC%9E%91.cpp">C++</a></td>
+  	<td align="center">-</td>
+  </tr>
+  <tr>
+    <td align="center">13218</td>
+    <td><a href="https://swexpertacademy.com/main/code/problem/problemDetail.do?problemLevel=3&contestProbId=AXzjvCCq-PwDFASs&categoryId=AXzjvCCq-PwDFASs&categoryType=CODE&problemTitle=&orderBy=FIRST_REG_DATETIME&selectCodeLang=ALL&select-1=3&pageSize=10&pageIndex=2">조별과제 </a></td>
+    <td align="center"><a href="https://github.com/knavoid/sw-expert-academy/blob/master/D3/%EC%A1%B0%EB%B3%84%EA%B3%BC%EC%A0%9C.cpp">C++</a></td>
+  	<td align="center">-</td>
+  </tr>
+  <tr>
+    <td align="center">12221</td>
+    <td><a href="https://swexpertacademy.com/main/code/problem/problemDetail.do?problemLevel=3&contestProbId=AXpz3dravpQDFATi&categoryId=AXpz3dravpQDFATi&categoryType=CODE&problemTitle=&orderBy=FIRST_REG_DATETIME&selectCodeLang=ALL&select-1=3&pageSize=10&pageIndex=2">구구단2</a></td>
+    <td align="center"><a href="https://github.com/knavoid/sw-expert-academy/blob/master/D3/%EA%B5%AC%EA%B5%AC%EB%8B%A82.cpp">C++</a></td>
+  	<td align="center">-</td>
   </tr>
   
   

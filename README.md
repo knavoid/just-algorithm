@@ -280,6 +280,18 @@
     <td align="center"><a href="https://github.com/knavoid/sw-expert-academy/blob/master/D2/%EC%88%AB%EC%9E%90%20%EB%B0%B0%EC%97%B4%20%ED%9A%8C%EC%A0%84.cpp">C++</a></td>
   	<td align="center">-</td>
   </tr>
+  <tr>
+    <td align="center">1948</td>
+    <td><a href="https://swexpertacademy.com/main/code/problem/problemDetail.do?problemLevel=2&contestProbId=AV5PnnU6AOsDFAUq&categoryId=AV5PnnU6AOsDFAUq&categoryType=CODE&problemTitle=&orderBy=FIRST_REG_DATETIME&selectCodeLang=ALL&select-1=2&pageSize=10&pageIndex=2">날짜 계산기</a></td>
+    <td align="center"><a href="https://github.com/knavoid/sw-expert-academy/blob/master/D2/%EB%82%A0%EC%A7%9C%20%EA%B3%84%EC%82%B0%EA%B8%B0.cpp">C++</a></td>
+  	<td align="center">-</td>
+  </tr>
+  <tr>
+    <td align="center">1945</td>
+    <td><a href="https://swexpertacademy.com/main/code/problem/problemDetail.do?problemLevel=2&contestProbId=AV5Pl0Q6ANQDFAUq&categoryId=AV5Pl0Q6ANQDFAUq&categoryType=CODE&problemTitle=&orderBy=FIRST_REG_DATETIME&selectCodeLang=ALL&select-1=2&pageSize=10&pageIndex=2">간단한 소인수분해</a></td>
+    <td align="center"><a href="https://github.com/knavoid/sw-expert-academy/blob/master/D2/%EA%B0%84%EB%8B%A8%ED%95%9C%20%EC%86%8C%EC%9D%B8%EC%88%98%EB%B6%84%ED%95%B4.cpp">C++</a></td>
+  	<td align="center">-</td>
+  </tr>
   
   
   
@@ -398,7 +410,7 @@
     <td align="center">13428</td>
     <td><a href="https://swexpertacademy.com/main/code/problem/problemDetail.do?problemLevel=3&contestProbId=AX4EJPs68IkDFARe&categoryId=AX4EJPs68IkDFARe&categoryType=CODE&problemTitle=&orderBy=FIRST_REG_DATETIME&selectCodeLang=ALL&select-1=3&pageSize=10&pageIndex=1">숫자 조작</a></td>
     <td align="center"><a href="https://github.com/knavoid/sw-expert-academy/blob/master/D3/%EC%88%AB%EC%9E%90%20%EC%A1%B0%EC%9E%91.cpp">C++</a></td>
-  	<td align="center">-</td>
+  	<td align="center">Greedy</td>
   </tr>
   <tr>
     <td align="center">13218</td>
@@ -410,6 +422,24 @@
     <td align="center">12221</td>
     <td><a href="https://swexpertacademy.com/main/code/problem/problemDetail.do?problemLevel=3&contestProbId=AXpz3dravpQDFATi&categoryId=AXpz3dravpQDFATi&categoryType=CODE&problemTitle=&orderBy=FIRST_REG_DATETIME&selectCodeLang=ALL&select-1=3&pageSize=10&pageIndex=2">구구단2</a></td>
     <td align="center"><a href="https://github.com/knavoid/sw-expert-academy/blob/master/D3/%EA%B5%AC%EA%B5%AC%EB%8B%A82.cpp">C++</a></td>
+  	<td align="center">-</td>
+  </tr>
+  <tr>
+    <td align="center">1491</td>
+    <td><a href="https://swexpertacademy.com/main/code/problem/problemDetail.do?problemLevel=3&contestProbId=AV2b9AkKACkBBASw&categoryId=AV2b9AkKACkBBASw&categoryType=CODE&problemTitle=&orderBy=FIRST_REG_DATETIME&selectCodeLang=ALL&select-1=3&pageSize=10&pageIndex=14">원재의 벽 꾸미기</a></td>
+    <td align="center"><a href="https://github.com/knavoid/sw-expert-academy/blob/master/D3/%EC%9B%90%EC%9E%AC%EC%9D%98%20%EB%B2%BD%20%EA%BE%B8%EB%AF%B8%EA%B8%B0.cpp">C++</a></td>
+  	<td align="center">Brute force</td>
+  </tr>
+  <tr>
+    <td align="center">3260</td>
+    <td><a href="https://swexpertacademy.com/main/code/problem/problemDetail.do?problemLevel=3&contestProbId=AWBC1lOad9IDFAWr&categoryId=AWBC1lOad9IDFAWr&categoryType=CODE&problemTitle=&orderBy=FIRST_REG_DATETIME&selectCodeLang=ALL&select-1=3&pageSize=10&pageIndex=12">두 수의 덧셈</a></td>
+    <td align="center"><a href="https://github.com/knavoid/sw-expert-academy/blob/master/D3/%EB%91%90%20%EC%88%98%EC%9D%98%20%EB%8D%A7%EC%85%88.cpp">C++</a></td>
+  	<td align="center">-</td>
+  </tr>
+  <tr>
+    <td align="center">4751</td>
+    <td><a href="https://swexpertacademy.com/main/code/problem/problemDetail.do?problemLevel=3&contestProbId=AWSNw5jKzwMDFAUr&categoryId=AWSNw5jKzwMDFAUr&categoryType=CODE&problemTitle=&orderBy=FIRST_REG_DATETIME&selectCodeLang=ALL&select-1=3&pageSize=10&pageIndex=10">다솔이의 다이아몬드 장식</a></td>
+    <td align="center"><a href="https://github.com/knavoid/sw-expert-academy/blob/master/D3/%EB%8B%A4%EC%86%94%EC%9D%B4%EC%9D%98%20%EB%8B%A4%EC%9D%B4%EC%95%84%EB%AA%AC%EB%93%9C%20%EC%9E%A5%EC%8B%9D.cpp">C++</a></td>
   	<td align="center">-</td>
   </tr>
   

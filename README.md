@@ -513,5 +513,47 @@
     <td align="center"><a href="https://github.com/knavoid/sw-expert-academy/blob/master/D3/%EC%98%A4%EB%AA%A9%20%ED%8C%90%EC%A0%95.cpp">C++</a></td>
   	<td align="center">Brute force</td>
   </tr>
+  <tr>
+    <td align="center">10200</td>
+    <td><a href="https://swexpertacademy.com/main/code/problem/problemDetail.do?problemLevel=3&contestProbId=AXMCXV_qVgkDFAWv&categoryId=AXMCXV_qVgkDFAWv&categoryType=CODE&problemTitle=&orderBy=FIRST_REG_DATETIME&selectCodeLang=ALL&select-1=3&pageSize=10&pageIndex=4">구독자 전쟁</a></td>
+    <td align="center"><a href="https://github.com/knavoid/sw-expert-academy/blob/master/D3/%EA%B5%AC%EB%8F%85%EC%9E%90%20%EC%A0%84%EC%9F%81.cpp">C++</a></td>
+  	<td align="center">-</td>
+  </tr>
+  <tr>
+    <td align="center">8673</td>
+    <td><a href="https://swexpertacademy.com/main/code/problem/problemDetail.do?problemLevel=3&contestProbId=AW2Jldrqlo4DFASu&categoryId=AW2Jldrqlo4DFASu&categoryType=CODE&problemTitle=&orderBy=FIRST_REG_DATETIME&selectCodeLang=ALL&select-1=3&pageSize=10&pageIndex=6">코딩 토너먼트1</a></td>
+    <td align="center"><a href="https://github.com/knavoid/sw-expert-academy/blob/master/D3/%EC%BD%94%EB%94%A9%20%ED%86%A0%EB%84%88%EB%A8%BC%ED%8A%B81.cpp">C++</a></td>
+  	<td align="center">-</td>
+  </tr>
+  <tr>
+    <td align="center">5789</td>
+    <td><a href="https://swexpertacademy.com/main/code/problem/problemDetail.do?problemLevel=3&contestProbId=AWYygN36Qn8DFAVm&categoryId=AWYygN36Qn8DFAVm&categoryType=CODE&problemTitle=&orderBy=FIRST_REG_DATETIME&selectCodeLang=ALL&select-1=3&pageSize=10&pageIndex=9">현주의 상자 바꾸기</a></td>
+    <td align="center"><a href="https://github.com/knavoid/sw-expert-academy/blob/master/D3/%ED%98%84%EC%A3%BC%EC%9D%98%20%EC%83%81%EC%9E%90%20%EB%B0%94%EA%BE%B8%EA%B8%B0.cpp">C++</a></td>
+  	<td align="center">-</td>
+  </tr>
+  <tr>
+    <td align="center">4698</td>
+    <td><a href="https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWRuoqCKkE0DFAXt&categoryId=AWRuoqCKkE0DFAXt&categoryType=CODE&problemTitle=%ED%85%8C%EB%84%A4%EC%8A%A4&orderBy=FIRST_REG_DATETIME&selectCodeLang=ALL&select-1=&pageSize=10&pageIndex=1">테네스의 특별한 소수</a></td>
+    <td align="center"><a href="https://github.com/knavoid/sw-expert-academy/blob/master/D3/%ED%85%8C%EB%84%A4%EC%8A%A4%EC%9D%98%20%ED%8A%B9%EB%B3%84%ED%95%9C%20%EC%86%8C%EC%88%98.cpp">C++</a></td>
+  	<td align="center">-</td>
+  </tr>
+  <tr>
+    <td align="center">11736</td>
+    <td><a href="https://swexpertacademy.com/main/code/problem/problemDetail.do?problemLevel=3&contestProbId=AXhh-H-KwUcDFARQ&categoryId=AXhh-H-KwUcDFARQ&categoryType=CODE&problemTitle=&orderBy=FIRST_REG_DATETIME&selectCodeLang=ALL&select-1=3&pageSize=10&pageIndex=2">평범한 숫자</a></td>
+    <td align="center"><a href="https://github.com/knavoid/sw-expert-academy/blob/master/D3/%ED%8F%89%EB%B2%94%ED%95%9C%20%EC%88%AB%EC%9E%90.cpp">C++</a></td>
+  	<td align="center">-</td>
+  </tr>
+  <tr>
+    <td align="center">6853</td>
+    <td><a href="https://swexpertacademy.com/main/code/problem/problemDetail.do?problemLevel=3&contestProbId=AWhT_2HKQNADFAW_&categoryId=AWhT_2HKQNADFAW_&categoryType=CODE&problemTitle=&orderBy=FIRST_REG_DATETIME&selectCodeLang=ALL&select-1=3&pageSize=10&pageIndex=8">직사각형과 점</a></td>
+    <td align="center"><a href="https://github.com/knavoid/sw-expert-academy/blob/master/D3/%EC%A7%81%EC%82%AC%EA%B0%81%ED%98%95%EA%B3%BC%20%EC%A0%90.cpp">C++</a></td>
+  	<td align="center">-</td>
+  </tr>
+  <tr>
+    <td align="center">7087</td>
+    <td><a href="https://swexpertacademy.com/main/code/problem/problemDetail.do?problemLevel=3&contestProbId=AWkIdD46A5EDFAXC&categoryId=AWkIdD46A5EDFAXC&categoryType=CODE&problemTitle=&orderBy=FIRST_REG_DATETIME&selectCodeLang=ALL&select-1=3&pageSize=10&pageIndex=8">문제 제목 붙이기</a></td>
+    <td align="center"><a href="https://github.com/knavoid/sw-expert-academy/blob/master/D3/%EB%AC%B8%EC%A0%9C%20%EC%A0%9C%EB%AA%A9%20%EB%B6%99%EC%9D%B4%EA%B8%B0.cpp">C++</a></td>
+  	<td align="center">-</td>
+  </tr>
   
 </table>

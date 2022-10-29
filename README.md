@@ -3,7 +3,6 @@
 [🔗 SW Expert Academy](https://www.swexpertacademy.com)
 
 > [삼성 청년 SW 아카데미](https://www.ssafy.com) 지원을 위한 SW 적성진단 준비
-
 <br>
 
 ## Problems
@@ -596,6 +595,48 @@
     <td><a href="https://swexpertacademy.com/main/code/problem/problemDetail.do?problemLevel=3&contestProbId=AWQmA4uK8ygDFAXj&categoryId=AWQmA4uK8ygDFAXj&categoryType=CODE&problemTitle=&orderBy=FIRST_REG_DATETIME&selectCodeLang=ALL&select-1=3&pageSize=10&pageIndex=11">재미있는 오셀로 게임</a></td>
     <td align="center"><a href="https://github.com/knavoid/sw-expert-academy/blob/master/D3/%EC%9E%AC%EB%AF%B8%EC%9E%88%EB%8A%94%20%EC%98%A4%EC%85%80%EB%A1%9C%20%EA%B2%8C%EC%9E%84.cpp">C++</a></td>
   	<td align="center">Simulation</td>
+  </tr>
+  <tr>
+    <td align="center">10032</td>
+    <td><a href="https://swexpertacademy.com/main/code/problem/problemDetail.do?problemLevel=3&contestProbId=AXJZ6_6KCLcDFAU3&categoryId=AXJZ6_6KCLcDFAU3&categoryType=CODE&problemTitle=&orderBy=FIRST_REG_DATETIME&selectCodeLang=ALL&select-1=3&pageSize=10&pageIndex=4">과자 분배</a></td>
+    <td align="center"><a href="https://github.com/knavoid/sw-expert-academy/blob/master/D3/%EA%B3%BC%EC%9E%90%20%EB%B6%84%EB%B0%B0.cpp">C++</a></td>
+  	<td align="center">-</td>
+  </tr>
+  <tr>
+    <td align="center">9317</td>
+    <td><a href="https://swexpertacademy.com/main/code/problem/problemDetail.do?problemLevel=3&contestProbId=AW-hOY5KeEIDFAVg&categoryId=AW-hOY5KeEIDFAVg&categoryType=CODE&problemTitle=&orderBy=FIRST_REG_DATETIME&selectCodeLang=ALL&select-1=3&pageSize=10&pageIndex=5">석찬이의 받아쓰기</a></td>
+    <td align="center"><a href="https://github.com/knavoid/sw-expert-academy/blob/master/D3/%EC%84%9D%EC%B0%AC%EC%9D%B4%EC%9D%98%20%EB%B0%9B%EC%95%84%EC%93%B0%EA%B8%B0.cpp">C++</a></td>
+  	<td align="center">-</td>
+  </tr>
+  <tr>
+    <td align="center">9480</td>
+    <td><a href="https://swexpertacademy.com/main/code/problem/problemDetail.do?problemLevel=3&contestProbId=AXAdrmW61ssDFAXq&categoryId=AXAdrmW61ssDFAXq&categoryType=CODE&problemTitle=&orderBy=FIRST_REG_DATETIME&selectCodeLang=ALL&select-1=3&pageSize=10&pageIndex=5">민정이와 광직이의 알파벳 공부</a></td>
+    <td align="center"><a href="https://github.com/knavoid/sw-expert-academy/blob/master/D3/%EB%AF%BC%EC%A0%95%EC%9D%B4%EC%99%80%20%EA%B4%91%EC%A7%81%EC%9D%B4%EC%9D%98%20%EC%95%8C%ED%8C%8C%EB%B2%B3%20%EA%B3%B5%EB%B6%80.cpp">C++</a></td>
+  	<td align="center">DFS</td>
+  </tr>
+  <tr>
+    <td align="center">8821</td>
+    <td><a href="https://swexpertacademy.com/main/code/problem/problemDetail.do?problemLevel=3&contestProbId=AW37UDPKCgQDFATy&categoryId=AW37UDPKCgQDFATy&categoryType=CODE&problemTitle=&orderBy=FIRST_REG_DATETIME&selectCodeLang=ALL&select-1=3&pageSize=10&pageIndex=5">적고 지우기</a></td>
+    <td align="center"><a href="https://github.com/knavoid/sw-expert-academy/blob/master/D3/%EC%A0%81%EA%B3%A0%20%EC%A7%80%EC%9A%B0%EA%B8%B0.cpp">C++</a></td>
+  	<td align="center">Set</td>
+  </tr>
+  <tr>
+    <td align="center">9229</td>
+    <td><a href="https://swexpertacademy.com/main/code/problem/problemDetail.do?problemLevel=3&contestProbId=AW8Wj7cqbY0DFAXN&categoryId=AW8Wj7cqbY0DFAXN&categoryType=CODE&problemTitle=&orderBy=FIRST_REG_DATETIME&selectCodeLang=ALL&select-1=3&pageSize=10&pageIndex=5">한빈이와 Spot Mart</a></td>
+    <td align="center"><a href="https://github.com/knavoid/sw-expert-academy/blob/master/D3/%ED%95%9C%EB%B9%88%EC%9D%B4%EC%99%80%20Spot%20Mart.cpp">C++</a></td>
+  	<td align="center">-</td>
+  </tr>
+  <tr>
+    <td align="center">8931</td>
+    <td><a href="https://swexpertacademy.com/main/code/problem/problemDetail.do?problemLevel=3&contestProbId=AW5jBWLq7jwDFATQ&categoryId=AW5jBWLq7jwDFATQ&categoryType=CODE&problemTitle=&orderBy=FIRST_REG_DATETIME&selectCodeLang=ALL&select-1=3&pageSize=10&pageIndex=5">제로 </a></td>
+    <td align="center"><a href="https://github.com/knavoid/sw-expert-academy/blob/master/D3/%EC%A0%9C%EB%A1%9C.cpp">C++</a></td>
+  	<td align="center">-</td>
+  </tr>
+  <tr>
+    <td align="center">8840</td>
+    <td><a href="https://swexpertacademy.com/main/code/problem/problemDetail.do?problemLevel=3&contestProbId=AW4Z8x2KAL8DFAQ7&categoryId=AW4Z8x2KAL8DFAQ7&categoryType=CODE&problemTitle=&orderBy=FIRST_REG_DATETIME&selectCodeLang=ALL&select-1=3&pageSize=10&pageIndex=5">아바바바 </a></td>
+    <td align="center"><a href="https://github.com/knavoid/sw-expert-academy/blob/master/D3/%EC%95%84%EB%B0%94%EB%B0%94%EB%B0%94.cpp">C++</a></td>
+  	<td align="center">-</td>
   </tr>
   
 </table>

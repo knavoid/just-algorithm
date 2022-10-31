@@ -650,5 +650,29 @@
     <td align="center"><a href="https://github.com/knavoid/sw-expert-academy/blob/master/D3/%EC%95%88%EA%B2%BD%EC%9D%B4%20%EC%97%86%EC%96%B4!.cpp">C++</a></td>
   	<td align="center">-</td>
   </tr>
+  <tr>
+    <td align="center">7675</td>
+    <td><a href="https://swexpertacademy.com/main/code/problem/problemDetail.do?problemLevel=3&contestProbId=AWqPvqoqSLQDFAT_&categoryId=AWqPvqoqSLQDFAT_&categoryType=CODE&problemTitle=&orderBy=FIRST_REG_DATETIME&selectCodeLang=ALL&select-1=3&pageSize=10&pageIndex=7">통역사 성경이</a></td>
+    <td align="center"><a href="https://github.com/knavoid/sw-expert-academy/blob/master/D3/%ED%86%B5%EC%97%AD%EC%82%AC%20%EC%84%B1%EA%B2%BD%EC%9D%B4.cpp">C++</a></td>
+  	<td align="center">String</td>
+  </tr>
+  <tr>
+    <td align="center">14555</td>
+    <td><a href="https://swexpertacademy.com/main/code/problem/problemDetail.do?problemLevel=3&contestProbId=AYGtoa3qARcDFARC&categoryId=AYGtoa3qARcDFARC&categoryType=CODE&problemTitle=&orderBy=FIRST_REG_DATETIME&selectCodeLang=ALL&select-1=3&pageSize=10&pageIndex=1">공과 잡초</a></td>
+    <td align="center"><a href="https://github.com/knavoid/sw-expert-academy/blob/master/D3/%EA%B3%B5%EA%B3%BC%20%EC%9E%A1%EC%B4%88.cpp">C++</a></td>
+  	<td align="center">-</td>
+  </tr>
+  <tr>
+    <td align="center">5986</td>
+    <td><a href="https://swexpertacademy.com/main/code/problem/problemDetail.do?problemLevel=3&contestProbId=AWaJ3q8qV-4DFAUQ&categoryId=AWaJ3q8qV-4DFAUQ&categoryType=CODE&problemTitle=&orderBy=FIRST_REG_DATETIME&selectCodeLang=ALL&select-1=3&pageSize=10&pageIndex=9">새샘이와 세 소수</a></td>
+    <td align="center"><a href="https://github.com/knavoid/sw-expert-academy/blob/master/D3/%EC%83%88%EC%83%98%EC%9D%B4%EC%99%80%20%EC%84%B8%20%EC%86%8C%EC%88%98.cpp">C++</a></td>
+  	<td align="center">DFS</td>
+  </tr>
+  <tr>
+    <td align="center">5948</td>
+    <td><a href="https://swexpertacademy.com/main/code/problem/problemDetail.do?problemLevel=3&contestProbId=AWZ2IErKCwUDFAUQ&categoryId=AWZ2IErKCwUDFAUQ&categoryType=CODE&problemTitle=&orderBy=FIRST_REG_DATETIME&selectCodeLang=ALL&select-1=3&pageSize=10&pageIndex=9">새샘이의 7-3-5 게임</a></td>
+    <td align="center"><a href="https://github.com/knavoid/sw-expert-academy/blob/master/D3/%EC%83%88%EC%83%98%EC%9D%B4%EC%9D%98%207-3-5%20%EA%B2%8C%EC%9E%84.cpp">C++</a></td>
+  	<td align="center">Set</td>
+  </tr>
   
 </table>

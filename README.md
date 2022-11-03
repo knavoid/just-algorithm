@@ -414,7 +414,7 @@
     <td align="center">7102</td>
     <td><a href="https://swexpertacademy.com/main/code/problem/problemDetail.do?problemLevel=3&passFilterYn=Y&contestProbId=AWkIlHWqBYcDFAXC&categoryId=AWkIlHWqBYcDFAXC&categoryType=CODE&problemTitle=&orderBy=FIRST_REG_DATETIME&selectCodeLang=ALL&select-1=P&pageSize=10&pageIndex=2">준홍이의 카드놀이</a></td>
     <td align="center"><a href="https://github.com/knavoid/sw-expert-academy/blob/master/D3/%EC%A4%80%ED%99%8D%EC%9D%B4%EC%9D%98%20%EC%B9%B4%EB%93%9C%EB%86%80%EC%9D%B4.cpp">C++</a></td>
-  	<td align="center">Tree Map</td>
+  	<td align="center">Tree map</td>
   </tr>
   <tr>
     <td align="center">13428</td>
@@ -673,6 +673,60 @@
     <td><a href="https://swexpertacademy.com/main/code/problem/problemDetail.do?problemLevel=3&contestProbId=AWZ2IErKCwUDFAUQ&categoryId=AWZ2IErKCwUDFAUQ&categoryType=CODE&problemTitle=&orderBy=FIRST_REG_DATETIME&selectCodeLang=ALL&select-1=3&pageSize=10&pageIndex=9">새샘이의 7-3-5 게임</a></td>
     <td align="center"><a href="https://github.com/knavoid/sw-expert-academy/blob/master/D3/%EC%83%88%EC%83%98%EC%9D%B4%EC%9D%98%207-3-5%20%EA%B2%8C%EC%9E%84.cpp">C++</a></td>
   	<td align="center">Set</td>
+  </tr>
+  <tr>
+    <td align="center">11856</td>
+    <td><a href="https://swexpertacademy.com/main/code/problem/problemDetail.do?problemLevel=3&contestProbId=AXjS1GXqZ8gDFATi&categoryId=AXjS1GXqZ8gDFATi&categoryType=CODE&problemTitle=&orderBy=FIRST_REG_DATETIME&selectCodeLang=ALL&select-1=3&pageSize=10&pageIndex=2">반반</a></td>
+    <td align="center"><a href="https://github.com/knavoid/sw-expert-academy/blob/master/D3/%EB%B0%98%EB%B0%98.cpp">C++</a></td>
+  	<td align="center">Hash map</td>
+  </tr>
+  <tr>
+    <td align="center">13038</td>
+    <td><a href="https://swexpertacademy.com/main/code/problem/problemDetail.do?problemLevel=3&contestProbId=AXxNn6GaPW4DFASZ&categoryId=AXxNn6GaPW4DFASZ&categoryType=CODE&problemTitle=&orderBy=FIRST_REG_DATETIME&selectCodeLang=ALL&select-1=3&pageSize=10&pageIndex=2">교환학생 </a></td>
+    <td align="center"><a href="https://github.com/knavoid/sw-expert-academy/blob/master/D3/%EA%B5%90%ED%99%98%ED%95%99%EC%83%9D.cpp">C++</a></td>
+  	<td align="center">Simulation</td>
+  </tr>
+  <tr>
+    <td align="center">10912</td>
+    <td><a href="https://swexpertacademy.com/main/code/problem/problemDetail.do?problemLevel=3&contestProbId=AXVJuEvqLAADFASe&categoryId=AXVJuEvqLAADFASe&categoryType=CODE&problemTitle=&orderBy=FIRST_REG_DATETIME&selectCodeLang=ALL&select-1=3&pageSize=10&pageIndex=3">외로운 문자</a></td>
+    <td align="center"><a href="https://github.com/knavoid/sw-expert-academy/blob/master/D3/%EC%99%B8%EB%A1%9C%EC%9A%B4%20%EB%AC%B8%EC%9E%90.cpp">C++</a></td>
+  	<td align="center">Tree set</td>
+  </tr>
+  <tr>
+    <td align="center">10570</td>
+    <td><a href="https://swexpertacademy.com/main/code/problem/problemDetail.do?problemLevel=3&contestProbId=AXO72aaqPrcDFAXS&categoryId=AXO72aaqPrcDFAXS&categoryType=CODE&problemTitle=&orderBy=FIRST_REG_DATETIME&selectCodeLang=ALL&select-1=3&pageSize=10&pageIndex=4">제곱 팰린드롬 수</a></td>
+    <td align="center"><a href="https://github.com/knavoid/sw-expert-academy/blob/master/D3/%EC%A0%9C%EA%B3%B1%20%ED%8E%A0%EB%A6%B0%EB%93%9C%EB%A1%AC%20%EC%88%98.cpp">C++</a></td>
+  	<td align="center">-</td>
+  </tr>
+  <tr>
+    <td align="center">9997</td>
+    <td><a href="https://swexpertacademy.com/main/code/problem/problemDetail.do?problemLevel=3&contestProbId=AXIvNBzKapEDFAXR&categoryId=AXIvNBzKapEDFAXR&categoryType=CODE&problemTitle=&orderBy=FIRST_REG_DATETIME&selectCodeLang=ALL&select-1=3&pageSize=10&pageIndex=4">미니멀리즘 시계</a></td>
+    <td align="center"><a href="https://github.com/knavoid/sw-expert-academy/blob/master/D3/%EB%AF%B8%EB%8B%88%EB%A9%80%EB%A6%AC%EC%A6%98%20%EC%8B%9C%EA%B3%84.cpp">C++</a></td>
+  	<td align="center">-</td>
+  </tr>
+  <tr>
+    <td align="center">11387</td>
+    <td><a href="https://swexpertacademy.com/main/code/problem/problemDetail.do?problemLevel=3&contestProbId=AXb6LR76vCcDFARR&categoryId=AXb6LR76vCcDFARR&categoryType=CODE&problemTitle=%EC%82%AC%EB%83%A5&orderBy=FIRST_REG_DATETIME&selectCodeLang=ALL&select-1=3&pageSize=10&pageIndex=1">몬스터 사냥</a></td>
+    <td align="center"><a href="https://github.com/knavoid/sw-expert-academy/blob/master/D3/%EB%AA%AC%EC%8A%A4%ED%84%B0%20%EC%82%AC%EB%83%A5.cpp">C++</a></td>
+  	<td align="center">-</td>
+  </tr>
+  <tr>
+    <td align="center">9940</td>
+    <td><a href="https://swexpertacademy.com/main/code/problem/problemDetail.do?problemLevel=3&contestProbId=AXHx23oq0REDFAXR&categoryId=AXHx23oq0REDFAXR&categoryType=CODE&problemTitle=&orderBy=FIRST_REG_DATETIME&selectCodeLang=ALL&select-1=3&pageSize=10&pageIndex=4">순열1</a></td>
+    <td align="center"><a href="https://github.com/knavoid/sw-expert-academy/blob/master/D3/%EC%88%9C%EC%97%B41.cpp">C++</a></td>
+  	<td align="center">-</td>
+  </tr>
+  <tr>
+    <td align="center">9839</td>
+    <td><a href="https://swexpertacademy.com/main/code/problem/problemDetail.do?problemLevel=3&contestProbId=AXGBGehqPAADFAXR&categoryId=AXGBGehqPAADFAXR&categoryType=CODE&problemTitle=&orderBy=FIRST_REG_DATETIME&selectCodeLang=ALL&select-1=3&pageSize=10&pageIndex=4">최고의 쌍</a></td>
+    <td align="center"><a href="https://github.com/knavoid/sw-expert-academy/blob/master/D3/%EC%B5%9C%EA%B3%A0%EC%9D%98%20%EC%8C%8D.cpp">C++</a></td>
+  	<td align="center">-</td>
+  </tr>
+  <tr>
+    <td align="center">9778</td>
+    <td><a href="https://swexpertacademy.com/main/code/problem/problemDetail.do?problemLevel=3&contestProbId=AXE0YJiK3QcDFAVX&categoryId=AXE0YJiK3QcDFAVX&categoryType=CODE&problemTitle=&orderBy=FIRST_REG_DATETIME&selectCodeLang=ALL&select-1=3&pageSize=10&pageIndex=5">카드 게임</a></td>
+    <td align="center"><a href="https://github.com/knavoid/sw-expert-academy/blob/master/D3/%EC%B9%B4%EB%93%9C%20%EA%B2%8C%EC%9E%84.cpp">C++</a></td>
+  	<td align="center">Simulation</td>
   </tr>
   
 </table>

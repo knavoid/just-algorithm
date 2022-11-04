@@ -728,5 +728,53 @@
     <td align="center"><a href="https://github.com/knavoid/sw-expert-academy/blob/master/D3/%EC%B9%B4%EB%93%9C%20%EA%B2%8C%EC%9E%84.cpp">C++</a></td>
   	<td align="center">Simulation</td>
   </tr>
+  <tr>
+    <td align="center">8888</td>
+    <td><a href="https://swexpertacademy.com/main/code/problem/problemDetail.do?problemLevel=3&contestProbId=AW45RuSae2gDFAQ7&categoryId=AW45RuSae2gDFAQ7&categoryType=CODE&problemTitle=&orderBy=FIRST_REG_DATETIME&selectCodeLang=ALL&select-1=3&pageSize=10&pageIndex=5">시험</a></td>
+    <td align="center"><a href="https://github.com/knavoid/sw-expert-academy/blob/master/D3/%EC%8B%9C%ED%97%98.cpp">C++</a></td>
+  	<td align="center">Sorting</td>
+  </tr>
+  <tr>
+    <td align="center">6718</td>
+    <td><a href="https://swexpertacademy.com/main/code/problem/problemDetail.do?problemLevel=3&contestProbId=AWd7qcdatpEDFAUh&categoryId=AWd7qcdatpEDFAUh&categoryType=CODE&problemTitle=&orderBy=FIRST_REG_DATETIME&selectCodeLang=ALL&select-1=3&pageSize=10&pageIndex=9">희성이의 원근법</a></td>
+    <td align="center"><a href="https://github.com/knavoid/sw-expert-academy/blob/master/D3/%ED%9D%AC%EC%84%B1%EC%9D%B4%EC%9D%98%20%EC%9B%90%EA%B7%BC%EB%B2%95.cpp">C++</a></td>
+  	<td align="center">-</td>
+  </tr>
+  <tr>
+    <td align="center">6692</td>
+    <td><a href="https://swexpertacademy.com/main/code/problem/problemDetail.do?problemLevel=3&contestProbId=AWdXofhKFkADFAWn&categoryId=AWdXofhKFkADFAWn&categoryType=CODE&problemTitle=&orderBy=FIRST_REG_DATETIME&selectCodeLang=ALL&select-1=3&pageSize=10&pageIndex=9">다솔이의 월급 상자</a></td>
+    <td align="center"><a href="https://github.com/knavoid/sw-expert-academy/blob/master/D3/%EB%8B%A4%EC%86%94%EC%9D%B4%EC%9D%98%20%EC%9B%94%EA%B8%89%20%EC%83%81%EC%9E%90.cpp">C++</a></td>
+  	<td align="center">-</td>
+  </tr>
+  <tr>
+    <td align="center">6190</td>
+    <td><a href="https://swexpertacademy.com/main/code/problem/problemDetail.do?problemLevel=3&contestProbId=AWcPjEuKAFgDFAU4&categoryId=AWcPjEuKAFgDFAU4&categoryType=CODE&problemTitle=&orderBy=FIRST_REG_DATETIME&selectCodeLang=ALL&select-1=3&pageSize=10&pageIndex=9">정곤이의 단조 증가하는 수</a></td>
+    <td align="center"><a href="https://github.com/knavoid/sw-expert-academy/blob/master/D3/%EC%A0%95%EA%B3%A4%EC%9D%B4%EC%9D%98%20%EB%8B%A8%EC%A1%B0%20%EC%A6%9D%EA%B0%80%ED%95%98%EB%8A%94%20%EC%88%98.cpp">C++</a></td>
+  	<td align="center">-</td>
+  </tr>
+  <tr>
+    <td align="center">6057</td>
+    <td><a href="https://swexpertacademy.com/main/code/problem/problemDetail.do?problemLevel=3&contestProbId=AWbHcWd6AFcDFAV0&categoryId=AWbHcWd6AFcDFAV0&categoryType=CODE&problemTitle=&orderBy=FIRST_REG_DATETIME&selectCodeLang=ALL&select-1=3&pageSize=10&pageIndex=9">그래프의 삼각형</a></td>
+    <td align="center"><a href="https://github.com/knavoid/sw-expert-academy/blob/master/D3/%EA%B7%B8%EB%9E%98%ED%94%84%EC%9D%98%20%EC%82%BC%EA%B0%81%ED%98%95.cpp">C++</a></td>
+  	<td align="center">Graph</td>
+  </tr>
+  <tr>
+    <td align="center">5688</td>
+    <td><a href="https://swexpertacademy.com/main/code/problem/problemDetail.do?problemLevel=3&contestProbId=AWXVyCaKugQDFAUo&categoryId=AWXVyCaKugQDFAUo&categoryType=CODE&problemTitle=&orderBy=FIRST_REG_DATETIME&selectCodeLang=ALL&select-1=3&pageSize=10&pageIndex=9">세제곱근을 찾아라</a></td>
+    <td align="center"><a href="https://github.com/knavoid/sw-expert-academy/blob/master/D3/%EC%84%B8%EC%A0%9C%EA%B3%B1%EA%B7%BC%EC%9D%84%20%EC%B0%BE%EC%95%84%EB%9D%BC.cpp">C++</a></td>
+  	<td align="center">-</td>
+  </tr>
+  <tr>
+    <td align="center">6808</td>
+    <td><a href="https://swexpertacademy.com/main/code/problem/problemDetail.do?problemLevel=3&contestProbId=AWgv9va6HnkDFAW0&categoryId=AWgv9va6HnkDFAW0&categoryType=CODE&problemTitle=&orderBy=FIRST_REG_DATETIME&selectCodeLang=ALL&select-1=3&pageSize=10&pageIndex=8">규영이와 인영이의 카드게임</a></td>
+    <td align="center"><a href="https://github.com/knavoid/sw-expert-academy/blob/master/D3/%EA%B7%9C%EC%98%81%EC%9D%B4%EC%99%80%20%EC%9D%B8%EC%98%81%EC%9D%B4%EC%9D%98%20%EC%B9%B4%EB%93%9C%EA%B2%8C%EC%9E%84.cpp">C++</a></td>
+  	<td align="center">Permutation</td>
+  </tr>
+  <tr>
+    <td align="center">8658</td>
+    <td><a href="https://swexpertacademy.com/main/code/problem/problemDetail.do?problemLevel=3&contestProbId=AW1lwyh6WPwDFARC&categoryId=AW1lwyh6WPwDFARC&categoryType=CODE&problemTitle=&orderBy=FIRST_REG_DATETIME&selectCodeLang=ALL&select-1=3&pageSize=10&pageIndex=6">Summation </a></td>
+    <td align="center"><a href="https://github.com/knavoid/sw-expert-academy/blob/master/D3/Summation.cpp">C++</a></td>
+  	<td align="center">-</td>
+  </tr>
   
 </table>

@@ -612,7 +612,7 @@
     <td align="center">9480</td>
     <td><a href="https://swexpertacademy.com/main/code/problem/problemDetail.do?problemLevel=3&contestProbId=AXAdrmW61ssDFAXq&categoryId=AXAdrmW61ssDFAXq&categoryType=CODE&problemTitle=&orderBy=FIRST_REG_DATETIME&selectCodeLang=ALL&select-1=3&pageSize=10&pageIndex=5">민정이와 광직이의 알파벳 공부</a></td>
     <td align="center"><a href="https://github.com/knavoid/sw-expert-academy/blob/master/D3/%EB%AF%BC%EC%A0%95%EC%9D%B4%EC%99%80%20%EA%B4%91%EC%A7%81%EC%9D%B4%EC%9D%98%20%EC%95%8C%ED%8C%8C%EB%B2%B3%20%EA%B3%B5%EB%B6%80.cpp">C++</a></td>
-  	<td align="center">DFS</td>
+  	<td align="center">Depth first search</td>
   </tr>
   <tr>
     <td align="center">8821</td>
@@ -666,7 +666,7 @@
     <td align="center">5986</td>
     <td><a href="https://swexpertacademy.com/main/code/problem/problemDetail.do?problemLevel=3&contestProbId=AWaJ3q8qV-4DFAUQ&categoryId=AWaJ3q8qV-4DFAUQ&categoryType=CODE&problemTitle=&orderBy=FIRST_REG_DATETIME&selectCodeLang=ALL&select-1=3&pageSize=10&pageIndex=9">새샘이와 세 소수</a></td>
     <td align="center"><a href="https://github.com/knavoid/sw-expert-academy/blob/master/D3/%EC%83%88%EC%83%98%EC%9D%B4%EC%99%80%20%EC%84%B8%20%EC%86%8C%EC%88%98.cpp">C++</a></td>
-  	<td align="center">DFS</td>
+  	<td align="center">Depth first search</td>
   </tr>
   <tr>
     <td align="center">5948</td>
@@ -804,6 +804,59 @@
     <td align="center">3499</td>
     <td><a href="https://swexpertacademy.com/main/code/problem/problemDetail.do?problemLevel=3&contestProbId=AWGsRbk6AQIDFAVW&categoryId=AWGsRbk6AQIDFAVW&categoryType=CODE&problemTitle=&orderBy=FIRST_REG_DATETIME&selectCodeLang=ALL&select-1=3&pageSize=10&pageIndex=12">퍼펙트 셔플</a></td>
     <td align="center"><a href="https://github.com/knavoid/sw-expert-academy/blob/master/D3/%ED%8D%BC%ED%8E%99%ED%8A%B8%20%EC%85%94%ED%94%8C.cpp">C++</a></td>
+  	<td align="center">-</td>
+  </tr>
+  <tr>
+    <td align="center">15230</td>
+    <td><a href="https://swexpertacademy.com/main/code/problem/problemDetail.do?problemLevel=3&contestProbId=AYLnMQT6vPADFATf&categoryId=AYLnMQT6vPADFATf&categoryType=CODE&problemTitle=&orderBy=FIRST_REG_DATETIME&selectCodeLang=ALL&select-1=3&pageSize=10&pageIndex=1">알파벳 공부</a></td>
+    <td align="center"><a href="https://github.com/knavoid/sw-expert-academy/blob/master/D3/%EC%95%8C%ED%8C%8C%EB%B2%B3%20%EA%B3%B5%EB%B6%80.cpp">C++</a></td>
+  	<td align="center">-</td>
+  </tr>
+  <tr>
+    <td align="center">10804</td>
+    <td><a href="https://swexpertacademy.com/main/code/problem/problemDetail.do?problemLevel=3&contestProbId=AXTC0x16D8EDFASe&categoryId=AXTC0x16D8EDFASe&categoryType=CODE&problemTitle=%EA%B1%B0%EC%9A%B8%EC%83%81&orderBy=FIRST_REG_DATETIME&selectCodeLang=ALL&select-1=3&pageSize=10&pageIndex=1">문자열의 거울상</a></td>
+    <td align="center"><a href="https://github.com/knavoid/sw-expert-academy/blob/master/D3/%EB%AC%B8%EC%9E%90%EC%97%B4%EC%9D%98%20%EA%B1%B0%EC%9A%B8%EC%83%81.cpp">C++</a></td>
+  	<td align="center">-</td>
+  </tr>
+  <tr>
+    <td align="center">3456</td>
+    <td><a href="https://swexpertacademy.com/main/code/problem/problemDetail.do?problemLevel=3&contestProbId=AWFPmsqqALwDFAV0&categoryId=AWFPmsqqALwDFAV0&categoryType=CODE&problemTitle=&orderBy=FIRST_REG_DATETIME&selectCodeLang=ALL&select-1=3&pageSize=10&pageIndex=12">직사각형 길이 찾기</a></td>
+    <td align="center"><a href="https://github.com/knavoid/sw-expert-academy/blob/master/D3/%EC%A7%81%EC%82%AC%EA%B0%81%ED%98%95%20%EA%B8%B8%EC%9D%B4%20%EC%B0%BE%EA%B8%B0.cpp">C++</a></td>
+  	<td align="center">-</td>
+  </tr>
+  <tr>
+    <td align="center">3376</td>
+    <td><a href="https://swexpertacademy.com/main/code/problem/problemDetail.do?problemLevel=3&contestProbId=AWD3Y27q3QIDFAUZ&categoryId=AWD3Y27q3QIDFAUZ&categoryType=CODE&problemTitle=&orderBy=FIRST_REG_DATETIME&selectCodeLang=ALL&select-1=3&pageSize=10&pageIndex=12">파도반 수열</a></td>
+    <td align="center"><a href="https://github.com/knavoid/sw-expert-academy/blob/master/D3/%ED%8C%8C%EB%8F%84%EB%B0%98%20%EC%88%98%EC%97%B4.cpp">C++</a></td>
+  	<td align="center">-</td>
+  </tr>
+  <tr>
+    <td align="center">3809</td>
+    <td><a href="https://swexpertacademy.com/main/code/problem/problemDetail.do?problemLevel=3&contestProbId=AWHz7xD6A20DFAVB&categoryId=AWHz7xD6A20DFAVB&categoryType=CODE&problemTitle=&orderBy=FIRST_REG_DATETIME&selectCodeLang=ALL&select-1=3&pageSize=10&pageIndex=12">화섭이의 정수 나열</a></td>
+    <td align="center"><a href="https://github.com/knavoid/sw-expert-academy/blob/master/D3/%ED%99%94%EC%84%AD%EC%9D%B4%EC%9D%98%20%EC%A0%95%EC%88%98%20%EB%82%98%EC%97%B4.cpp">C++</a></td>
+  	<td align="center">-</td>
+  </tr>
+  <tr>
+    <td align="center">3307</td>
+    <td><a href="https://swexpertacademy.com/main/code/problem/problemDetail.do?problemLevel=3&contestProbId=AWBOKg-a6l0DFAWr&categoryId=AWBOKg-a6l0DFAWr&categoryType=CODE&problemTitle=&orderBy=FIRST_REG_DATETIME&selectCodeLang=ALL&select-1=3&pageSize=10&pageIndex=12">최장 증가 부분 수열</a></td>
+    <td align="center"><a href="https://github.com/knavoid/sw-expert-academy/blob/master/D3/%EC%B5%9C%EC%9E%A5%20%EC%A6%9D%EA%B0%80%20%EB%B6%80%EB%B6%84%20%EC%88%98%EC%97%B4.cpp">C++</a></td>
+  	<td align="center">Dinamic programming</td>
+  </tr><tr>
+    <td align="center">3304</td>
+    <td><a href="https://swexpertacademy.com/main/code/problem/problemDetail.do?problemLevel=3&contestProbId=AWBOHEx66kIDFAWr&categoryId=AWBOHEx66kIDFAWr&categoryType=CODE&problemTitle=&orderBy=FIRST_REG_DATETIME&selectCodeLang=ALL&select-1=3&pageSize=10&pageIndex=12">최장 공통 부분 수열</a></td>
+    <td align="center"><a href="https://github.com/knavoid/sw-expert-academy/blob/master/D3/%EC%B5%9C%EC%9E%A5%20%EA%B3%B5%ED%86%B5%20%EB%B6%80%EB%B6%84%20%EC%88%98%EC%97%B4.cpp">C++</a></td>
+  	<td align="center">Dinamic programming</td>
+  </tr>
+  <tr>
+    <td align="center">3142</td>
+    <td><a href="https://swexpertacademy.com/main/code/problem/problemDetail.do?problemLevel=3&contestProbId=AV_6xWk6sbADFAWS&categoryId=AV_6xWk6sbADFAWS&categoryType=CODE&problemTitle=&orderBy=FIRST_REG_DATETIME&selectCodeLang=ALL&select-1=3&pageSize=10&pageIndex=13">영준이와 신비한 뿔의 숲</a></td>
+    <td align="center"><a href="https://github.com/knavoid/sw-expert-academy/blob/master/D3/%EC%98%81%EC%A4%80%EC%9D%B4%EC%99%80%20%EC%8B%A0%EB%B9%84%ED%95%9C%20%EB%BF%94%EC%9D%98%20%EC%88%B2.cpp">C++</a></td>
+  	<td align="center">-</td>
+  </tr>
+  <tr>
+    <td align="center">5515</td>
+    <td><a href="https://swexpertacademy.com/main/code/problem/problemDetail.do?problemLevel=3&contestProbId=AWWOwecaFrIDFAV4&categoryId=AWWOwecaFrIDFAV4&categoryType=CODE&problemTitle=&orderBy=FIRST_REG_DATETIME&selectCodeLang=ALL&select-1=3&pageSize=10&pageIndex=10">2016년 요일 맞추기</a></td>
+    <td align="center"><a href="https://github.com/knavoid/sw-expert-academy/blob/master/D3/2016%EB%85%84%20%EC%9A%94%EC%9D%BC%20%EB%A7%9E%EC%B6%94%EA%B8%B0.cpp">C++</a></td>
   	<td align="center">-</td>
   </tr>
   

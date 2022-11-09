@@ -919,5 +919,53 @@
     <td align="center"><a href="https://github.com/knavoid/sw-expert-academy/blob/master/D3/%EC%83%81%EC%9B%90%EC%9D%B4%EC%9D%98%20%EC%97%B0%EC%86%8D%20%ED%95%A9.cpp">C++</a></td>
   	<td align="center">Two pointer</td>
   </tr>
+  <tr>
+    <td align="center">9700</td>
+    <td><a href="https://swexpertacademy.com/main/code/problem/problemDetail.do?problemLevel=3&contestProbId=AXDNEA3aaU0DFAVX&categoryId=AXDNEA3aaU0DFAVX&categoryType=CODE&problemTitle=&orderBy=FIRST_REG_DATETIME&selectCodeLang=ALL&select-1=3&pageSize=10&pageIndex=5">USB 꽂기의 미스터리</a></td>
+    <td align="center"><a href="https://github.com/knavoid/sw-expert-academy/blob/master/D3/USB%20%EA%BD%82%EA%B8%B0%EC%9D%98%20%EB%AF%B8%EC%8A%A4%ED%84%B0%EB%A6%AC.cpp">C++</a></td>
+  	<td align="center">-</td>
+  </tr>
+  <tr>
+    <td align="center">7853</td>
+    <td><a href="https://swexpertacademy.com/main/code/problem/problemDetail.do?problemLevel=3&contestProbId=AWttUKkq5hQDFASy&categoryId=AWttUKkq5hQDFASy&categoryType=CODE&problemTitle=&orderBy=FIRST_REG_DATETIME&selectCodeLang=ALL&select-1=3&pageSize=10&pageIndex=7">오타</a></td>
+    <td align="center"><a href="https://github.com/knavoid/sw-expert-academy/blob/master/D3/%EC%98%A4%ED%83%80.cpp">C++</a></td>
+  	<td align="center">Hash set</td>
+  </tr>
+  <tr>
+    <td align="center">7732</td>
+    <td><a href="https://swexpertacademy.com/main/code/problem/problemDetail.do?problemLevel=3&contestProbId=AWrDLM0aRA8DFARG&categoryId=AWrDLM0aRA8DFARG&categoryType=CODE&problemTitle=&orderBy=FIRST_REG_DATETIME&selectCodeLang=ALL&select-1=3&pageSize=10&pageIndex=7">시간 개념</a></td>
+    <td align="center"><a href="https://github.com/knavoid/sw-expert-academy/blob/master/D3/%EC%8B%9C%EA%B0%84%20%EA%B0%9C%EB%85%90.cpp">C++</a></td>
+  	<td align="center">-</td>
+  </tr>
+  <tr>
+    <td align="center">5215</td>
+    <td><a href="https://swexpertacademy.com/main/code/problem/problemDetail.do?problemLevel=3&contestProbId=AWT-lPB6dHUDFAVT&categoryId=AWT-lPB6dHUDFAVT&categoryType=CODE&problemTitle=&orderBy=FIRST_REG_DATETIME&selectCodeLang=ALL&select-1=3&pageSize=10&pageIndex=10">햄버거 다이어트</a></td>
+    <td align="center"><a href="https://github.com/knavoid/sw-expert-academy/blob/master/D3/%ED%96%84%EB%B2%84%EA%B1%B0%20%EB%8B%A4%EC%9D%B4%EC%96%B4%ED%8A%B8.cpp">C++</a></td>
+  	<td align="center">Knapsack problem</td>
+  </tr>
+  <tr>
+    <td align="center">6900</td>
+    <td><a href="https://swexpertacademy.com/main/code/problem/problemDetail.do?problemLevel=3&contestProbId=AWh4FhG6Ei4DFAXp&categoryId=AWh4FhG6Ei4DFAXp&categoryType=CODE&problemTitle=&orderBy=FIRST_REG_DATETIME&selectCodeLang=ALL&select-1=3&pageSize=10&pageIndex=8">주혁이의 복권 당첨</a></td>
+    <td align="center"><a href="https://github.com/knavoid/sw-expert-academy/blob/master/D3/%EC%A3%BC%ED%98%81%EC%9D%B4%EC%9D%98%20%EB%B3%B5%EA%B6%8C%20%EB%8B%B9%EC%B2%A8.cpp">C++</a></td>
+  	<td align="center">-</td>
+  </tr>
+  <tr>
+    <td align="center">7584</td>
+    <td><a href="https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWpMsQfaCPMDFAQi">자가 복제 문자열</a></td>
+    <td align="center"><a href="https://github.com/knavoid/sw-expert-academy/blob/master/D3/%EC%9E%90%EA%B0%80%20%EB%B3%B5%EC%A0%9C%20%EB%AC%B8%EC%9E%90%EC%97%B4.cpp">C++</a></td>
+  	<td align="center">-</td>
+  </tr>
+  <tr>
+    <td align="center">3975</td>
+    <td><a href="https://swexpertacademy.com/main/code/problem/problemDetail.do?problemLevel=3&contestProbId=AWIX_iFqjg4DFAVH&categoryId=AWIX_iFqjg4DFAVH&categoryType=CODE&problemTitle=&orderBy=FIRST_REG_DATETIME&selectCodeLang=ALL&select-1=3&pageSize=10&pageIndex=11">승률 비교하기</a></td>
+    <td align="center"><a href="https://github.com/knavoid/sw-expert-academy/blob/master/D3/%EC%8A%B9%EB%A5%A0%20%EB%B9%84%EA%B5%90%ED%95%98%EA%B8%B0.cpp">C++</a></td>
+  	<td align="center">-</td>
+  </tr>
+  <tr>
+    <td align="center">1493</td>
+    <td><a href="https://swexpertacademy.com/main/code/problem/problemDetail.do?problemLevel=3&contestProbId=AV2b-QGqADMBBASw&categoryId=AV2b-QGqADMBBASw&categoryType=CODE&problemTitle=&orderBy=FIRST_REG_DATETIME&selectCodeLang=ALL&select-1=3&pageSize=10&pageIndex=14">수의 새로운 연산</a></td>
+    <td align="center"><a href="https://github.com/knavoid/sw-expert-academy/blob/master/D3/%EC%88%98%EC%9D%98%20%EC%83%88%EB%A1%9C%EC%9A%B4%20%EC%97%B0%EC%82%B0.cpp">C++</a></td>
+  	<td align="center">-</td>
+  </tr>
   
 </table>

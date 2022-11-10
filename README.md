@@ -941,7 +941,7 @@
     <td align="center">5215</td>
     <td><a href="https://swexpertacademy.com/main/code/problem/problemDetail.do?problemLevel=3&contestProbId=AWT-lPB6dHUDFAVT&categoryId=AWT-lPB6dHUDFAVT&categoryType=CODE&problemTitle=&orderBy=FIRST_REG_DATETIME&selectCodeLang=ALL&select-1=3&pageSize=10&pageIndex=10">햄버거 다이어트</a></td>
     <td align="center"><a href="https://github.com/knavoid/sw-expert-academy/blob/master/D3/%ED%96%84%EB%B2%84%EA%B1%B0%20%EB%8B%A4%EC%9D%B4%EC%96%B4%ED%8A%B8.cpp">C++</a></td>
-  	<td align="center">Knapsack problem</td>
+  	<td align="center">0/1 Knapsack</td>
   </tr>
   <tr>
     <td align="center">6900</td>
@@ -965,6 +965,42 @@
     <td align="center">1493</td>
     <td><a href="https://swexpertacademy.com/main/code/problem/problemDetail.do?problemLevel=3&contestProbId=AV2b-QGqADMBBASw&categoryId=AV2b-QGqADMBBASw&categoryType=CODE&problemTitle=&orderBy=FIRST_REG_DATETIME&selectCodeLang=ALL&select-1=3&pageSize=10&pageIndex=14">수의 새로운 연산</a></td>
     <td align="center"><a href="https://github.com/knavoid/sw-expert-academy/blob/master/D3/%EC%88%98%EC%9D%98%20%EC%83%88%EB%A1%9C%EC%9A%B4%20%EC%97%B0%EC%82%B0.cpp">C++</a></td>
+  	<td align="center">-</td>
+  </tr>
+  <tr>
+    <td align="center">3750</td>
+    <td><a href="https://swexpertacademy.com/main/code/problem/problemDetail.do?problemLevel=3&contestProbId=AWHPiSYKAD0DFAUn&categoryId=AWHPiSYKAD0DFAUn&categoryType=CODE&problemTitle=&orderBy=FIRST_REG_DATETIME&selectCodeLang=ALL&select-1=3&pageSize=10&pageIndex=12">Digit sum</a></td>
+    <td align="center"><a href="https://github.com/knavoid/sw-expert-academy/blob/master/D3/Digit%20sum.cpp">C++</a></td>
+  	<td align="center">-</td>
+  </tr>
+  <tr>
+    <td align="center">3282</td>
+    <td><a href="https://swexpertacademy.com/main/code/problem/problemDetail.do?problemLevel=3&contestProbId=AWBJAVpqrzQDFAWr&categoryId=AWBJAVpqrzQDFAWr&categoryType=CODE&problemTitle=&orderBy=FIRST_REG_DATETIME&selectCodeLang=ALL&select-1=3&pageSize=10&pageIndex=13">0/1 Knapsack</a></td>
+    <td align="center"><a href="https://github.com/knavoid/sw-expert-academy/blob/master/D3/01%20Knapsack.cpp">C++</a></td>
+  	<td align="center">0/1 Knapsack</td>
+  </tr>
+  <tr>
+    <td align="center">3233</td>
+    <td><a href="https://swexpertacademy.com/main/code/problem/problemDetail.do?problemLevel=3&contestProbId=AWAe5G8afT0DFAUw&categoryId=AWAe5G8afT0DFAUw&categoryType=CODE&problemTitle=&orderBy=FIRST_REG_DATETIME&selectCodeLang=ALL&select-1=3&pageSize=10&pageIndex=13">정삼각형 분할 놀이</a></td>
+    <td align="center"><a href="https://github.com/knavoid/sw-expert-academy/blob/master/D3/%EC%A0%95%EC%82%BC%EA%B0%81%ED%98%95%20%EB%B6%84%ED%95%A0%20%EB%86%80%EC%9D%B4.cpp">C++</a></td>
+  	<td align="center">-</td>
+  </tr>
+  <tr>
+    <td align="center">3131</td>
+    <td><a href="https://swexpertacademy.com/main/code/problem/problemDetail.do?problemLevel=3&contestProbId=AV_6mRsasV8DFAWS&categoryId=AV_6mRsasV8DFAWS&categoryType=CODE&problemTitle=&orderBy=FIRST_REG_DATETIME&selectCodeLang=ALL&select-1=3&pageSize=10&pageIndex=13">100만 이하의 모든 소수</a></td>
+    <td align="center"><a href="https://github.com/knavoid/sw-expert-academy/blob/master/D3/100%EB%A7%8C%20%EC%9D%B4%ED%95%98%EC%9D%98%20%EB%AA%A8%EB%93%A0%20%EC%86%8C%EC%88%98.cpp">C++</a></td>
+  	<td align="center">-</td>
+  </tr>
+  <tr>
+    <td align="center">13732</td>
+    <td><a href="https://swexpertacademy.com/main/code/problem/problemDetail.do?problemLevel=3&contestProbId=AX8BAN1qTwoDFARO&categoryId=AX8BAN1qTwoDFARO&categoryType=CODE&problemTitle=&orderBy=FIRST_REG_DATETIME&selectCodeLang=ALL&select-1=3&pageSize=10&pageIndex=1">정사각형 판정</a></td>
+    <td align="center"><a href="https://github.com/knavoid/sw-expert-academy/blob/master/D3/%EC%A0%95%EC%82%AC%EA%B0%81%ED%98%95%20%ED%8C%90%EC%A0%95.cpp">C++</a></td>
+  	<td align="center">-</td>
+  </tr>
+  <tr>
+    <td align="center">12741</td>
+    <td><a href="https://swexpertacademy.com/main/code/problem/problemDetail.do?problemLevel=3&contestProbId=AXuUo_Tqs9kDFARa&categoryId=AXuUo_Tqs9kDFARa&categoryType=CODE&problemTitle=&orderBy=FIRST_REG_DATETIME&selectCodeLang=ALL&select-1=3&pageSize=10&pageIndex=2">두 전구</a></td>
+    <td align="center"><a href="https://github.com/knavoid/sw-expert-academy/blob/master/D3/%EB%91%90%20%EC%A0%84%EA%B5%AC.cpp">C++</a></td>
   	<td align="center">-</td>
   </tr>
   

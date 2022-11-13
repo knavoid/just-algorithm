@@ -1081,5 +1081,35 @@
     <td align="center"><a href="https://github.com/knavoid/sw-expert-academy/blob/master/D3/%EB%AC%B8%EC%9E%90%EC%97%B4%20%EA%B5%90%EC%A7%91%ED%95%A9.cpp">C++</a></td>
   	<td align="center">Hash set</td>
   </tr>
+  <tr>
+    <td align="center">1215</td>
+    <td><a href="https://swexpertacademy.com/main/code/problem/problemDetail.do?problemLevel=3&contestProbId=AV14QpAaAAwCFAYi&categoryId=AV14QpAaAAwCFAYi&categoryType=CODE&problemTitle=&orderBy=FIRST_REG_DATETIME&selectCodeLang=ALL&select-1=3&pageSize=10&pageIndex=15">회문1</a></td>
+    <td align="center"><a href="https://github.com/knavoid/sw-expert-academy/blob/master/D3/%ED%9A%8C%EB%AC%B81.cpp">C++</a></td>
+  	<td align="center">-</td>
+  </tr>
+  <tr>
+    <td align="center">1216</td>
+    <td><a href="https://swexpertacademy.com/main/code/problem/problemDetail.do?problemLevel=3&contestProbId=AV14Rq5aABUCFAYi&categoryId=AV14Rq5aABUCFAYi&categoryType=CODE&problemTitle=&orderBy=FIRST_REG_DATETIME&selectCodeLang=ALL&select-1=3&pageSize=10&pageIndex=15">회문2</a></td>
+    <td align="center"><a href="https://github.com/knavoid/sw-expert-academy/blob/master/D3/%ED%9A%8C%EB%AC%B82.cpp">C++</a></td>
+  	<td align="center">-</td>
+  </tr>
+  <tr>
+    <td align="center">1217</td>
+    <td><a href="https://swexpertacademy.com/main/code/problem/problemDetail.do?problemLevel=3&contestProbId=AV14dUIaAAUCFAYD&categoryId=AV14dUIaAAUCFAYD&categoryType=CODE&problemTitle=&orderBy=FIRST_REG_DATETIME&selectCodeLang=ALL&select-1=3&pageSize=10&pageIndex=15">거듭 제곱</a></td>
+    <td align="center"><a href="https://github.com/knavoid/sw-expert-academy/blob/master/D3/%EA%B1%B0%EB%93%AD%20%EC%A0%9C%EA%B3%B1.cpp">C++</a></td>
+  	<td align="center">-</td>
+  </tr>
+  <tr>
+    <td align="center">1220</td>
+    <td><a href="https://swexpertacademy.com/main/code/problem/problemDetail.do?problemLevel=3&contestProbId=AV14hwZqABsCFAYD&categoryId=AV14hwZqABsCFAYD&categoryType=CODE&problemTitle=&orderBy=FIRST_REG_DATETIME&selectCodeLang=ALL&select-1=3&pageSize=10&pageIndex=15">Magnetic</a></td>
+    <td align="center"><a href="https://github.com/knavoid/sw-expert-academy/blob/master/D3/Magnetic.cpp">C++</a></td>
+  	<td align="center">-</td>
+  </tr>
+  <tr>
+    <td align="center">1221</td>
+    <td><a href="https://swexpertacademy.com/main/code/problem/problemDetail.do?problemLevel=3&contestProbId=AV14jJh6ACYCFAYD&categoryId=AV14jJh6ACYCFAYD&categoryType=CODE&problemTitle=&orderBy=FIRST_REG_DATETIME&selectCodeLang=ALL&select-1=3&pageSize=10&pageIndex=15">GNS</a></td>
+    <td align="center"><a href="https://github.com/knavoid/sw-expert-academy/blob/master/D3/GNS.cpp">C++</a></td>
+  	<td align="center">-</td>
+  </tr>
   
 </table>

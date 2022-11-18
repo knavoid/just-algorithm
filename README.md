@@ -1207,5 +1207,17 @@
     <td align="center"><a href="https://github.com/knavoid/sw-expert-academy/blob/master/D3/%EC%B5%9C%EB%8C%80%20%EC%83%81%EA%B8%88.cpp">C++</a></td>
   	<td align="center">Backtracking</td>
   </tr>
+  <tr>
+    <td align="center">5607</td>
+    <td><a href="https://swexpertacademy.com/main/code/problem/problemDetail.do?problemLevel=3&contestProbId=AWXGKdbqczEDFAUo&categoryId=AWXGKdbqczEDFAUo&categoryType=CODE&problemTitle=&orderBy=FIRST_REG_DATETIME&selectCodeLang=ALL&select-1=3&pageSize=30&pageIndex=6">조합</a></td>
+    <td align="center"><a href="https://github.com/knavoid/sw-expert-academy/blob/master/D3/%EC%A1%B0%ED%95%A9.cpp">C++</a></td>
+  	<td align="center">Math</td>
+  </tr>
+  <tr>
+    <td align="center">10993</td>
+    <td><a href="https://swexpertacademy.com/main/code/problem/problemDetail.do?problemLevel=3&contestProbId=AXXfloFa29EDFAST&categoryId=AXXfloFa29EDFAST&categoryType=CODE&problemTitle=&orderBy=FIRST_REG_DATETIME&selectCodeLang=ALL&select-1=3&pageSize=30&pageIndex=1">군주제와 공화제</a></td>
+    <td align="center"><a href="https://github.com/knavoid/sw-expert-academy/blob/master/D3/%EA%B5%B0%EC%A3%BC%EC%A0%9C%EC%99%80%20%EA%B3%B5%ED%99%94%EC%A0%9C.cpp">C++</a></td>
+  	<td align="center">Union find</td>
+  </tr>
   
 </table>

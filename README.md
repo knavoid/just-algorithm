@@ -1219,5 +1219,11 @@
     <td align="center"><a href="https://github.com/knavoid/sw-expert-academy/blob/master/D3/%EA%B5%B0%EC%A3%BC%EC%A0%9C%EC%99%80%20%EA%B3%B5%ED%99%94%EC%A0%9C.cpp">C++</a></td>
   	<td align="center">Union find</td>
   </tr>
+  <tr>
+    <td align="center">6019</td>
+    <td><a href="https://swexpertacademy.com/main/code/problem/problemDetail.do?problemLevel=3&contestProbId=AWajaTmaZw4DFAWM&categoryId=AWajaTmaZw4DFAWM&categoryType=CODE&problemTitle=&orderBy=FIRST_REG_DATETIME&selectCodeLang=ALL&select-1=3&pageSize=30&pageIndex=3">기차 사이의 파리</a></td>
+    <td align="center"><a href="https://github.com/knavoid/sw-expert-academy/blob/master/D3/%EA%B8%B0%EC%B0%A8%20%EC%82%AC%EC%9D%B4%EC%9D%98%20%ED%8C%8C%EB%A6%AC.cpp">C++</a></td>
+  	<td align="center">-</td>
+  </tr>
   
 </table>

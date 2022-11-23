@@ -75,12 +75,7 @@
   <tr>
     <td><a href="https://school.programmers.co.kr/learn/courses/30/lessons/12977">소수 만들기</a> (Summer/Winter Coding)</td> 
     <td align="center"><a href="https://github.com/knavoid/programmers-coding-test/blob/master/Level1/%EC%86%8C%EC%88%98%20%EB%A7%8C%EB%93%A4%EA%B8%B0.cpp">C++</a> / <a href="https://github.com/knavoid/programmers-coding-test/blob/master/Level1/%EC%86%8C%EC%88%98%20%EB%A7%8C%EB%93%A4%EA%B8%B0.java">Java</a></td>
-  	<td align="center">문제유형</td>
-  </tr>
-  <tr>
-    <td><a href="https://school.programmers.co.kr/learn/courses/30/lessons/76501">음양 더하기</a></td> 
-    <td align="center"><a href="https://github.com/knavoid/programmers-coding-test/blob/master/Level1/%EC%9D%8C%EC%96%91%20%EB%8D%94%ED%95%98%EA%B8%B0.cpp">C++</a> / <a href="https://github.com/knavoid/programmers-coding-test/blob/master/Level1/%EC%9D%8C%EC%96%91%20%EB%8D%94%ED%95%98%EA%B8%B0.java">Java</a></td>
-  	<td align="center">문제유형</td>
+  	<td align="center">Combination</td>
   </tr>
 
 </table>

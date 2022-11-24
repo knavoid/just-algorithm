@@ -77,6 +77,16 @@
     <td align="center"><a href="https://github.com/knavoid/programmers-coding-test/blob/master/Level1/%EC%86%8C%EC%88%98%20%EB%A7%8C%EB%93%A4%EA%B8%B0.cpp">C++</a> / <a href="https://github.com/knavoid/programmers-coding-test/blob/master/Level1/%EC%86%8C%EC%88%98%20%EB%A7%8C%EB%93%A4%EA%B8%B0.java">Java</a></td>
   	<td align="center">Combination</td>
   </tr>
+  <tr>
+    <td><a href="https://school.programmers.co.kr/learn/courses/30/lessons/81301">숫자 문자열과 영단어</a> (2021 KAKAO)</td> 
+    <td align="center"><a href="https://github.com/knavoid/programmers-coding-test/blob/master/Level1/%EC%88%AB%EC%9E%90%20%EB%AC%B8%EC%9E%90%EC%97%B4%EA%B3%BC%20%EC%98%81%EB%8B%A8%EC%96%B4.cpp">C++</a> / <a href="https://github.com/knavoid/programmers-coding-test/blob/master/Level1/%EC%88%AB%EC%9E%90%20%EB%AC%B8%EC%9E%90%EC%97%B4%EA%B3%BC%20%EC%98%81%EB%8B%A8%EC%96%B4.java">Java</a></td>
+  	<td align="center">Regular expression</td>
+  </tr>
+  <tr>
+    <td><a href="https://school.programmers.co.kr/learn/courses/30/lessons/92334">신고 결과 받기</a> (2022 KAKAO)</td> 
+    <td align="center"><a href="https://github.com/knavoid/programmers-coding-test/blob/master/Level1/%EC%8B%A0%EA%B3%A0%20%EA%B2%B0%EA%B3%BC%20%EB%B0%9B%EA%B8%B0.cpp">C++</a></td>
+  	<td align="center">Hash map</td>
+  </tr>
 
 </table>
 

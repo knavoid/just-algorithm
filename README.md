@@ -93,6 +93,11 @@
     <td align="center"><a href="https://github.com/knavoid/programmers-coding-test/blob/master/C%2B%2B/Level1/%EC%84%B1%EA%B2%A9%20%EC%9C%A0%ED%98%95%20%EA%B2%80%EC%82%AC%ED%95%98%EA%B8%B0.cpp">C++</a> / <a href="https://github.com/knavoid/programmers-coding-test/blob/master/Java/Level1/%EC%84%B1%EA%B2%A9%20%EC%9C%A0%ED%98%95%20%EA%B2%80%EC%82%AC%ED%95%98%EA%B8%B0.java">Java</a></td>
   	<td align="center">Hash map</td>
   </tr>
+  <tr>
+    <td><a href="https://school.programmers.co.kr/learn/courses/30/lessons/133499">옹알이</a></td> 
+    <td align="center"><a href="https://github.com/knavoid/programmers-coding-test/blob/master/C%2B%2B/Level1/%EC%98%B9%EC%95%8C%EC%9D%B4.cpp">C++</a> / <a href="https://github.com/knavoid/programmers-coding-test/blob/master/Java/Level1/%EC%98%B9%EC%95%8C%EC%9D%B4.java">Java</a></td>
+  	<td align="center">String</td>
+  </tr>
 
 </table>
 
@@ -228,6 +233,11 @@
     <td align="center"><a href="https://github.com/shunCode/Programmers-CodingTest/blob/master/C%2B%2B/Level2/%ED%94%84%EB%A6%B0%ED%84%B0.cpp">C++</a> / <a href="https://github.com/shunCode/Programmers-CodingTest/blob/master/Python/Level2/%ED%94%84%EB%A6%B0%ED%84%B0.py">Python</a></td>
   	<td align="center">Queue</td>
   </tr>
+  <tr>
+    <td><a href="https://school.programmers.co.kr/learn/courses/30/lessons/87946">피로도</a></td> 
+    <td align="center"><a href="https://github.com/knavoid/programmers-coding-test/blob/master/C%2B%2B/Level2/%ED%94%BC%EB%A1%9C%EB%8F%84.cpp">C++</a> / <a href="https://github.com/knavoid/programmers-coding-test/blob/master/Java/Level2/%ED%94%BC%EB%A1%9C%EB%8F%84.java">Java</a></td>
+  	<td align="center">Brute force</td>
+  </tr>
  
 </table>
 
@@ -344,16 +354,3 @@
   </tr>
   
 </table>
-
-
-  <tr>
-    <td><a href="문제링크">문제제목</a></td> 
-    <td align="center"><a href="풀이링크">C++</a></td>
-  	<td align="center">문제유형</td>
-  </tr>
-  
-  <tr>
-    <td><a href="문제링크">문제제목</a></td> 
-    <td align="center"><a href="풀이링크">C++</a> / <a href="풀이링크">Java</a></td>
-  	<td align="center">문제유형</td>
-  </tr>

@@ -108,6 +108,11 @@
     <td align="center"><a href="https://github.com/knavoid/programmers-coding-test/blob/master/C%2B%2B/Level1/%EA%B3%BC%EC%9D%BC%20%EC%9E%A5%EC%88%98.cpp">C++</a> / <a href="https://github.com/knavoid/programmers-coding-test/blob/master/Java/Level1/%EA%B3%BC%EC%9D%BC%20%EC%9E%A5%EC%88%98.java">Java</a></td>
   	<td align="center">Sorting</td>
   </tr>
+  <tr>
+    <td><a href="https://school.programmers.co.kr/learn/courses/30/lessons/133502">햄버거 만들기</a></td> 
+    <td align="center"><a href="https://github.com/knavoid/programmers-coding-test/blob/master/C%2B%2B/Level1/%ED%96%84%EB%B2%84%EA%B1%B0%20%EB%A7%8C%EB%93%A4%EA%B8%B0.cpp">C++</a> / <a href="https://github.com/knavoid/programmers-coding-test/blob/master/Java/Level1/%ED%96%84%EB%B2%84%EA%B1%B0%20%EB%A7%8C%EB%93%A4%EA%B8%B0.java">Java</a></td>
+  	<td align="center">String</td>
+  </tr>
 
 </table>
 
@@ -257,6 +262,11 @@
     <td><a href="https://school.programmers.co.kr/learn/courses/30/lessons/138476">귤 고르기</a></td> 
     <td align="center"><a href="https://github.com/knavoid/programmers-coding-test/blob/master/C%2B%2B/Level2/%EA%B7%A4%20%EA%B3%A0%EB%A5%B4%EA%B8%B0.cpp">C++</a> / <a href="https://github.com/knavoid/programmers-coding-test/blob/master/Java/Level2/%EA%B7%A4%20%EA%B3%A0%EB%A5%B4%EA%B8%B0.java">Java</a></td>
   	<td align="center">Hash map</td>
+  </tr>
+  <tr>
+    <td><a href="https://school.programmers.co.kr/learn/courses/30/lessons/135807">숫자 카드 나누기</a></td> 
+    <td align="center"><a href="https://github.com/knavoid/programmers-coding-test/blob/master/C%2B%2B/Level2/%EC%88%AB%EC%9E%90%20%EC%B9%B4%EB%93%9C%20%EB%82%98%EB%88%84%EA%B8%B0.cpp">C++</a> / <a href="https://github.com/knavoid/programmers-coding-test/blob/master/Java/Level2/%EC%88%AB%EC%9E%90%20%EC%B9%B4%EB%93%9C%20%EB%82%98%EB%88%84%EA%B8%B0.java">Java</a></td>
+  	<td align="center">Math</td>
   </tr>
  
 </table>

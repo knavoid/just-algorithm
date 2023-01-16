@@ -1295,6 +1295,12 @@
     <td align="center"><a href="https://github.com/knavoid/sw-expert-academy/blob/master/D4/%EA%B3%84%EC%82%B0%EA%B8%B03.cpp">C++</a></td>
   	<td align="center">Stack</td>
   </tr>
+  <tr>
+    <td align="center">3234</td>
+    <td><a href="https://swexpertacademy.com/main/code/problem/problemDetail.do?problemLevel=4&contestProbId=AWAe7XSKfUUDFAUw&categoryId=AWAe7XSKfUUDFAUw&categoryType=CODE&problemTitle=%EC%A0%80%EC%9A%B8&orderBy=FIRST_REG_DATETIME&selectCodeLang=ALL&select-1=4&pageSize=10&pageIndex=1">준환이의 양팔저울</a></td>
+    <td align="center"><a href="https://github.com/knavoid/sw-expert-academy/blob/master/D4/%EC%A4%80%ED%99%98%EC%9D%B4%EC%9D%98%20%EC%96%91%ED%8C%94%EC%A0%80%EC%9A%B8.cpp">C++</a></td>
+  	<td align="center">Backtracking</td>
+  </tr>
   
   
   

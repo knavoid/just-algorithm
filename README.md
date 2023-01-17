@@ -15,7 +15,7 @@
   <tr>
     <th align="center" width="100">NO.</th>
     <th align="center" width="250">Problem</th>
-    <th align="center" width="100">Solution</th>
+    <th align="center" width="150">Solution</th>
     <th align="center" width="250">Remarks</th>
   </tr>
   
@@ -1027,7 +1027,7 @@
   <tr>
     <td align="center">2806</td>
     <td><a href="https://swexpertacademy.com/main/code/problem/problemDetail.do?problemLevel=3&contestProbId=AV7GKs06AU0DFAXB&categoryId=AV7GKs06AU0DFAXB&categoryType=CODE&problemTitle=&orderBy=FIRST_REG_DATETIME&selectCodeLang=ALL&select-1=3&pageSize=10&pageIndex=14">N-Queen</a></td>
-    <td align="center"><a href="https://github.com/knavoid/sw-expert-academy/blob/master/D3/N-Queen.cpp">C++</a></td>
+    <td align="center"><a href="https://github.com/knavoid/sw-expert-academy/blob/master/D3/N-Queen.cpp">C++</a> / <a href="https://github.com/knavoid/sw-expert-academy/blob/master/D3/N-Queen.java">Java</a></td>
   	<td align="center">Depth first search</td>
   </tr>
   <tr>

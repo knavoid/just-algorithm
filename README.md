@@ -925,7 +925,7 @@
   <tr>
     <td align="center">7853</td>
     <td><a href="https://swexpertacademy.com/main/code/problem/problemDetail.do?problemLevel=3&contestProbId=AWttUKkq5hQDFASy&categoryId=AWttUKkq5hQDFASy&categoryType=CODE&problemTitle=&orderBy=FIRST_REG_DATETIME&selectCodeLang=ALL&select-1=3&pageSize=10&pageIndex=7">오타</a></td>
-    <td align="center"><a href="https://github.com/knavoid/sw-expert-academy/blob/master/D3/%EC%98%A4%ED%83%80.cpp">C++</a></td>
+    <td align="center"><a href="https://github.com/knavoid/sw-expert-academy/blob/master/D3/%EC%98%A4%ED%83%80.cpp">C++</a> / <a href="https://github.com/knavoid/sw-expert-academy/blob/master/D3/%EC%98%A4%ED%83%80.java">Java</a></td>
   	<td align="center">Hash set</td>
   </tr>
   <tr>
@@ -937,7 +937,7 @@
   <tr>
     <td align="center">5215</td>
     <td><a href="https://swexpertacademy.com/main/code/problem/problemDetail.do?problemLevel=3&contestProbId=AWT-lPB6dHUDFAVT&categoryId=AWT-lPB6dHUDFAVT&categoryType=CODE&problemTitle=&orderBy=FIRST_REG_DATETIME&selectCodeLang=ALL&select-1=3&pageSize=10&pageIndex=10">햄버거 다이어트</a></td>
-    <td align="center"><a href="https://github.com/knavoid/sw-expert-academy/blob/master/D3/%ED%96%84%EB%B2%84%EA%B1%B0%20%EB%8B%A4%EC%9D%B4%EC%96%B4%ED%8A%B8.cpp">C++</a></td>
+    <td align="center"><a href="https://github.com/knavoid/sw-expert-academy/blob/master/D3/%ED%96%84%EB%B2%84%EA%B1%B0%20%EB%8B%A4%EC%9D%B4%EC%96%B4%ED%8A%B8.cpp">C++</a> / <a href="https://github.com/knavoid/sw-expert-academy/blob/master/D3/%ED%96%84%EB%B2%84%EA%B1%B0%20%EB%8B%A4%EC%9D%B4%EC%96%B4%ED%8A%B8.java">Java</a></td>
   	<td align="center">0/1 Knapsack</td>
   </tr>
   <tr>
@@ -1207,7 +1207,7 @@
   <tr>
     <td align="center">1244</td>
     <td><a href="https://swexpertacademy.com/main/code/problem/problemDetail.do?problemLevel=3&passFilterYn=Y&contestProbId=AV15Khn6AN0CFAYD&categoryId=AV15Khn6AN0CFAYD&categoryType=CODE&problemTitle=%EC%B5%9C%EB%8C%80+%EC%83%81%EA%B8%88&orderBy=FIRST_REG_DATETIME&selectCodeLang=ALL&select-1=P&pageSize=10&pageIndex=1">최대 상금</a></td>
-    <td align="center"><a href="https://github.com/knavoid/sw-expert-academy/blob/master/D3/%EC%B5%9C%EB%8C%80%20%EC%83%81%EA%B8%88.cpp">C++</a></td>
+    <td align="center"><a href="https://github.com/knavoid/sw-expert-academy/blob/master/D3/%EC%B5%9C%EB%8C%80%20%EC%83%81%EA%B8%88.cpp">C++</a> / <a href="https://github.com/knavoid/sw-expert-academy/blob/master/D3/%EC%B5%9C%EB%8C%80%20%EC%83%81%EA%B8%88.java">Java</a></td>
   	<td align="center">Backtracking</td>
   </tr>
   <tr>

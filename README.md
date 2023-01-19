@@ -1301,6 +1301,19 @@
     <td align="center"><a href="https://github.com/knavoid/sw-expert-academy/blob/master/D4/%EC%A4%80%ED%99%98%EC%9D%B4%EC%9D%98%20%EC%96%91%ED%8C%94%EC%A0%80%EC%9A%B8.cpp">C++</a></td>
   	<td align="center">Backtracking</td>
   </tr>
+  <tr>
+    <td align="center">1231</td>
+    <td><a href="https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV140YnqAIECFAYD&categoryId=AV140YnqAIECFAYD&categoryType=CODE&problemTitle=S%2FW&orderBy=FIRST_REG_DATETIME&selectCodeLang=ALL&select-1=&pageSize=10&pageIndex=3">중위순회</a></td>
+    <td align="center"><a href="https://github.com/knavoid/sw-expert-academy/blob/master/D4/%EC%A4%91%EC%9C%84%EC%88%9C%ED%9A%8C.cpp">C++</a></td>
+  	<td align="center">Tree</td>
+  </tr>
+  <tr>
+    <td align="center">1232</td>
+    <td><a href="https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV141J8KAIcCFAYD&categoryId=AV141J8KAIcCFAYD&categoryType=CODE&problemTitle=S%2FW&orderBy=FIRST_REG_DATETIME&selectCodeLang=ALL&select-1=&pageSize=10&pageIndex=3">사칙연산</a></td>
+    <td align="center"><a href="https://github.com/knavoid/sw-expert-academy/blob/master/D4/%EC%82%AC%EC%B9%99%EC%97%B0%EC%82%B0.cpp">C++</a></td>
+  	<td align="center">Tree</td>
+  </tr>
+  
   
   
   

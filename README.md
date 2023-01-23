@@ -1350,6 +1350,12 @@
     <td align="center"><a href="https://github.com/knavoid/sw-expert-academy/blob/master/D5/%EA%B3%B5%ED%86%B5%EC%A1%B0%EC%83%81.cpp">C++</a></td>
   	<td align="center">Tree</td>
   </tr>
+  <tr>
+    <td align="center">1256</td>
+    <td><a href="https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV18GHd6IskCFAZN&categoryId=AV18GHd6IskCFAZN&categoryType=CODE&problemTitle=%EC%A0%91%EB%AF%B8%EC%96%B4&orderBy=FIRST_REG_DATETIME&selectCodeLang=ALL&select-1=&pageSize=10&pageIndex=1">K번째 접미어</a></td>
+    <td align="center"><a href="https://github.com/knavoid/sw-expert-academy/blob/master/D5/K%EB%B2%88%EC%A7%B8%20%EC%A0%91%EB%AF%B8%EC%96%B4.cpp">C++</a></td>
+  	<td align="center">-</td>
+  </tr>
 
   
 </table>

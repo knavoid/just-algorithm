@@ -1,1 +1,1 @@
-# Algorithm Solution
+# JUST ALGORITHM!

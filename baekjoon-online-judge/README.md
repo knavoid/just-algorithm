@@ -21,6 +21,12 @@
   </tr>
   
   <tr>
+    <td align="center">1874</td>
+    <td><a href="https://www.acmicpc.net/problem/1874">스택 수열</a></td>
+    <td align="center"><a href="https://github.com/knavoid/just-algorithm/blob/main/baekjoon-online-judge/Java/1874.java">Java</a></td>
+  	<td align="center">-</td>
+  </tr>
+  <tr>
     <td align="center">2609</td>
     <td><a href="https://www.acmicpc.net/problem/2609">최대공약수와 최소공배수</a></td>
     <td align="center"><a href="https://github.com/knavoid/just-algorithm/blob/main/baekjoon-online-judge/C%2B%2B/2609.cpp">C++</a></td>
@@ -30,6 +36,12 @@
     <td align="center">3190</td>
     <td><a href="https://www.acmicpc.net/problem/3190">뱀</a></td>
     <td align="center"><a href="https://github.com/knavoid/just-algorithm/blob/main/baekjoon-online-judge/Java/3190.java">Java</a></td>
+  	<td align="center">-</td>
+  </tr>
+  <tr>
+    <td align="center">9251</td>
+    <td><a href="https://www.acmicpc.net/problem/9251">LCS</a></td>
+    <td align="center"><a href="https://github.com/knavoid/just-algorithm/blob/main/baekjoon-online-judge/Java/9251.java">Java</a></td>
   	<td align="center">-</td>
   </tr>
   

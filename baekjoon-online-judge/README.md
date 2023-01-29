@@ -21,6 +21,12 @@
   </tr>
   
   <tr>
+    <td align="center">1107</td>
+    <td><a href="https://www.acmicpc.net/problem/1107">리모컨</a></td>
+    <td align="center"><a href="https://github.com/knavoid/just-algorithm/blob/main/baekjoon-online-judge/Java/1107.java">Java</a></td>
+  	<td align="center">Brute force</td>
+  </tr>
+  <tr>
     <td align="center">1132</td>
     <td><a href="https://www.acmicpc.net/problem/1132">합</a></td>
     <td align="center"><a href="https://github.com/knavoid/just-algorithm/blob/main/baekjoon-online-judge/Java/1132.java">Java</a></td>

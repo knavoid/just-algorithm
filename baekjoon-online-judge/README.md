@@ -33,10 +33,22 @@
   	<td align="center">-</td>
   </tr>
   <tr>
+    <td align="center">1644</td>
+    <td><a href="https://www.acmicpc.net/problem/1644">소수의 연속합</a></td>
+    <td align="center"><a href="https://github.com/knavoid/just-algorithm/blob/main/baekjoon-online-judge/C%2B%2B/1644.cpp">C++</a></td>
+  	<td align="center">Sieve of Eratosthenes</td>
+  </tr>
+  <tr>
     <td align="center">1874</td>
     <td><a href="https://www.acmicpc.net/problem/1874">스택 수열</a></td>
     <td align="center"><a href="https://github.com/knavoid/just-algorithm/blob/main/baekjoon-online-judge/Java/1874.java">Java</a></td>
   	<td align="center">Stack</td>
+  </tr>
+  <tr>
+    <td align="center">2003</td>
+    <td><a href="https://www.acmicpc.net/problem/2003">수들의 합 2</a></td>
+    <td align="center"><a href="https://github.com/knavoid/just-algorithm/blob/main/baekjoon-online-judge/C%2B%2B/2003.cpp">C++</a></td>
+  	<td align="center">-</td>
   </tr>
   <tr>
     <td align="center">2609</td>

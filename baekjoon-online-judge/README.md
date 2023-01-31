@@ -51,6 +51,12 @@
   	<td align="center">-</td>
   </tr>
   <tr>
+    <td align="center">2470</td>
+    <td><a href="https://www.acmicpc.net/problem/2470">두 용액</a></td>
+    <td align="center"><a href="https://github.com/knavoid/just-algorithm/blob/main/baekjoon-online-judge/Java/2470.java">Java</a></td>
+  	<td align="center">-</td>
+  </tr>
+  <tr>
     <td align="center">2609</td>
     <td><a href="https://www.acmicpc.net/problem/2609">최대공약수와 최소공배수</a></td>
     <td align="center"><a href="https://github.com/knavoid/just-algorithm/blob/main/baekjoon-online-judge/C%2B%2B/2609.cpp">C++</a></td>
@@ -73,6 +79,12 @@
     <td><a href="https://www.acmicpc.net/problem/9251">LCS</a></td>
     <td align="center"><a href="https://github.com/knavoid/just-algorithm/blob/main/baekjoon-online-judge/Java/9251.java">Java</a></td>
   	<td align="center">Dynamic programming</td>
+  </tr>
+  <tr>
+    <td align="center">14699</td>
+    <td><a href="https://www.acmicpc.net/problem/14699">관악산 등산</a></td>
+    <td align="center"><a href="https://github.com/knavoid/just-algorithm/blob/main/baekjoon-online-judge/Java/14699.java">Java</a></td>
+  	<td align="center">-</td>
   </tr>
   
   

@@ -21,6 +21,12 @@
   </tr>
   
   <tr>
+    <td align="center">1068</td>
+    <td><a href="https://www.acmicpc.net/problem/1068">트리</a></td>
+    <td align="center"><a href="https://github.com/knavoid/just-algorithm/blob/main/baekjoon-online-judge/C%2B%2B/1068.java">Java</a></td>
+  	<td align="center">Tree</td>
+  </tr>
+  <tr>
     <td align="center">1107</td>
     <td><a href="https://www.acmicpc.net/problem/1107">리모컨</a></td>
     <td align="center"><a href="https://github.com/knavoid/just-algorithm/blob/main/baekjoon-online-judge/Java/1107.java">Java</a></td>
@@ -30,13 +36,19 @@
     <td align="center">1132</td>
     <td><a href="https://www.acmicpc.net/problem/1132">합</a></td>
     <td align="center"><a href="https://github.com/knavoid/just-algorithm/blob/main/baekjoon-online-judge/Java/1132.java">Java</a></td>
-  	<td align="center">-</td>
+  	<td align="center">Implementation</td>
   </tr>
   <tr>
     <td align="center">1644</td>
     <td><a href="https://www.acmicpc.net/problem/1644">소수의 연속합</a></td>
     <td align="center"><a href="https://github.com/knavoid/just-algorithm/blob/main/baekjoon-online-judge/C%2B%2B/1644.cpp">C++</a></td>
   	<td align="center">Sieve of Eratosthenes</td>
+  </tr>
+  <tr>
+    <td align="center">1780</td>
+    <td><a href="https://www.acmicpc.net/problem/1780">종이의 개수</a></td>
+    <td align="center"><a href="https://github.com/knavoid/just-algorithm/blob/main/baekjoon-online-judge/C%2B%2B/1780.java">Java</a></td>
+  	<td align="center">-</td>
   </tr>
   <tr>
     <td align="center">1874</td>
@@ -54,7 +66,7 @@
     <td align="center">2470</td>
     <td><a href="https://www.acmicpc.net/problem/2470">두 용액</a></td>
     <td align="center"><a href="https://github.com/knavoid/just-algorithm/blob/main/baekjoon-online-judge/Java/2470.java">Java</a></td>
-  	<td align="center">-</td>
+  	<td align="center">Sorting</td>
   </tr>
   <tr>
     <td align="center">2609</td>
@@ -84,7 +96,7 @@
     <td align="center">14699</td>
     <td><a href="https://www.acmicpc.net/problem/14699">관악산 등산</a></td>
     <td align="center"><a href="https://github.com/knavoid/just-algorithm/blob/main/baekjoon-online-judge/Java/14699.java">Java</a></td>
-  	<td align="center">-</td>
+  	<td align="center">Dynamic programming</td>
   </tr>
   
   

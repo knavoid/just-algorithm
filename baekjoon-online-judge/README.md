@@ -23,7 +23,7 @@
   <tr>
     <td align="center">1068</td>
     <td><a href="https://www.acmicpc.net/problem/1068">트리</a></td>
-    <td align="center"><a href="https://github.com/knavoid/just-algorithm/blob/main/baekjoon-online-judge/C%2B%2B/1068.java">Java</a></td>
+    <td align="center"><a href="https://github.com/knavoid/just-algorithm/blob/main/baekjoon-online-judge/Java/1068.java">Java</a></td>
   	<td align="center">Tree</td>
   </tr>
   <tr>
@@ -47,7 +47,7 @@
   <tr>
     <td align="center">1780</td>
     <td><a href="https://www.acmicpc.net/problem/1780">종이의 개수</a></td>
-    <td align="center"><a href="https://github.com/knavoid/just-algorithm/blob/main/baekjoon-online-judge/C%2B%2B/1780.java">Java</a></td>
+    <td align="center"><a href="https://github.com/knavoid/just-algorithm/blob/main/baekjoon-online-judge/Java/1780.java">Java</a></td>
   	<td align="center">-</td>
   </tr>
   <tr>
@@ -62,6 +62,12 @@
     <td align="center"><a href="https://github.com/knavoid/just-algorithm/blob/main/baekjoon-online-judge/C%2B%2B/2003.cpp">C++</a></td>
   	<td align="center">-</td>
   </tr>
+  <tr>
+    <td align="center">2014</td>
+    <td><a href="https://www.acmicpc.net/problem/2014">소수의 곱</a></td>
+    <td align="center"><a href="https://github.com/knavoid/just-algorithm/blob/main/baekjoon-online-judge/C%2B%2B/2014.java">Java</a></td>
+  	<td align="center">Heap</td>
+  </tr>  
   <tr>
     <td align="center">2470</td>
     <td><a href="https://www.acmicpc.net/problem/2470">두 용액</a></td>
@@ -84,6 +90,12 @@
     <td align="center">3190</td>
     <td><a href="https://www.acmicpc.net/problem/3190">뱀</a></td>
     <td align="center"><a href="https://github.com/knavoid/just-algorithm/blob/main/baekjoon-online-judge/Java/3190.java">Java</a></td>
+  	<td align="center">-</td>
+  </tr>
+  <tr>
+    <td align="center">3273</td>
+    <td><a href="https://www.acmicpc.net/problem/3273">두 수의 합</a></td>
+    <td align="center"><a href="https://github.com/knavoid/just-algorithm/blob/main/baekjoon-online-judge/C%2B%2B/3273.cpp">C++</a></td>
   	<td align="center">-</td>
   </tr>
   <tr>

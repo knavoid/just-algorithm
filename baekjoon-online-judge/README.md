@@ -110,6 +110,18 @@
     <td align="center"><a href="https://github.com/knavoid/just-algorithm/blob/main/baekjoon-online-judge/Java/14699.java">Java</a></td>
   	<td align="center">Dynamic programming</td>
   </tr>
+  <tr>
+    <td align="center">15684</td>
+    <td><a href="https://www.acmicpc.net/problem/15684">사다리 조작</a></td>
+    <td align="center"><a href="https://github.com/knavoid/just-algorithm/blob/main/baekjoon-online-judge/C%2B%2B/15684.cpp">C++</a></td>
+  	<td align="center">Backtracking</td>
+  </tr>
+  <tr>
+    <td align="center">16236</td>
+    <td><a href="https://www.acmicpc.net/problem/16236">아기 상어</a></td>
+    <td align="center"><a href="https://github.com/knavoid/just-algorithm/blob/main/baekjoon-online-judge/C%2B%2B/16236.cpp">C++</a></td>
+  	<td align="center">Breadth first search</td>
+  </tr>
   
   
 </table>

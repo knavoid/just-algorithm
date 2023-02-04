@@ -122,6 +122,18 @@
     <td align="center"><a href="https://github.com/knavoid/just-algorithm/blob/main/baekjoon-online-judge/C%2B%2B/16236.cpp">C++</a></td>
   	<td align="center">Breadth first search</td>
   </tr>
+  <tr>
+    <td align="center">17070</td>
+    <td><a href="https://www.acmicpc.net/problem/17070">파이프 옮기기 1</a></td>
+    <td align="center"><a href="https://github.com/knavoid/just-algorithm/blob/main/baekjoon-online-judge/C%2B%2B/17070.cpp">C++</a></td>
+  	<td align="center">Depth first search</td>
+  </tr>
+  <tr>
+    <td align="center">19236</td>
+    <td><a href="https://www.acmicpc.net/problem/19236">청소년 상어</a></td>
+    <td align="center"><a href="https://github.com/knavoid/just-algorithm/blob/main/baekjoon-online-judge/C%2B%2B/19236.cpp">C++</a></td>
+  	<td align="center">Depth first search</td>
+  </tr>
   
   
 </table>

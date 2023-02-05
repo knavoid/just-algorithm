@@ -39,6 +39,12 @@
   	<td align="center">Implementation</td>
   </tr>
   <tr>
+    <td align="center">1422</td>
+    <td><a href="https://www.acmicpc.net/problem/1422">숫자의 신</a></td>
+    <td align="center"><a href="https://github.com/knavoid/just-algorithm/blob/main/baekjoon-online-judge/C%2B%2B/1422.cpp">C++</a></td>
+  	<td align="center">Sorting</td>
+  </tr>
+  <tr>
     <td align="center">1644</td>
     <td><a href="https://www.acmicpc.net/problem/1644">소수의 연속합</a></td>
     <td align="center"><a href="https://github.com/knavoid/just-algorithm/blob/main/baekjoon-online-judge/C%2B%2B/1644.cpp">C++</a></td>
@@ -121,6 +127,12 @@
     <td><a href="https://www.acmicpc.net/problem/16236">아기 상어</a></td>
     <td align="center"><a href="https://github.com/knavoid/just-algorithm/blob/main/baekjoon-online-judge/C%2B%2B/16236.cpp">C++</a></td>
   	<td align="center">Breadth first search</td>
+  </tr>
+  <tr>
+    <td align="center">16637</td>
+    <td><a href="https://www.acmicpc.net/problem/16637">괄호 추가하기</a></td>
+    <td align="center"><a href="https://github.com/knavoid/just-algorithm/blob/main/baekjoon-online-judge/C%2B%2B/16637.cpp">C++</a></td>
+  	<td align="center">Depth first search</td>
   </tr>
   <tr>
     <td align="center">17070</td>

@@ -51,6 +51,12 @@
   	<td align="center">Sieve of Eratosthenes</td>
   </tr>
   <tr>
+    <td align="center">1747</td>
+    <td><a href="https://www.acmicpc.net/problem/1747">소수&팰린드롬</a></td>
+    <td align="center"><a href="https://github.com/knavoid/just-algorithm/blob/main/baekjoon-online-judge/Java/1747.java">Java</a></td>
+  	<td align="center">Sieve of Eratosthenes</td>
+  </tr>
+  <tr>
     <td align="center">1780</td>
     <td><a href="https://www.acmicpc.net/problem/1780">종이의 개수</a></td>
     <td align="center"><a href="https://github.com/knavoid/just-algorithm/blob/main/baekjoon-online-judge/Java/1780.java">Java</a></td>
@@ -111,6 +117,12 @@
   	<td align="center">Dynamic programming</td>
   </tr>
   <tr>
+    <td align="center">11729</td>
+    <td><a href="https://www.acmicpc.net/problem/11729">하노이 탑 이동 순서</a></td>
+    <td align="center"><a href="https://github.com/knavoid/just-algorithm/blob/main/baekjoon-online-judge/Java/11729.java">Java</a></td>
+  	<td align="center">Recursion</td>
+  </tr>
+  <tr>
     <td align="center">14699</td>
     <td><a href="https://www.acmicpc.net/problem/14699">관악산 등산</a></td>
     <td align="center"><a href="https://github.com/knavoid/just-algorithm/blob/main/baekjoon-online-judge/Java/14699.java">Java</a></td>
@@ -139,6 +151,12 @@
     <td><a href="https://www.acmicpc.net/problem/17070">파이프 옮기기 1</a></td>
     <td align="center"><a href="https://github.com/knavoid/just-algorithm/blob/main/baekjoon-online-judge/C%2B%2B/17070.cpp">C++</a></td>
   	<td align="center">Depth first search</td>
+  </tr>
+  <tr>
+    <td align="center">17478</td>
+    <td><a href="https://www.acmicpc.net/problem/17478">재귀함수가 뭔가요?</a></td>
+    <td align="center"><a href="https://github.com/knavoid/just-algorithm/blob/main/baekjoon-online-judge/Java/17478.java">Java</a></td>
+  	<td align="center">-</td>
   </tr>
   <tr>
     <td align="center">19236</td>

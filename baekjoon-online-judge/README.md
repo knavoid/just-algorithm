@@ -39,6 +39,12 @@
   	<td align="center">Implementation</td>
   </tr>
   <tr>
+    <td align="center">1244</td>
+    <td><a href="https://www.acmicpc.net/problem/1244">스위치 켜고 끄기</a></td>
+    <td align="center"><a href="https://github.com/knavoid/just-algorithm/blob/main/baekjoon-online-judge/Java/1244.java">Java</a></td>
+  	<td align="center">-</td>
+  </tr>
+  <tr>
     <td align="center">1422</td>
     <td><a href="https://www.acmicpc.net/problem/1422">숫자의 신</a></td>
     <td align="center"><a href="https://github.com/knavoid/just-algorithm/blob/main/baekjoon-online-judge/C%2B%2B/1422.cpp">C++</a></td>
@@ -77,9 +83,9 @@
   <tr>
     <td align="center">2014</td>
     <td><a href="https://www.acmicpc.net/problem/2014">소수의 곱</a></td>
-    <td align="center"><a href="https://github.com/knavoid/just-algorithm/blob/main/baekjoon-online-judge/C%2B%2B/2014.java">Java</a></td>
+    <td align="center"><a href="https://github.com/knavoid/just-algorithm/blob/main/baekjoon-online-judge/Java/2014.java">Java</a></td>
   	<td align="center">Heap</td>
-  </tr>  
+  </tr>
   <tr>
     <td align="center">2470</td>
     <td><a href="https://www.acmicpc.net/problem/2470">두 용액</a></td>
@@ -97,6 +103,12 @@
     <td><a href="https://www.acmicpc.net/problem/2644">촌수계산</a></td>
     <td align="center"><a href="https://github.com/knavoid/just-algorithm/blob/main/baekjoon-online-judge/Java/2644.java">Java</a></td>
   	<td align="center">Graph</td>
+  </tr>
+  <tr>
+    <td align="center">2805</td>
+    <td><a href="https://www.acmicpc.net/problem/2805">나무 자르기</a></td>
+    <td align="center"><a href="https://github.com/knavoid/just-algorithm/blob/main/baekjoon-online-judge/Java/2805.java">Java</a></td>
+  	<td align="center">-</td>
   </tr>
   <tr>
     <td align="center">3190</td>
@@ -133,6 +145,12 @@
     <td><a href="https://www.acmicpc.net/problem/15684">사다리 조작</a></td>
     <td align="center"><a href="https://github.com/knavoid/just-algorithm/blob/main/baekjoon-online-judge/C%2B%2B/15684.cpp">C++</a></td>
   	<td align="center">Backtracking</td>
+  </tr>
+  <tr>
+    <td align="center">15649</td>
+    <td><a href="https://www.acmicpc.net/problem/15649">N과 M (1)</a></td>
+    <td align="center"><a href="https://github.com/knavoid/just-algorithm/blob/main/baekjoon-online-judge/Java/15649.java">Java</a></td>
+  	<td align="center">-</td>
   </tr>
   <tr>
     <td align="center">16236</td>

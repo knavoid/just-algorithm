@@ -75,6 +75,12 @@
   	<td align="center">Stack</td>
   </tr>
   <tr>
+    <td align="center">1916</td>
+    <td><a href="https://www.acmicpc.net/problem/1916">최소비용 구하기</a></td>
+    <td align="center"><a href="https://github.com/knavoid/just-algorithm/blob/main/baekjoon-online-judge/Java/1916.java">Java</a></td>
+  	<td align="center">Dijkstra</td>
+  </tr>
+  <tr>
     <td align="center">2003</td>
     <td><a href="https://www.acmicpc.net/problem/2003">수들의 합 2</a></td>
     <td align="center"><a href="https://github.com/knavoid/just-algorithm/blob/main/baekjoon-online-judge/C%2B%2B/2003.cpp">C++</a></td>
@@ -156,6 +162,12 @@
     <td align="center">15649</td>
     <td><a href="https://www.acmicpc.net/problem/15649">N과 M (1)</a></td>
     <td align="center"><a href="https://github.com/knavoid/just-algorithm/blob/main/baekjoon-online-judge/Java/15649.java">Java</a></td>
+  	<td align="center">-</td>
+  </tr>
+  <tr>
+    <td align="center">15650</td>
+    <td><a href="https://www.acmicpc.net/problem/15650">N과 M (2)</a></td>
+    <td align="center"><a href="https://github.com/knavoid/just-algorithm/blob/main/baekjoon-online-judge/Java/15650.java">Java</a></td>
   	<td align="center">-</td>
   </tr>
   <tr>

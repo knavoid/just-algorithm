@@ -117,6 +117,12 @@
   	<td align="center">-</td>
   </tr>
   <tr>
+    <td align="center">2879</td>
+    <td><a href="https://www.acmicpc.net/problem/2879">코딩은 예쁘게</a></td>
+    <td align="center"><a href="https://github.com/knavoid/just-algorithm/blob/main/baekjoon-online-judge/Java/2879.java">Java</a></td>
+  	<td align="center">Greedy</td>
+  </tr>
+  <tr>
     <td align="center">2961</td>
     <td><a href="https://www.acmicpc.net/problem/2961">도영이가 만든 맛있는 음식</a></td>
     <td align="center"><a href="https://github.com/knavoid/just-algorithm/blob/main/baekjoon-online-judge/Java/2961.java">Java</a></td>
@@ -157,6 +163,12 @@
     <td><a href="https://www.acmicpc.net/problem/11729">하노이 탑 이동 순서</a></td>
     <td align="center"><a href="https://github.com/knavoid/just-algorithm/blob/main/baekjoon-online-judge/Java/11729.java">Java</a></td>
   	<td align="center">Recursion</td>
+  </tr>
+  <tr>
+    <td align="center">12891</td>
+    <td><a href="https://www.acmicpc.net/problem/12891">DNA 비밀번호</a></td>
+    <td align="center"><a href="https://github.com/knavoid/just-algorithm/blob/main/baekjoon-online-judge/Java/12891.java">Java</a></td>
+  	<td align="center">Sliding window</td>
   </tr>
   <tr>
     <td align="center">14699</td>

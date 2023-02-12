@@ -93,6 +93,12 @@
   	<td align="center">Heap</td>
   </tr>
   <tr>
+    <td align="center">2023</td>
+    <td><a href="https://www.acmicpc.net/problem/2023">신기한 소수</a></td>
+    <td align="center"><a href="https://github.com/knavoid/just-algorithm/blob/main/baekjoon-online-judge/Java/2014.2023">Java</a></td>
+  	<td align="center">Math, Backtracking</td>
+  </tr>
+  <tr>
     <td align="center">2470</td>
     <td><a href="https://www.acmicpc.net/problem/2470">두 용액</a></td>
     <td align="center"><a href="https://github.com/knavoid/just-algorithm/blob/main/baekjoon-online-judge/Java/2470.java">Java</a></td>

@@ -81,6 +81,12 @@
   	<td align="center">Dijkstra</td>
   </tr>
   <tr>
+    <td align="center">1937</td>
+    <td><a href="https://www.acmicpc.net/problem/1937">욕심쟁이 판다</a></td>
+    <td align="center"><a href="https://github.com/knavoid/just-algorithm/blob/main/baekjoon-online-judge/C%2B%2B/1937.cpp">C++</a></td>
+  	<td align="center">Greedy</td>
+  </tr>
+  <tr>
     <td align="center">2003</td>
     <td><a href="https://www.acmicpc.net/problem/2003">수들의 합 2</a></td>
     <td align="center"><a href="https://github.com/knavoid/just-algorithm/blob/main/baekjoon-online-judge/C%2B%2B/2003.cpp">C++</a></td>
@@ -95,7 +101,7 @@
   <tr>
     <td align="center">2023</td>
     <td><a href="https://www.acmicpc.net/problem/2023">신기한 소수</a></td>
-    <td align="center"><a href="https://github.com/knavoid/just-algorithm/blob/main/baekjoon-online-judge/Java/2014.2023">Java</a></td>
+    <td align="center"><a href="https://github.com/knavoid/just-algorithm/blob/main/baekjoon-online-judge/Java/2023.java">Java</a></td>
   	<td align="center">Math, Backtracking</td>
   </tr>
   <tr>

@@ -231,6 +231,18 @@
   	<td align="center">Depth first search</td>
   </tr>
   <tr>
+    <td align="center">16926</td>
+    <td><a href="https://www.acmicpc.net/problem/16926">배열 돌리기 1</a></td>
+    <td align="center"><a href="https://github.com/knavoid/just-algorithm/blob/main/baekjoon-online-judge/Java/16926.java">Java</a></td>
+  	<td align="center">Implementation</td>
+  </tr>
+  <tr>
+    <td align="center">16927</td>
+    <td><a href="https://www.acmicpc.net/problem/16927">배열 돌리기 2</a></td>
+    <td align="center"><a href="https://github.com/knavoid/just-algorithm/blob/main/baekjoon-online-judge/Java/16927.java">Java</a></td>
+  	<td align="center">Implementation</td>
+  </tr>
+  <tr>
     <td align="center">17070</td>
     <td><a href="https://www.acmicpc.net/problem/17070">파이프 옮기기 1</a></td>
     <td align="center"><a href="https://github.com/knavoid/just-algorithm/blob/main/baekjoon-online-judge/C%2B%2B/17070.cpp">C++</a></td>

@@ -102,7 +102,7 @@
     <td align="center">2014</td>
     <td><a href="https://www.acmicpc.net/problem/2014">소수의 곱</a></td>
     <td align="center"><a href="https://github.com/knavoid/just-algorithm/blob/main/baekjoon-online-judge/Java/2014.java">Java</a></td>
-  	<td align="center">Heap</td>
+  	<td align="center">Priority queue</td>
   </tr>
   <tr>
     <td align="center">2023</td>
@@ -153,6 +153,12 @@
   	<td align="center">Brute force</td>
   </tr>
   <tr>
+    <td align="center">2992</td>
+    <td><a href="https://www.acmicpc.net/problem/2992">크면서 작은 수</a></td>
+    <td align="center"><a href="https://github.com/knavoid/just-algorithm/blob/main/baekjoon-online-judge/Java/2992.java">Java</a></td>
+  	<td align="center">Brute force</td>
+  </tr>
+  <tr>
     <td align="center">3190</td>
     <td><a href="https://www.acmicpc.net/problem/3190">뱀</a></td>
     <td align="center"><a href="https://github.com/knavoid/just-algorithm/blob/main/baekjoon-online-judge/Java/3190.java">Java</a></td>
@@ -169,6 +175,12 @@
     <td><a href="https://www.acmicpc.net/problem/9251">LCS</a></td>
     <td align="center"><a href="https://github.com/knavoid/just-algorithm/blob/main/baekjoon-online-judge/Java/9251.java">Java</a></td>
   	<td align="center">Dynamic programming</td>
+  </tr>
+  <tr>
+    <td align="center">11286</td>
+    <td><a href="https://www.acmicpc.net/problem/11286">절댓값 힙</a></td>
+    <td align="center"><a href="https://github.com/knavoid/just-algorithm/blob/main/baekjoon-online-judge/Java/11286.java">Java</a></td>
+  	<td align="center">Priority queue</td>
   </tr>
   <tr>
     <td align="center">11659</td>

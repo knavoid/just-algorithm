@@ -1,27 +1,20 @@
 #include <iostream>
-#include <string>
 
 using namespace std;
 
+int T, N, M;
+
 int main() {
 
-	int T;
 	cin >> T;
-
-	for (int t = 1; t <= T; t++) {
-		string answer = "ON";
-		int N, M;
+	for (int tc = 1; tc <= T; tc++) {
+		// initialize
 		cin >> N >> M;
 
-		for (int i = 0; i < N; i++) {
-			if (M % 2 == 0) {
-				answer = "OFF";
-				break;
-			}
-			M /= 2;
-		}
-
-		cout << '#' << t << ' ' << answer << '\n';
+		// result
+		int b = (1 << N) - 1;
+		cout << '#' << tc << ' ';
+		b == (b & M) ? cout << "ON\n" : cout << "OFF\n";
 	}
 
 	return 0;

@@ -159,10 +159,16 @@
   	<td align="center">Brute force</td>
   </tr>
   <tr>
+    <td align="center">3040</td>
+    <td><a href="https://www.acmicpc.net/problem/3040">백설 공주와 일곱 난쟁이</a></td>
+    <td align="center"><a href="https://github.com/knavoid/just-algorithm/blob/main/baekjoon-online-judge/Java/3040.java">Java</a></td>
+  	<td align="center">Brute force</td>
+  </tr>
+  <tr>
     <td align="center">3190</td>
     <td><a href="https://www.acmicpc.net/problem/3190">뱀</a></td>
     <td align="center"><a href="https://github.com/knavoid/just-algorithm/blob/main/baekjoon-online-judge/Java/3190.java">Java</a></td>
-  	<td align="center">-</td>
+  	<td align="center">Implementation</td>
   </tr>
   <tr>
     <td align="center">3273</td>
@@ -225,6 +231,12 @@
   	<td align="center">-</td>
   </tr>
   <tr>
+    <td align="center">15686</td>
+    <td><a href="https://www.acmicpc.net/problem/15686">치킨 배달</a></td>
+    <td align="center"><a href="https://github.com/knavoid/just-algorithm/blob/main/baekjoon-online-judge/Java/15686.java">Java</a></td>
+  	<td align="center">Brute force</td>
+  </tr>
+  <tr>
     <td align="center">15684</td>
     <td><a href="https://www.acmicpc.net/problem/15684">사다리 조작</a></td>
     <td align="center"><a href="https://github.com/knavoid/just-algorithm/blob/main/baekjoon-online-judge/C%2B%2B/15684.cpp">C++</a></td>
@@ -235,6 +247,12 @@
     <td><a href="https://www.acmicpc.net/problem/16236">아기 상어</a></td>
     <td align="center"><a href="https://github.com/knavoid/just-algorithm/blob/main/baekjoon-online-judge/C%2B%2B/16236.cpp">C++</a></td>
   	<td align="center">Breadth first search</td>
+  </tr>
+  <tr>
+    <td align="center">16435</td>
+    <td><a href="https://www.acmicpc.net/problem/16435">스네이크버드</a></td>
+    <td align="center"><a href="https://github.com/knavoid/just-algorithm/blob/main/baekjoon-online-judge/Java/16435.java">Java</a></td>
+  	<td align="center">Greedy</td>
   </tr>
   <tr>
     <td align="center">16637</td>

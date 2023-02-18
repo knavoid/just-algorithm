@@ -135,6 +135,12 @@
   	<td align="center">Graph</td>
   </tr>
   <tr>
+    <td align="center">2667</td>
+    <td><a href="https://www.acmicpc.net/problem/2667">단지번호붙이기</a></td>
+    <td align="center"><a href="https://github.com/knavoid/just-algorithm/blob/main/baekjoon-online-judge/Java/2667.java">Java</a></td>
+  	<td align="center">Breadth first search</td>
+  </tr>
+  <tr>
     <td align="center">2805</td>
     <td><a href="https://www.acmicpc.net/problem/2805">나무 자르기</a></td>
     <td align="center"><a href="https://github.com/knavoid/just-algorithm/blob/main/baekjoon-online-judge/Java/2805.java">Java</a></td>
@@ -180,6 +186,12 @@
     <td align="center">9251</td>
     <td><a href="https://www.acmicpc.net/problem/9251">LCS</a></td>
     <td align="center"><a href="https://github.com/knavoid/just-algorithm/blob/main/baekjoon-online-judge/Java/9251.java">Java</a></td>
+  	<td align="center">Dynamic programming</td>
+  </tr>
+  <tr>
+    <td align="center">10164</td>
+    <td><a href="https://www.acmicpc.net/problem/10164">격자상의 경로</a></td>
+    <td align="center"><a href="https://github.com/knavoid/just-algorithm/blob/main/baekjoon-online-judge/Java/10164.java">Java</a></td>
   	<td align="center">Dynamic programming</td>
   </tr>
   <tr>

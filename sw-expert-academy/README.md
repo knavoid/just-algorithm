@@ -206,7 +206,7 @@
     <td align="center">1288</td>
     <td><a href="https://swexpertacademy.com/main/code/problem/problemDetail.do?problemLevel=2&passFilterYn=Y&contestProbId=AV18_yw6I9MCFAZN&categoryId=AV18_yw6I9MCFAZN&categoryType=CODE&problemTitle=&orderBy=FIRST_REG_DATETIME&selectCodeLang=ALL&select-1=P&pageSize=10&pageIndex=1">새로운 불면증 치료법</a></td>
     <td align="center"><a href="https://github.com/knavoid/just-algorithm/blob/main/sw-expert-academy/D2/%EC%83%88%EB%A1%9C%EC%9A%B4%20%EB%B6%88%EB%A9%B4%EC%B8%B5%20%EC%B9%98%EB%A3%8C%EB%B2%95.cpp">C++</a></td>
-  	<td align="center">-</td>
+  	<td align="center">Bit mask</td>
   </tr>
   <tr>
     <td align="center">1970</td>
@@ -501,7 +501,7 @@
     <td align="center">10726</td>
     <td><a href="https://swexpertacademy.com/main/code/problem/problemDetail.do?problemLevel=3&contestProbId=AXRSXf_a9qsDFAXS&categoryId=AXRSXf_a9qsDFAXS&categoryType=CODE&problemTitle=&orderBy=FIRST_REG_DATETIME&selectCodeLang=ALL&select-1=3&pageSize=10&pageIndex=4">이진수 표현</a></td>
     <td align="center"><a href="https://github.com/knavoid/just-algorithm/blob/main/sw-expert-academy/D3/%EC%9D%B4%EC%A7%84%EC%88%98%20%ED%91%9C%ED%98%84.cpp">C++</a></td>
-  	<td align="center">-</td>
+  	<td align="center">Bit mask</td>
   </tr>
   <tr>
     <td align="center">11315</td>

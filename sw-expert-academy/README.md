@@ -1331,6 +1331,12 @@
     <td align="center"><a href="https://github.com/knavoid/just-algorithm/blob/main/sw-expert-academy/D4/Contact.cpp">C++</a></td>
   	<td align="center">Breadth first search</td>
   </tr>
+  <tr>
+    <td align="center">1861</td>
+    <td><a href="https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV5LtJYKDzsDFAXc&categoryId=AV5LtJYKDzsDFAXc&categoryType=CODE&problemTitle=%EC%A0%95%EC%82%AC%EA%B0%81%ED%98%95&orderBy=FIRST_REG_DATETIME&selectCodeLang=ALL&select-1=&pageSize=10&pageIndex=1">정사각형 방</a></td>
+    <td align="center"><a href="https://github.com/knavoid/just-algorithm/blob/main/sw-expert-academy/D4/정사각형%20방.java">Java</a></td>
+  	<td align="center">Dynamic programming</td>
+  </tr>
   
   
   

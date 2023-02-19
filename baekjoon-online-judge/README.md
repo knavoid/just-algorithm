@@ -21,6 +21,12 @@
   </tr>
   
   <tr>
+    <td align="center">1043</td>
+    <td><a href="https://www.acmicpc.net/problem/1043">거짓말</a></td>
+    <td align="center"><a href="https://github.com/knavoid/just-algorithm/blob/main/baekjoon-online-judge/Java/1043.java">Java</a></td>
+  	<td align="center">Bit mask</td>
+  </tr>
+  <tr>
     <td align="center">1068</td>
     <td><a href="https://www.acmicpc.net/problem/1068">트리</a></td>
     <td align="center"><a href="https://github.com/knavoid/just-algorithm/blob/main/baekjoon-online-judge/Java/1068.java">Java</a></td>
@@ -289,6 +295,12 @@
     <td><a href="https://www.acmicpc.net/problem/17070">파이프 옮기기 1</a></td>
     <td align="center"><a href="https://github.com/knavoid/just-algorithm/blob/main/baekjoon-online-judge/C%2B%2B/17070.cpp">C++</a></td>
   	<td align="center">Depth first search</td>
+  </tr>
+  <tr>
+    <td align="center">17135</td>
+    <td><a href="https://www.acmicpc.net/problem/17135">캐슬 디펜스</a></td>
+    <td align="center"><a href="https://github.com/knavoid/just-algorithm/blob/main/baekjoon-online-judge/Java/17135.java">Java</a></td>
+  	<td align="center">Implementation</td>
   </tr>
   <tr>
     <td align="center">17404</td>

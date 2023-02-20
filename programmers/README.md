@@ -271,6 +271,12 @@
     <td align="center"><a href="https://github.com/knavoid/just-algorithm/blob/main/programmers/C%2B%2B/Level2/%EC%88%AB%EC%9E%90%20%EC%B9%B4%EB%93%9C%20%EB%82%98%EB%88%84%EA%B8%B0.cpp">C++</a> / <a href="https://github.com/knavoid/just-algorithm/blob/main/programmers/Java/Level2/%EC%88%AB%EC%9E%90%20%EC%B9%B4%EB%93%9C%20%EB%82%98%EB%88%84%EA%B8%B0.java">Java</a></td>
   	<td align="center">Math</td>
   </tr>
+  <tr>
+    <td><a href="https://school.programmers.co.kr/learn/courses/30/lessons/92342">양궁대회</a></td> 
+    <td align="center"><a href="https://github.com/knavoid/just-algorithm/blob/main/programmers/Java/Level2/양궁대회.java">Java</a></td>
+  	<td align="center">Depth first search</td>
+  </tr>
+
  
 </table>
 

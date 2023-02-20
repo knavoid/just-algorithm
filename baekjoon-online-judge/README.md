@@ -33,6 +33,12 @@
   	<td align="center">Tree</td>
   </tr>
   <tr>
+    <td align="center">1074</td>
+    <td><a href="https://www.acmicpc.net/problem/1074">Z</a></td>
+    <td align="center"><a href="https://github.com/knavoid/just-algorithm/blob/main/baekjoon-online-judge/Java/1074.java">Java</a></td>
+  	<td align="center">Divide and conquer</td>
+  </tr>
+  <tr>
     <td align="center">1107</td>
     <td><a href="https://www.acmicpc.net/problem/1107">리모컨</a></td>
     <td align="center"><a href="https://github.com/knavoid/just-algorithm/blob/main/baekjoon-online-judge/Java/1107.java">Java</a></td>
@@ -295,6 +301,12 @@
     <td><a href="https://www.acmicpc.net/problem/17070">파이프 옮기기 1</a></td>
     <td align="center"><a href="https://github.com/knavoid/just-algorithm/blob/main/baekjoon-online-judge/C%2B%2B/17070.cpp">C++</a></td>
   	<td align="center">Depth first search</td>
+  </tr>
+  <tr>
+    <td align="center">17114</td>
+    <td><a href="https://www.acmicpc.net/problem/17114">하이퍼 토마토</a></td>
+    <td align="center"><a href="https://github.com/knavoid/just-algorithm/blob/main/baekjoon-online-judge/Java/17114.java">Java</a></td>
+  	<td align="center">Breadth first search</td>
   </tr>
   <tr>
     <td align="center">17135</td>

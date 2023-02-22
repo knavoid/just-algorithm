@@ -1117,7 +1117,7 @@
   <tr>
     <td align="center">1873</td>
     <td><a href="https://swexpertacademy.com/main/code/problem/problemDetail.do?problemLevel=3&contestProbId=AV5LyE7KD2ADFAXc&categoryId=AV5LyE7KD2ADFAXc&categoryType=CODE&problemTitle=&orderBy=FIRST_REG_DATETIME&selectCodeLang=ALL&select-1=3&pageSize=30&pageIndex=5">상호의 배틀필드</a></td>
-    <td align="center"><a href="https://github.com/knavoid/just-algorithm/blob/main/sw-expert-academy/D3/%EC%83%81%ED%98%B8%EC%9D%98%20%EB%B0%B0%ED%8B%80%ED%95%84%EB%93%9C.cpp">C++</a></td>
+    <td align="center"><a href="https://github.com/knavoid/just-algorithm/blob/main/sw-expert-academy/D3/%EC%83%81%ED%98%B8%EC%9D%98%20%EB%B0%B0%ED%8B%80%ED%95%84%EB%93%9C.cpp">C++</a> / <a href="https://github.com/knavoid/just-algorithm/blob/main/sw-expert-academy/D3/%EC%83%81%ED%98%B8%EC%9D%98%20%EB%B0%B0%ED%8B%80%ED%95%84%EB%93%9C.java">Java</a></td>
   	<td align="center">Simulation</td>
   </tr>
   <tr>
@@ -1347,7 +1347,7 @@
   <tr>
     <td align="center">1247</td>
     <td><a href="https://swexpertacademy.com/main/code/problem/problemDetail.do?problemLevel=5&contestProbId=AV15OZ4qAPICFAYD&categoryId=AV15OZ4qAPICFAYD&categoryType=CODE&problemTitle=%EC%B5%9C%EC%A0%81&orderBy=FIRST_REG_DATETIME&selectCodeLang=ALL&select-1=5&pageSize=10&pageIndex=1">최적 경로</a></td>
-    <td align="center"><a href="https://github.com/knavoid/just-algorithm/blob/main/sw-expert-academy/D5/%EC%B5%9C%EC%A0%81%20%EA%B2%BD%EB%A1%9C.cpp">C++</a></td>
+    <td align="center"><a href="https://github.com/knavoid/just-algorithm/blob/main/sw-expert-academy/D5/%EC%B5%9C%EC%A0%81%20%EA%B2%BD%EB%A1%9C.cpp">C++</a> / <a href="https://github.com/knavoid/just-algorithm/blob/main/sw-expert-academy/D5/%EC%B5%9C%EC%A0%81%20%EA%B2%BD%EB%A1%9C.java">Java</a></td>
   	<td align="center">Brute force</td>
   </tr>
   <tr>

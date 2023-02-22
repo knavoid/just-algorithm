@@ -135,6 +135,12 @@
   	<td align="center">Stack</td>
   </tr>
   <tr>
+    <td align="center">2565</td>
+    <td><a href="https://www.acmicpc.net/problem/2565">전깃줄</a></td>
+    <td align="center"><a href="https://github.com/knavoid/just-algorithm/blob/main/baekjoon-online-judge/Java/2565.java">Java</a></td>
+  	<td align="center">Dynamic programming</td>
+  </tr>
+  <tr>
     <td align="center">2609</td>
     <td><a href="https://www.acmicpc.net/problem/2609">최대공약수와 최소공배수</a></td>
     <td align="center"><a href="https://github.com/knavoid/just-algorithm/blob/main/baekjoon-online-judge/C%2B%2B/2609.cpp">C++</a></td>
@@ -205,6 +211,12 @@
     <td><a href="https://www.acmicpc.net/problem/10164">격자상의 경로</a></td>
     <td align="center"><a href="https://github.com/knavoid/just-algorithm/blob/main/baekjoon-online-judge/Java/10164.java">Java</a></td>
   	<td align="center">Dynamic programming</td>
+  </tr>
+  <tr>
+    <td align="center">10830</td>
+    <td><a href="https://www.acmicpc.net/problem/10830">행렬 제곱</a></td>
+    <td align="center"><a href="https://github.com/knavoid/just-algorithm/blob/main/baekjoon-online-judge/Java/10830.java">Java</a></td>
+  	<td align="center">Divide and conquer</td>
   </tr>
   <tr>
     <td align="center">11286</td>
@@ -295,6 +307,12 @@
     <td><a href="https://www.acmicpc.net/problem/16927">배열 돌리기 2</a></td>
     <td align="center"><a href="https://github.com/knavoid/just-algorithm/blob/main/baekjoon-online-judge/Java/16927.java">Java</a></td>
   	<td align="center">Implementation</td>
+  </tr>
+  <tr>
+    <td align="center">17069</td>
+    <td><a href="https://www.acmicpc.net/problem/17069">파이프 옮기기 2</a></td>
+    <td align="center"><a href="https://github.com/knavoid/just-algorithm/blob/main/baekjoon-online-judge/Java/17069.java">Java</a></td>
+  	<td align="center">Dynamic programming</td>
   </tr>
   <tr>
     <td align="center">17070</td>

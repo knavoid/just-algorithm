@@ -75,6 +75,12 @@
   	<td align="center">Sieve of Eratosthenes</td>
   </tr>
   <tr>
+    <td align="center">1700</td>
+    <td><a href="https://www.acmicpc.net/problem/1700">멀티탭 스케줄링</a></td>
+    <td align="center"><a href="https://github.com/knavoid/just-algorithm/blob/main/baekjoon-online-judge/Java/1700.java">Java</a></td>
+  	<td align="center">Greedy</td>
+  </tr>
+  <tr>
     <td align="center">1747</td>
     <td><a href="https://www.acmicpc.net/problem/1747">소수&팰린드롬</a></td>
     <td align="center"><a href="https://github.com/knavoid/just-algorithm/blob/main/baekjoon-online-judge/Java/1747.java">Java</a></td>
@@ -199,6 +205,18 @@
     <td><a href="https://www.acmicpc.net/problem/3273">두 수의 합</a></td>
     <td align="center"><a href="https://github.com/knavoid/just-algorithm/blob/main/baekjoon-online-judge/C%2B%2B/3273.cpp">C++</a></td>
   	<td align="center">-</td>
+  </tr>
+  <tr>
+    <td align="center">6987</td>
+    <td><a href="https://www.acmicpc.net/problem/6987">월드컵</a></td>
+    <td align="center"><a href="https://github.com/knavoid/just-algorithm/blob/main/baekjoon-online-judge/Java/6987.java">Java</a></td>
+  	<td align="center">Backtracking</td>
+  </tr>
+  <tr>
+    <td align="center">7662</td>
+    <td><a href="https://www.acmicpc.net/problem/7662">이중 우선순위 큐</a></td>
+    <td align="center"><a href="https://github.com/knavoid/just-algorithm/blob/main/baekjoon-online-judge/Java/7662.java">Java</a></td>
+  	<td align="center">Tree map</td>
   </tr>
   <tr>
     <td align="center">9251</td>

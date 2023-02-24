@@ -75,6 +75,12 @@
   	<td align="center">Sieve of Eratosthenes</td>
   </tr>
   <tr>
+    <td align="center">1697</td>
+    <td><a href="https://www.acmicpc.net/problem/1697">숨바꼭질</a></td>
+    <td align="center"><a href="https://github.com/knavoid/just-algorithm/blob/main/baekjoon-online-judge/Java/1697.java">Java</a></td>
+  	<td align="center">Breadth first search</td>
+  </tr>
+  <tr>
     <td align="center">1700</td>
     <td><a href="https://www.acmicpc.net/problem/1700">멀티탭 스케줄링</a></td>
     <td align="center"><a href="https://github.com/knavoid/just-algorithm/blob/main/baekjoon-online-judge/Java/1700.java">Java</a></td>
@@ -193,6 +199,12 @@
     <td><a href="https://www.acmicpc.net/problem/3040">백설 공주와 일곱 난쟁이</a></td>
     <td align="center"><a href="https://github.com/knavoid/just-algorithm/blob/main/baekjoon-online-judge/Java/3040.java">Java</a></td>
   	<td align="center">Brute force</td>
+  </tr>
+  <tr>
+    <td align="center">3109</td>
+    <td><a href="https://www.acmicpc.net/problem/3109">빵집</a></td>
+    <td align="center"><a href="https://github.com/knavoid/just-algorithm/blob/main/baekjoon-online-judge/Java/3109.java">Java</a></td>
+  	<td align="center">Greedy, Depth first search</td>
   </tr>
   <tr>
     <td align="center">3190</td>

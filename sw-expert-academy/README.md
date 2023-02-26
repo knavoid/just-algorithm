@@ -1374,5 +1374,11 @@
     <td align="center"><a href="https://github.com/knavoid/just-algorithm/blob/main/sw-expert-academy/Test/요리사.java">Java</a></td>
   	<td align="center">Depth first search</td>
   </tr>
+  <tr>
+    <td align="center">5644</td>
+    <td><a href="https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWXRDL1aeugDFAUo&categoryId=AWXRDL1aeugDFAUo&categoryType=CODE&problemTitle=%EB%AC%B4%EC%84%A0+%EC%B6%A9%EC%A0%84&orderBy=FIRST_REG_DATETIME&selectCodeLang=ALL&select-1=&pageSize=10&pageIndex=1">무선 충전</a></td>
+    <td align="center"><a href="https://github.com/knavoid/just-algorithm/blob/main/sw-expert-academy/Test/무선%20충전.java">Java</a></td>
+  	<td align="center">Implementation</td>
+  </tr>
   
 </table>

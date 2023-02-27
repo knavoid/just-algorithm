@@ -291,6 +291,12 @@
   	<td align="center">Graph, Depth first search</td>
   </tr>
   <tr>
+    <td align="center">14502</td>
+    <td><a href="https://www.acmicpc.net/problem/14502">연구소</a></td>
+    <td align="center"><a href="https://github.com/knavoid/just-algorithm/blob/main/baekjoon-online-judge/Java/14502.java">Java</a></td>
+  	<td align="center">Brute force, Breadth first search</td>
+  </tr>
+  <tr>
     <td align="center">14699</td>
     <td><a href="https://www.acmicpc.net/problem/14699">관악산 등산</a></td>
     <td align="center"><a href="https://github.com/knavoid/just-algorithm/blob/main/baekjoon-online-judge/Java/14699.java">Java</a></td>

@@ -1337,6 +1337,18 @@
     <td align="center"><a href="https://github.com/knavoid/just-algorithm/blob/main/sw-expert-academy/D4/정사각형%20방.java">Java</a></td>
   	<td align="center">Dynamic programming</td>
   </tr>
+  <tr>
+    <td align="center">7465</td>
+    <td><a href="https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWngfZVa9XwDFAQU&categoryId=AWngfZVa9XwDFAQU&categoryType=CODE&problemTitle=%EC%B0%BD%EC%9A%A9&orderBy=FIRST_REG_DATETIME&selectCodeLang=ALL&select-1=&pageSize=10&pageIndex=1">창용 마을 무리의 개수</a></td>
+    <td align="center"><a href="https://github.com/knavoid/just-algorithm/blob/main/sw-expert-academy/D4/창용%20마을%20무리의%20개수.java">Java</a></td>
+  	<td align="center">Union find</td>
+  </tr>
+  <tr>
+    <td align="center">3289</td>
+    <td><a href="https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWBJKA6qr2oDFAWr&categoryId=AWBJKA6qr2oDFAWr&categoryType=CODE&problemTitle=%EC%84%9C%EB%A1%9C%EC%86%8C&orderBy=FIRST_REG_DATETIME&selectCodeLang=ALL&select-1=&pageSize=10&pageIndex=1&&&&&&&&&">서로소 집합</a></td>
+    <td align="center"><a href="https://github.com/knavoid/just-algorithm/blob/main/sw-expert-academy/D4/서로소%20집합.java">Java</a></td>
+  	<td align="center">Union find</td>
+  </tr>
   
   
   

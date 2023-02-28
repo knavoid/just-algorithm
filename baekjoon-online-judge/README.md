@@ -159,6 +159,12 @@
   	<td align="center">Dynamic programming</td>
   </tr>
   <tr>
+    <td align="center">2567</td>
+    <td><a href="https://www.acmicpc.net/problem/2567">색종이 - 2</a></td>
+    <td align="center"><a href="https://github.com/knavoid/just-algorithm/blob/main/baekjoon-online-judge/Java/2567.java">Java</a></td>
+  	<td align="center">Implementation</td>
+  </tr>
+  <tr>
     <td align="center">2609</td>
     <td><a href="https://www.acmicpc.net/problem/2609">최대공약수와 최소공배수</a></td>
     <td align="center"><a href="https://github.com/knavoid/just-algorithm/blob/main/baekjoon-online-judge/C%2B%2B/2609.cpp">C++</a></td>
@@ -385,6 +391,12 @@
     <td><a href="https://www.acmicpc.net/problem/17404">RGB거리 2</a></td>
     <td align="center"><a href="https://github.com/knavoid/just-algorithm/blob/main/baekjoon-online-judge/Java/17404.java">Java</a></td>
   	<td align="center">Dynamic programming</td>
+  </tr>
+  <tr>
+    <td align="center">17471</td>
+    <td><a href="https://www.acmicpc.net/problem/17471">게리맨더링</a></td>
+    <td align="center"><a href="https://github.com/knavoid/just-algorithm/blob/main/baekjoon-online-judge/Java/17471.java">Java</a></td>
+  	<td align="center">Graph, Brute force</td>
   </tr>
   <tr>
     <td align="center">17478</td>

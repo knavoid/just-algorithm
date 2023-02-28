@@ -1,5 +1,5 @@
 # JUST ALGORITHM!
 
-- Baekjoon Online Judge : 65 problems solved
+- Baekjoon Online Judge : 66 problems solved
 - Programmers : 169 problems solved
-- SW Expert Academy : 223 problems solved
+- SW Expert Academy : 224 problems solved

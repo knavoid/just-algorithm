@@ -1349,6 +1349,12 @@
     <td align="center"><a href="https://github.com/knavoid/just-algorithm/blob/main/sw-expert-academy/D4/서로소%20집합.java">Java</a></td>
   	<td align="center">Union find</td>
   </tr>
+  <tr>
+    <td align="center">3124</td>
+    <td><a href="https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV_mSnmKUckDFAWb&categoryId=AV_mSnmKUckDFAWb&categoryType=CODE&problemTitle=%EC%8A%A4%ED%8C%A8%EB%8B%9D&orderBy=FIRST_REG_DATETIME&selectCodeLang=ALL&select-1=&pageSize=10&pageIndex=1">최소 스패닝 트리</a></td>
+    <td align="center"><a href="https://github.com/knavoid/just-algorithm/blob/main/sw-expert-academy/D4/최소%20스패닝%20트리.java">Java</a></td>
+  	<td align="center">MST(Prim)</td>
+  </tr>
   
   
   

@@ -51,6 +51,12 @@
   	<td align="center">Implementation</td>
   </tr>
   <tr>
+    <td align="center">1197</td>
+    <td><a href="https://www.acmicpc.net/problem/1197">최소 스패닝 트리</a></td>
+    <td align="center"><a href="https://github.com/knavoid/just-algorithm/blob/main/baekjoon-online-judge/Java/1197.java">Java</a></td>
+  	<td align="center">MST(Prim)</td>
+  </tr>
+  <tr>
     <td align="center">1158</td>
     <td><a href="https://www.acmicpc.net/problem/1158">요세푸스 문제</a></td>
     <td align="center"><a href="https://github.com/knavoid/just-algorithm/blob/main/baekjoon-online-judge/Java/1158.java">Java</a></td>

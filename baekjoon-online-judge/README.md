@@ -261,6 +261,12 @@
   	<td align="center">Dynamic programming</td>
   </tr>
   <tr>
+    <td align="center">10775</td>
+    <td><a href="https://www.acmicpc.net/problem/10775">공항</a></td>
+    <td align="center"><a href="https://github.com/knavoid/just-algorithm/blob/main/baekjoon-online-judge/Java/10775.java">Java</a></td>
+  	<td align="center">Greedy</td>
+  </tr>
+  <tr>
     <td align="center">10830</td>
     <td><a href="https://www.acmicpc.net/problem/10830">행렬 제곱</a></td>
     <td align="center"><a href="https://github.com/knavoid/just-algorithm/blob/main/baekjoon-online-judge/Java/10830.java">Java</a></td>

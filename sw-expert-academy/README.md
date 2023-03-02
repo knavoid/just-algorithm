@@ -1398,5 +1398,11 @@
     <td align="center"><a href="https://github.com/knavoid/just-algorithm/blob/main/sw-expert-academy/Test/무선%20충전.java">Java</a></td>
   	<td align="center">Implementation</td>
   </tr>
+  <tr>
+    <td align="center">5656</td>
+    <td><a href="https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWXRQm6qfL0DFAUo">벽돌 깨기</a></td>
+    <td align="center"><a href="https://github.com/knavoid/just-algorithm/blob/main/sw-expert-academy/Test/벽돌%20깨기.java">Java</a></td>
+  	<td align="center">Implementation</td>
+  </tr>
   
 </table>

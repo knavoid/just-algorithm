@@ -147,6 +147,12 @@
   	<td align="center">Math, Backtracking</td>
   </tr>
   <tr>
+    <td align="center">2098</td>
+    <td><a href="https://www.acmicpc.net/problem/2098">외판원 순회</a></td>
+    <td align="center"><a href="https://github.com/knavoid/just-algorithm/blob/main/baekjoon-online-judge/Java/2098.java">Java</a></td>
+  	<td align="center">Dynamic programming, Bit mask</td>
+  </tr>
+  <tr>
     <td align="center">2470</td>
     <td><a href="https://www.acmicpc.net/problem/2470">두 용액</a></td>
     <td align="center"><a href="https://github.com/knavoid/just-algorithm/blob/main/baekjoon-online-judge/Java/2470.java">Java</a></td>
@@ -319,6 +325,12 @@
     <td><a href="https://www.acmicpc.net/problem/14699">관악산 등산</a></td>
     <td align="center"><a href="https://github.com/knavoid/just-algorithm/blob/main/baekjoon-online-judge/Java/14699.java">Java</a></td>
   	<td align="center">Dynamic programming</td>
+  </tr>
+  <tr>
+    <td align="center">14719</td>
+    <td><a href="https://www.acmicpc.net/problem/14719">빗물</a></td>
+    <td align="center"><a href="https://github.com/knavoid/just-algorithm/blob/main/baekjoon-online-judge/Java/14719.java">Java</a></td>
+  	<td align="center">Implementation</td>
   </tr>
   <tr>
     <td align="center">15649</td>

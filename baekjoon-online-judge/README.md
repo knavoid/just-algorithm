@@ -147,6 +147,12 @@
   	<td align="center">Math, Backtracking</td>
   </tr>
   <tr>
+    <td align="center">2042</td>
+    <td><a href="https://www.acmicpc.net/problem/2042">구간 합 구하기</a></td>
+    <td align="center"><a href="https://github.com/knavoid/just-algorithm/blob/main/baekjoon-online-judge/Java/2042.java">Java</a></td>
+  	<td align="center">Segment tree</td>
+  </tr>
+  <tr>
     <td align="center">2098</td>
     <td><a href="https://www.acmicpc.net/problem/2098">외판원 순회</a></td>
     <td align="center"><a href="https://github.com/knavoid/just-algorithm/blob/main/baekjoon-online-judge/Java/2098.java">Java</a></td>

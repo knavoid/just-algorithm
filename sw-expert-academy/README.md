@@ -1404,5 +1404,11 @@
     <td align="center"><a href="https://github.com/knavoid/just-algorithm/blob/main/sw-expert-academy/Test/벽돌%20깨기.java">Java</a></td>
   	<td align="center">Implementation</td>
   </tr>
+  <tr>
+    <td align="center">2115</td>
+    <td><a href="https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV5V4A46AdIDFAWu">벌꿀채취</a></td>
+    <td align="center"><a href="https://github.com/knavoid/just-algorithm/blob/main/sw-expert-academy/Test/벌꿀채취.java">Java</a></td>
+  	<td align="center">Implementation</td>
+  </tr>
   
 </table>

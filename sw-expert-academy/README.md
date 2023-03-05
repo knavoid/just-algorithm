@@ -1416,5 +1416,11 @@
     <td align="center"><a href="https://github.com/knavoid/just-algorithm/blob/main/sw-expert-academy/Test/프로세서%20연결하기.java">Java</a></td>
   	<td align="center">Implementation</td>
   </tr>
+  <tr>
+    <td align="center">1949</td>
+    <td><a href="https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV5PoOKKAPIDFAUq&categoryId=AV5PoOKKAPIDFAUq&categoryType=CODE&problemTitle=%EB%AA%A8%EC%9D%98&orderBy=FIRST_REG_DATETIME&selectCodeLang=ALL&select-1=&pageSize=10&pageIndex=2">등산로 조성</a></td>
+    <td align="center"><a href="https://github.com/knavoid/just-algorithm/blob/main/sw-expert-academy/Test/등산로%20조성.cpp">C++</a></td>
+  	<td align="center">Brute force</td>
+  </tr>
   
 </table>

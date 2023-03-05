@@ -441,10 +441,16 @@
   	<td align="center">Graph, Brute force</td>
   </tr>
   <tr>
+    <td align="center">17472</td>
+    <td><a href="https://www.acmicpc.net/problem/17472">다리 만들기 2</a></td>
+    <td align="center"><a href="https://github.com/knavoid/just-algorithm/blob/main/baekjoon-online-judge/C%2B%2B/17472.cpp">C++</a></td>
+  	<td align="center">Breadth first search, MST(Prim)</td>
+  </tr>
+  <tr>
     <td align="center">17478</td>
     <td><a href="https://www.acmicpc.net/problem/17478">재귀함수가 뭔가요?</a></td>
     <td align="center"><a href="https://github.com/knavoid/just-algorithm/blob/main/baekjoon-online-judge/Java/17478.java">Java</a></td>
-  	<td align="center">-</td>
+  	<td align="center">Recursion</td>
   </tr>
   <tr>
     <td align="center">19236</td>

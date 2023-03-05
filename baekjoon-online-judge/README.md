@@ -417,10 +417,22 @@
   	<td align="center">Implementation</td>
   </tr>
   <tr>
+    <td align="center">17136</td>
+    <td><a href="https://www.acmicpc.net/problem/17136">색종이 붙이기</a></td>
+    <td align="center"><a href="https://github.com/knavoid/just-algorithm/blob/main/baekjoon-online-judge/C%2B%2B/17136.cpp">C++</a></td>
+  	<td align="center">Backtracking</td>
+  </tr>
+  <tr>
     <td align="center">17404</td>
     <td><a href="https://www.acmicpc.net/problem/17404">RGB거리 2</a></td>
     <td align="center"><a href="https://github.com/knavoid/just-algorithm/blob/main/baekjoon-online-judge/Java/17404.java">Java</a></td>
   	<td align="center">Dynamic programming</td>
+  </tr>
+  <tr>
+    <td align="center">17406</td>
+    <td><a href="https://www.acmicpc.net/problem/17406">배열 돌리기 4</a></td>
+    <td align="center"><a href="https://github.com/knavoid/just-algorithm/blob/main/baekjoon-online-judge/C%2B%2B/17406.cpp">C++</a></td>
+  	<td align="center">Implementation</td>
   </tr>
   <tr>
     <td align="center">17471</td>

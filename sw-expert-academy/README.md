@@ -1410,5 +1410,11 @@
     <td align="center"><a href="https://github.com/knavoid/just-algorithm/blob/main/sw-expert-academy/Test/벌꿀채취.java">Java</a></td>
   	<td align="center">Implementation</td>
   </tr>
+  <tr>
+    <td align="center">1767</td>
+    <td><a href="https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV4suNtaXFEDFAUf">프로세서 연결하기</a></td>
+    <td align="center"><a href="https://github.com/knavoid/just-algorithm/blob/main/sw-expert-academy/Test/프로세서%20연결하기.java">Java</a></td>
+  	<td align="center">Implementation</td>
+  </tr>
   
 </table>

@@ -75,6 +75,12 @@
   	<td align="center">Sorting</td>
   </tr>
   <tr>
+    <td align="center">1541</td>
+    <td><a href="https://www.acmicpc.net/problem/1541">잃어버린 괄호</a></td>
+    <td align="center"><a href="https://github.com/knavoid/just-algorithm/blob/main/baekjoon-online-judge/Java/1541.java">Java</a></td>
+  	<td align="center">Greedy</td>
+  </tr>
+  <tr>
     <td align="center">1644</td>
     <td><a href="https://www.acmicpc.net/problem/1644">소수의 연속합</a></td>
     <td align="center"><a href="https://github.com/knavoid/just-algorithm/blob/main/baekjoon-online-judge/C%2B%2B/1644.cpp">C++</a></td>

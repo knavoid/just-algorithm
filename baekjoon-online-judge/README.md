@@ -15,7 +15,7 @@
     <th align="center" width="100">NO.</th>
     <th align="center" width="250">Problem</th>
     <th align="center" width="150">Solution</th>
-    <th align="center" width="250">Remarks</th>
+    <th align="center" width="300">Remarks</th>
   </tr>
   
   <tr>
@@ -169,6 +169,12 @@
   	<td align="center">Dynamic programming, Bit mask</td>
   </tr>
   <tr>
+    <td align="center">2206</td>
+    <td><a href="https://www.acmicpc.net/problem/2206">벽 부수고 이동하기</a></td>
+    <td align="center"><a href="https://github.com/knavoid/just-algorithm/blob/main/baekjoon-online-judge/Java/2206.java">Java</a></td>
+  	<td align="center">Breadth first search</td>
+  </tr>
+  <tr>
     <td align="center">2470</td>
     <td><a href="https://www.acmicpc.net/problem/2470">두 용액</a></td>
     <td align="center"><a href="https://github.com/knavoid/just-algorithm/blob/main/baekjoon-online-judge/Java/2470.java">Java</a></td>
@@ -197,6 +203,12 @@
     <td><a href="https://www.acmicpc.net/problem/2609">최대공약수와 최소공배수</a></td>
     <td align="center"><a href="https://github.com/knavoid/just-algorithm/blob/main/baekjoon-online-judge/C%2B%2B/2609.cpp">C++</a></td>
   	<td align="center">-</td>
+  </tr>
+  <tr>
+    <td align="center">2638</td>
+    <td><a href="https://www.acmicpc.net/problem/2638">치즈</a></td>
+    <td align="center"><a href="https://github.com/knavoid/just-algorithm/blob/main/baekjoon-online-judge/Java/2638.java">Java</a></td>
+  	<td align="center">Breadth first search</td>
   </tr>
   <tr>
     <td align="center">2644</td>
@@ -269,6 +281,12 @@
     <td><a href="https://www.acmicpc.net/problem/7662">이중 우선순위 큐</a></td>
     <td align="center"><a href="https://github.com/knavoid/just-algorithm/blob/main/baekjoon-online-judge/Java/7662.java">Java</a></td>
   	<td align="center">Tree map</td>
+  </tr>
+  <tr>
+    <td align="center">9077</td>
+    <td><a href="https://www.acmicpc.net/problem/9077">지뢰제거</a></td>
+    <td align="center"><a href="https://github.com/knavoid/just-algorithm/blob/main/baekjoon-online-judge/Java/9077.java">Java</a></td>
+  	<td align="center">Prefix sum</td>
   </tr>
   <tr>
     <td align="center">9251</td>

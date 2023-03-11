@@ -2,8 +2,6 @@
 
 > [🔗 Baekjoon Online Judge](https://www.acmicpc.net)
 
-
-
 <br>
 
 ## Problems
@@ -67,6 +65,12 @@
     <td><a href="https://www.acmicpc.net/problem/1244">스위치 켜고 끄기</a></td>
     <td align="center"><a href="https://github.com/knavoid/just-algorithm/blob/main/baekjoon-online-judge/Java/1244.java">Java</a></td>
   	<td align="center">-</td>
+  </tr>
+  <tr>
+    <td align="center">1261</td>
+    <td><a href="https://www.acmicpc.net/problem/1261">알고스팟</a></td>
+    <td align="center"><a href="https://github.com/knavoid/just-algorithm/blob/main/baekjoon-online-judge/Java/1261.java">Java</a></td>
+  	<td align="center">Breadth first search</td>
   </tr>
   <tr>
     <td align="center">1422</td>
@@ -319,6 +323,12 @@
     <td><a href="https://www.acmicpc.net/problem/12891">DNA 비밀번호</a></td>
     <td align="center"><a href="https://github.com/knavoid/just-algorithm/blob/main/baekjoon-online-judge/Java/12891.java">Java</a></td>
   	<td align="center">Sliding window</td>
+  </tr>
+  <tr>
+    <td align="center">12904</td>
+    <td><a href="https://www.acmicpc.net/problem/12904">A와 B</a></td>
+    <td align="center"><a href="https://github.com/knavoid/just-algorithm/blob/main/baekjoon-online-judge/Java/12904.java">Java</a></td>
+  	<td align="center">String</td>
   </tr>
   <tr>
     <td align="center">13023</td>

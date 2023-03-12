@@ -2,7 +2,6 @@
 
 > [🔗 SW Expert Academy](https://www.swexpertacademy.com)
 
-
 <br>
 
 ## Problems
@@ -1355,6 +1354,24 @@
     <td align="center"><a href="https://github.com/knavoid/just-algorithm/blob/main/sw-expert-academy/D4/최소%20스패닝%20트리.java">Java</a></td>
   	<td align="center">MST(Prim)</td>
   </tr>
+  <tr>
+    <td align="center">3316</td>
+    <td><a href="https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWBnFuhqxE8DFAWr&categoryId=AWBnFuhqxE8DFAWr&categoryType=CODE&problemTitle=%EB%8F%99%EC%95%84%EB%A6%AC&orderBy=FIRST_REG_DATETIME&selectCodeLang=ALL&select-1=&pageSize=10&pageIndex=1">동아리실 관리하기</a></td>
+    <td align="center"><a href="https://github.com/knavoid/just-algorithm/blob/main/sw-expert-academy/D4/동아리실%20관리하기.cpp">C++</a></td>
+  	<td align="center">Bit mask</td>
+  </tr>
+  <tr>
+    <td align="center">1868</td>
+    <td><a href="https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV5LwsHaD1MDFAXc&categoryId=AV5LwsHaD1MDFAXc&categoryType=CODE&problemTitle=%ED%8C%8C%ED%95%91&orderBy=FIRST_REG_DATETIME&selectCodeLang=ALL&select-1=&pageSize=10&pageIndex=1">파핑파핑 지뢰찾기</a></td>
+    <td align="center"><a href="https://github.com/knavoid/just-algorithm/blob/main/sw-expert-academy/D4/파핑파핑%20지뢰찾기.cpp">C++</a></td>
+  	<td align="center">Implementation</td>
+  </tr>
+  <tr>
+    <td align="center">5122</td>
+    <td><a href="https://swexpertacademy.com/main/talk/codeBattle/problemDetail.do?contestProbId=AX5MBiQqAbQDFASv&categoryId=AYYZruxqM7YDFARc&categoryType=BATTLE&battleMainPageIndex=2">수열 편집</a></td>
+    <td align="center"><a href="https://github.com/knavoid/just-algorithm/blob/main/sw-expert-academy/D4/수열%20편집.cpp">C++</a></td>
+  	<td align="center">Bit mask</td>
+  </tr>
   
   
   
@@ -1380,8 +1397,6 @@
     <td align="center"><a href="https://github.com/knavoid/just-algorithm/blob/main/sw-expert-academy/D5/K%EB%B2%88%EC%A7%B8%20%EC%A0%91%EB%AF%B8%EC%96%B4.cpp">C++</a></td>
   	<td align="center">-</td>
   </tr>
-
-
 
   <tr>
     <td align="center" colspan=4>Test</td>

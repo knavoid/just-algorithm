@@ -331,6 +331,12 @@
   	<td align="center">Dynamic programming</td>
   </tr>
   <tr>
+    <td align="center">11726</td>
+    <td><a href="https://www.acmicpc.net/problem/11726">2×n 타일링</a></td>
+    <td align="center"><a href="https://github.com/knavoid/just-algorithm/blob/main/baekjoon-online-judge/Java/11726.java">Java</a></td>
+  	<td align="center">Dynamic programming</td>
+  </tr>
+  <tr>
     <td align="center">11729</td>
     <td><a href="https://www.acmicpc.net/problem/11729">하노이 탑 이동 순서</a></td>
     <td align="center"><a href="https://github.com/knavoid/just-algorithm/blob/main/baekjoon-online-judge/Java/11729.java">Java</a></td>
@@ -491,6 +497,12 @@
     <td><a href="https://www.acmicpc.net/problem/19236">청소년 상어</a></td>
     <td align="center"><a href="https://github.com/knavoid/just-algorithm/blob/main/baekjoon-online-judge/C%2B%2B/19236.cpp">C++</a></td>
   	<td align="center">Depth first search</td>
+  </tr>
+  <tr>
+    <td align="center">20437</td>
+    <td><a href="https://www.acmicpc.net/problem/20437">문자열 게임 2</a></td>
+    <td align="center"><a href="https://github.com/knavoid/just-algorithm/blob/main/baekjoon-online-judge/Java/20437.java">Java</a></td>
+  	<td align="center">Sliding window</td>
   </tr>
   
   

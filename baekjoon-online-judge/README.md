@@ -504,6 +504,12 @@
     <td align="center"><a href="https://github.com/knavoid/just-algorithm/blob/main/baekjoon-online-judge/Java/20437.java">Java</a></td>
   	<td align="center">Sliding window</td>
   </tr>
+  <tr>
+    <td align="center">21317</td>
+    <td><a href="https://www.acmicpc.net/problem/21317">징검다리 건너기</a></td>
+    <td align="center"><a href="https://github.com/knavoid/just-algorithm/blob/main/baekjoon-online-judge/Java/21317.java">Java</a></td>
+  	<td align="center">Dynamic programming</td>
+  </tr>
   
   
 </table>

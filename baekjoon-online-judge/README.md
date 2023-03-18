@@ -175,6 +175,12 @@
   	<td align="center">Breadth first search</td>
   </tr>
   <tr>
+    <td align="center">2342</td>
+    <td><a href="https://www.acmicpc.net/problem/2342">Dance Dance Revolution</a></td>
+    <td align="center"><a href="https://github.com/knavoid/just-algorithm/blob/main/baekjoon-online-judge/Java/2342.java">Java</a></td>
+  	<td align="center">Dynamic programming</td>
+  </tr>
+  <tr>
     <td align="center">2470</td>
     <td><a href="https://www.acmicpc.net/problem/2470">두 용액</a></td>
     <td align="center"><a href="https://github.com/knavoid/just-algorithm/blob/main/baekjoon-online-judge/Java/2470.java">Java</a></td>
@@ -275,6 +281,12 @@
     <td><a href="https://www.acmicpc.net/problem/6987">월드컵</a></td>
     <td align="center"><a href="https://github.com/knavoid/just-algorithm/blob/main/baekjoon-online-judge/Java/6987.java">Java</a></td>
   	<td align="center">Backtracking</td>
+  </tr>
+  <tr>
+    <td align="center">7432</td>
+    <td><a href="https://www.acmicpc.net/problem/7432">디스크 트리</a></td>
+    <td align="center"><a href="https://github.com/knavoid/just-algorithm/blob/main/baekjoon-online-judge/Java/7432.java">Java</a></td>
+  	<td align="center">Tree map, Tree set</td>
   </tr>
   <tr>
     <td align="center">7662</td>

@@ -1,9 +1,6 @@
 # Programmers
 
-
-
 > [🔗 Programmers](https://school.programmers.co.kr/learn/challenges)
-
 
 <br>
 
@@ -277,7 +274,6 @@
   	<td align="center">Depth first search</td>
   </tr>
 
- 
 </table>
 
 <br>
@@ -349,7 +345,7 @@
   </tr>
   <tr>
     <td><a href="https://school.programmers.co.kr/learn/courses/30/lessons/42627">디스크 컨트롤러</a></td> 
-    <td align="center"><a href="https://github.com/knavoid/just-algorithm/blob/main/programmers/C%2B%2B/Level3/%EB%94%94%EC%8A%A4%ED%81%AC%20%EC%BB%A8%ED%8A%B8%EB%A1%A4%EB%9F%AC.cpp">C++</a></td>
+    <td align="center"><a href="https://github.com/knavoid/just-algorithm/blob/main/programmers/C%2B%2B/Level3/%EB%94%94%EC%8A%A4%ED%81%AC%20%EC%BB%A8%ED%8A%B8%EB%A1%A4%EB%9F%AC.cpp">C++</a> / <a href="https://github.com/knavoid/just-algorithm/blob/main/programmers/Java/Level3/%EB%94%94%EC%8A%A4%ED%81%AC%20%EC%BB%A8%ED%8A%B8%EB%A1%A4%EB%9F%AC.java">Java</a></td>
   	<td align="center">Heap</td>
   </tr>
   <tr>

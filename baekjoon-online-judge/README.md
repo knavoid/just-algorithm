@@ -49,6 +49,12 @@
   	<td align="center">Implementation</td>
   </tr>
   <tr>
+    <td align="center">1149</td>
+    <td><a href="https://www.acmicpc.net/problem/1149">RGB거리</a></td>
+    <td align="center"><a href="https://github.com/knavoid/just-algorithm/blob/main/baekjoon-online-judge/Java/1149.java">Java</a></td>
+  	<td align="center">Dynamic programming</td>
+  </tr>
+  <tr>
     <td align="center">1197</td>
     <td><a href="https://www.acmicpc.net/problem/1197">최소 스패닝 트리</a></td>
     <td align="center"><a href="https://github.com/knavoid/just-algorithm/blob/main/baekjoon-online-judge/Java/1197.java">Java</a></td>

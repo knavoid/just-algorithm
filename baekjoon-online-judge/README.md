@@ -133,6 +133,12 @@
   	<td align="center">Dijkstra</td>
   </tr>
   <tr>
+    <td align="center">1931</td>
+    <td><a href="https://www.acmicpc.net/problem/1931">회의실 배정</a></td>
+    <td align="center"><a href="https://github.com/knavoid/just-algorithm/blob/main/baekjoon-online-judge/Java/1931.java">Java</a></td>
+  	<td align="center">Greedy</td>
+  </tr>
+  <tr>
     <td align="center">1937</td>
     <td><a href="https://www.acmicpc.net/problem/1937">욕심쟁이 판다</a></td>
     <td align="center"><a href="https://github.com/knavoid/just-algorithm/blob/main/baekjoon-online-judge/C%2B%2B/1937.cpp">C++</a></td>

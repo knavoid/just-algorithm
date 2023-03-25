@@ -523,6 +523,12 @@
   	<td align="center">Depth first search</td>
   </tr>
   <tr>
+    <td align="center">20056</td>
+    <td><a href="https://www.acmicpc.net/problem/20056">마법사 상어와 파이어볼</a></td>
+    <td align="center"><a href="https://github.com/knavoid/just-algorithm/blob/main/baekjoon-online-judge/Java/20056.java">Java</a></td>
+  	<td align="center">Implementation</td>
+  </tr>
+  <tr>
     <td align="center">20437</td>
     <td><a href="https://www.acmicpc.net/problem/20437">문자열 게임 2</a></td>
     <td align="center"><a href="https://github.com/knavoid/just-algorithm/blob/main/baekjoon-online-judge/Java/20437.java">Java</a></td>

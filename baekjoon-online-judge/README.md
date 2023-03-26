@@ -337,9 +337,15 @@
   	<td align="center">Divide and conquer</td>
   </tr>
   <tr>
+    <td align="center">10867</td>
+    <td><a href="https://www.acmicpc.net/problem/10867">중복 빼고 정렬하기</a></td>
+    <td align="center"><a href="https://github.com/knavoid/just-algorithm/blob/main/baekjoon-online-judge/C%2B%2B/10867.cpp">C++</a></td>
+  	<td align="center">Tree set</td>
+  </tr>
+  <tr>
     <td align="center">11286</td>
     <td><a href="https://www.acmicpc.net/problem/11286">절댓값 힙</a></td>
-    <td align="center"><a href="https://github.com/knavoid/just-algorithm/blob/main/baekjoon-online-judge/Java/11286.java">Java</a></td>
+    <td align="center"><a href="https://github.com/knavoid/just-algorithm/blob/main/baekjoon-online-judge/Java/10867.cpp">C++</a></td>
   	<td align="center">Priority queue</td>
   </tr>
   <tr>

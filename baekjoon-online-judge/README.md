@@ -313,6 +313,12 @@
   	<td align="center">Prefix sum</td>
   </tr>
   <tr>
+    <td align="center">9095</td>
+    <td><a href="https://www.acmicpc.net/problem/9095">1, 2, 3 더하기</a></td>
+    <td align="center"><a href="https://github.com/knavoid/just-algorithm/blob/main/baekjoon-online-judge/C%2B%2B/9095.cpp">C++</a></td>
+  	<td align="center">-</td>
+  </tr>
+  <tr>
     <td align="center">9251</td>
     <td><a href="https://www.acmicpc.net/problem/9251">LCS</a></td>
     <td align="center"><a href="https://github.com/knavoid/just-algorithm/blob/main/baekjoon-online-judge/Java/9251.java">Java</a></td>

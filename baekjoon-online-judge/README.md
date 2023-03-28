@@ -85,6 +85,12 @@
   	<td align="center">Sorting</td>
   </tr>
   <tr>
+    <td align="center">1463</td>
+    <td><a href="https://www.acmicpc.net/problem/1463">1로 만들기</a></td>
+    <td align="center"><a href="https://github.com/knavoid/just-algorithm/blob/main/baekjoon-online-judge/Java/1463.java">Java</a></td>
+  	<td align="center">Dynamic programming</td>
+  </tr>
+  <tr>
     <td align="center">1541</td>
     <td><a href="https://www.acmicpc.net/problem/1541">잃어버린 괄호</a></td>
     <td align="center"><a href="https://github.com/knavoid/just-algorithm/blob/main/baekjoon-online-judge/Java/1541.java">Java</a></td>

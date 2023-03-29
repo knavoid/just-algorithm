@@ -19,6 +19,12 @@
   </tr>
   
   <tr>
+    <td align="center">1010</td>
+    <td><a href="https://www.acmicpc.net/problem/1010">다리 놓기</a></td>
+    <td align="center"><a href="https://github.com/knavoid/just-algorithm/blob/main/baekjoon-online-judge/Java/1010.java">Java</a></td>
+  	<td align="center">Combination</td>
+  </tr>
+  <tr>
     <td align="center">1043</td>
     <td><a href="https://www.acmicpc.net/problem/1043">거짓말</a></td>
     <td align="center"><a href="https://github.com/knavoid/just-algorithm/blob/main/baekjoon-online-judge/Java/1043.java">Java</a></td>
@@ -191,6 +197,12 @@
     <td><a href="https://www.acmicpc.net/problem/2206">벽 부수고 이동하기</a></td>
     <td align="center"><a href="https://github.com/knavoid/just-algorithm/blob/main/baekjoon-online-judge/Java/2206.java">Java</a></td>
   	<td align="center">Breadth first search</td>
+  </tr>
+  <tr>
+    <td align="center">2294</td>
+    <td><a href="https://www.acmicpc.net/problem/2294">동전 2</a></td>
+    <td align="center"><a href="https://github.com/knavoid/just-algorithm/blob/main/baekjoon-online-judge/Java/2294.java">Java</a></td>
+  	<td align="center">Dynamic programming</td>
   </tr>
   <tr>
     <td align="center">2342</td>

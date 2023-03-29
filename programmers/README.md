@@ -388,5 +388,10 @@
     <td align="center"><a href="https://github.com/knavoid/just-algorithm/blob/main/programmers/C%2B%2B/Level3/%ED%95%98%EB%85%B8%EC%9D%B4%EC%9D%98%20%ED%83%91.cpp">C++</a></td>
   	<td align="center">Recursion</td>
   </tr>
+  <tr>
+    <td><a href="https://school.programmers.co.kr/learn/courses/30/lessons/12979">기지국 설치</a></td> 
+    <td align="center"><a href="https://github.com/knavoid/just-algorithm/blob/main/programmers/Java/Level3/기지국%20설치.java">Java</a></td>
+  	<td align="center">Greedy</td>
+  </tr>
   
 </table>

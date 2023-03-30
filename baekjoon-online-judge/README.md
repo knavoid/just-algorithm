@@ -103,6 +103,12 @@
   	<td align="center">Greedy</td>
   </tr>
   <tr>
+    <td align="center">1600</td>
+    <td><a href="https://www.acmicpc.net/problem/1600">말이 되고픈 원숭이</a></td>
+    <td align="center"><a href="https://github.com/knavoid/just-algorithm/blob/main/baekjoon-online-judge/Java/1600.java">Java</a></td>
+  	<td align="center">Breadth first search</td>
+  </tr>
+  <tr>
     <td align="center">1644</td>
     <td><a href="https://www.acmicpc.net/problem/1644">소수의 연속합</a></td>
     <td align="center"><a href="https://github.com/knavoid/just-algorithm/blob/main/baekjoon-online-judge/C%2B%2B/1644.cpp">C++</a></td>
@@ -319,6 +325,12 @@
   	<td align="center">Tree map, Tree set</td>
   </tr>
   <tr>
+    <td align="center">7579</td>
+    <td><a href="https://www.acmicpc.net/problem/7579">앱</a></td>
+    <td align="center"><a href="https://github.com/knavoid/just-algorithm/blob/main/baekjoon-online-judge/Java/7579.java">Java</a></td>
+  	<td align="center">Knapsack, Dynamic programming</td>
+  </tr>
+  <tr>
     <td align="center">7662</td>
     <td><a href="https://www.acmicpc.net/problem/7662">이중 우선순위 큐</a></td>
     <td align="center"><a href="https://github.com/knavoid/just-algorithm/blob/main/baekjoon-online-judge/Java/7662.java">Java</a></td>
@@ -341,6 +353,12 @@
     <td><a href="https://www.acmicpc.net/problem/9251">LCS</a></td>
     <td align="center"><a href="https://github.com/knavoid/just-algorithm/blob/main/baekjoon-online-judge/Java/9251.java">Java</a></td>
   	<td align="center">Dynamic programming</td>
+  </tr>
+  <tr>
+    <td align="center">9935</td>
+    <td><a href="https://www.acmicpc.net/problem/9935">문자열 폭발</a></td>
+    <td align="center"><a href="https://github.com/knavoid/just-algorithm/blob/main/baekjoon-online-judge/Java/9935.java">Java</a></td>
+  	<td align="center">String</td>
   </tr>
   <tr>
     <td align="center">10164</td>

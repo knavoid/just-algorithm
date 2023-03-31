@@ -571,6 +571,18 @@
   	<td align="center">Depth first search</td>
   </tr>
   <tr>
+    <td align="center">19621</td>
+    <td><a href="https://www.acmicpc.net/problem/19621">회의실 배정 2</a></td>
+    <td align="center"><a href="https://github.com/knavoid/just-algorithm/blob/main/baekjoon-online-judge/Java/19621.java">Java</a></td>
+  	<td align="center">Dynamic programming</td>
+  </tr>
+  <tr>
+    <td align="center">19622</td>
+    <td><a href="https://www.acmicpc.net/problem/19622">회의실 배정 3</a></td>
+    <td align="center"><a href="https://github.com/knavoid/just-algorithm/blob/main/baekjoon-online-judge/Java/19622.java">Java</a></td>
+  	<td align="center">Dynamic programming</td>
+  </tr>
+  <tr>
     <td align="center">20056</td>
     <td><a href="https://www.acmicpc.net/problem/20056">마법사 상어와 파이어볼</a></td>
     <td align="center"><a href="https://github.com/knavoid/just-algorithm/blob/main/baekjoon-online-judge/Java/20056.java">Java</a></td>

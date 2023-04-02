@@ -28,7 +28,7 @@
     <td align="center">1043</td>
     <td><a href="https://www.acmicpc.net/problem/1043">거짓말</a></td>
     <td align="center"><a href="https://github.com/knavoid/just-algorithm/blob/main/baekjoon-online-judge/Java/1043.java">Java</a></td>
-  	<td align="center">Bit mask</td>
+  	<td align="center">Bit masking</td>
   </tr>
   <tr>
     <td align="center">1068</td>
@@ -71,6 +71,12 @@
     <td><a href="https://www.acmicpc.net/problem/1158">요세푸스 문제</a></td>
     <td align="center"><a href="https://github.com/knavoid/just-algorithm/blob/main/baekjoon-online-judge/Java/1158.java">Java</a></td>
   	<td align="center">Queue</td>
+  </tr>
+  <tr>
+    <td align="center">1194</td>
+    <td><a href="https://www.acmicpc.net/problem/1194">달이 차오른다, 가자.</a></td>
+    <td align="center"><a href="https://github.com/knavoid/just-algorithm/blob/main/baekjoon-online-judge/Java/1194.java">Java</a></td>
+  	<td align="center">Breadth first search, Bit masking</td>
   </tr>
   <tr>
     <td align="center">1244</td>
@@ -196,7 +202,7 @@
     <td align="center">2098</td>
     <td><a href="https://www.acmicpc.net/problem/2098">외판원 순회</a></td>
     <td align="center"><a href="https://github.com/knavoid/just-algorithm/blob/main/baekjoon-online-judge/Java/2098.java">Java</a></td>
-  	<td align="center">Dynamic programming, Bit mask</td>
+  	<td align="center">Dynamic programming, Bit masking</td>
   </tr>
   <tr>
     <td align="center">2206</td>

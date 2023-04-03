@@ -421,6 +421,12 @@
   	<td align="center">Recursion</td>
   </tr>
   <tr>
+    <td align="center">12015</td>
+    <td><a href="https://www.acmicpc.net/problem/12015">가장 긴 증가하는 부분 수열 2</a></td>
+    <td align="center"><a href="https://github.com/knavoid/just-algorithm/blob/main/baekjoon-online-judge/Java/12015.java">Java</a></td>
+  	<td align="center">LIS, Binary search</td>
+  </tr>
+  <tr>
     <td align="center">12891</td>
     <td><a href="https://www.acmicpc.net/problem/12891">DNA 비밀번호</a></td>
     <td align="center"><a href="https://github.com/knavoid/just-algorithm/blob/main/baekjoon-online-judge/Java/12891.java">Java</a></td>
@@ -587,6 +593,12 @@
     <td><a href="https://www.acmicpc.net/problem/19622">회의실 배정 3</a></td>
     <td align="center"><a href="https://github.com/knavoid/just-algorithm/blob/main/baekjoon-online-judge/Java/19622.java">Java</a></td>
   	<td align="center">Dynamic programming</td>
+  </tr>
+  <tr>
+    <td align="center">19623</td>
+    <td><a href="https://www.acmicpc.net/problem/19623">회의실 배정 4</a></td>
+    <td align="center"><a href="https://github.com/knavoid/just-algorithm/blob/main/baekjoon-online-judge/Java/19623.java">Java</a></td>
+  	<td align="center">Binary search</td>
   </tr>
   <tr>
     <td align="center">20056</td>

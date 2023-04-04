@@ -355,6 +355,12 @@
   	<td align="center">-</td>
   </tr>
   <tr>
+    <td align="center">9205</td>
+    <td><a href="https://www.acmicpc.net/problem/9205">맥주 마시면서 걸어가기</a></td>
+    <td align="center"><a href="https://github.com/knavoid/just-algorithm/blob/main/baekjoon-online-judge/Java/9205.java">Java</a></td>
+  	<td align="center">Floyd-Warshall</td>
+  </tr>
+  <tr>
     <td align="center">9251</td>
     <td><a href="https://www.acmicpc.net/problem/9251">LCS</a></td>
     <td align="center"><a href="https://github.com/knavoid/just-algorithm/blob/main/baekjoon-online-judge/Java/9251.java">Java</a></td>

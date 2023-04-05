@@ -223,6 +223,12 @@
   	<td align="center">Dynamic programming</td>
   </tr>
   <tr>
+    <td align="center">2458</td>
+    <td><a href="https://www.acmicpc.net/problem/2458">키 순서</a></td>
+    <td align="center"><a href="https://github.com/knavoid/just-algorithm/blob/main/baekjoon-online-judge/Java/2458.java">Java</a></td>
+  	<td align="center">Graph</td>
+  </tr>
+  <tr>
     <td align="center">2470</td>
     <td><a href="https://www.acmicpc.net/problem/2470">두 용액</a></td>
     <td align="center"><a href="https://github.com/knavoid/just-algorithm/blob/main/baekjoon-online-judge/Java/2470.java">Java</a></td>

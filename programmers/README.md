@@ -395,3 +395,23 @@
   </tr>
   
 </table>
+
+<br>
+
+## Level4
+
+<table>
+  
+  <tr>
+    <th align="center" width="300">Problem</th>
+    <th align="center" width="200">Solution</th>
+    <th align="center" width="250">Remarks</th>
+  </tr>
+  
+  <tr>
+    <td><a href="https://school.programmers.co.kr/learn/courses/30/lessons/60060">가사 검색</a></td> 
+    <td align="center"><a href="https://github.com/knavoid/just-algorithm/blob/main/programmers/Java/Level4/가사%20검색.java">Java</a></td>
+  	<td align="center">Trie</td>
+  </tr>
+  
+</table>

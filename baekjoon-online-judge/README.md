@@ -142,7 +142,13 @@
     <td align="center">1780</td>
     <td><a href="https://www.acmicpc.net/problem/1780">종이의 개수</a></td>
     <td align="center"><a href="https://github.com/knavoid/just-algorithm/blob/main/baekjoon-online-judge/Java/1780.java">Java</a></td>
-  	<td align="center">-</td>
+  	<td align="center">Divide and conquer</td>
+  </tr>
+  <tr>
+    <td align="center">1786</td>
+    <td><a href="https://www.acmicpc.net/problem/1786">찾기</a></td>
+    <td align="center"><a href="https://github.com/knavoid/just-algorithm/blob/main/baekjoon-online-judge/Java/1786.java">Java</a></td>
+  	<td align="center">String, KMP</td>
   </tr>
   <tr>
     <td align="center">1874</td>
@@ -407,6 +413,12 @@
     <td><a href="https://www.acmicpc.net/problem/11286">절댓값 힙</a></td>
     <td align="center"><a href="https://github.com/knavoid/just-algorithm/blob/main/baekjoon-online-judge/Java/10867.cpp">C++</a></td>
   	<td align="center">Priority queue</td>
+  </tr>
+  <tr>
+    <td align="center">11657</td>
+    <td><a href="https://www.acmicpc.net/problem/11657">타임머신</a></td>
+    <td align="center"><a href="https://github.com/knavoid/just-algorithm/blob/main/baekjoon-online-judge/Java/11657.java">Java</a></td>
+  	<td align="center">Graph, Bellman-Ford</td>
   </tr>
   <tr>
     <td align="center">11659</td>

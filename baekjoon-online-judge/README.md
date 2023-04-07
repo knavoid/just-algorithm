@@ -313,6 +313,12 @@
   	<td align="center">Brute force</td>
   </tr>
   <tr>
+    <td align="center">3055</td>
+    <td><a href="https://www.acmicpc.net/problem/3055">탈출</a></td>
+    <td align="center"><a href="https://github.com/knavoid/just-algorithm/blob/main/baekjoon-online-judge/Java/3055.java">Java</a></td>
+  	<td align="center">Breadth first search</td>
+  </tr>
+  <tr>
     <td align="center">3109</td>
     <td><a href="https://www.acmicpc.net/problem/3109">빵집</a></td>
     <td align="center"><a href="https://github.com/knavoid/just-algorithm/blob/main/baekjoon-online-judge/Java/3109.java">Java</a></td>
@@ -599,6 +605,12 @@
     <td><a href="https://www.acmicpc.net/problem/17478">재귀함수가 뭔가요?</a></td>
     <td align="center"><a href="https://github.com/knavoid/just-algorithm/blob/main/baekjoon-online-judge/Java/17478.java">Java</a></td>
   	<td align="center">Recursion</td>
+  </tr>
+  <tr>
+    <td align="center">18405</td>
+    <td><a href="https://www.acmicpc.net/problem/18405">경쟁적 전염</a></td>
+    <td align="center"><a href="https://github.com/knavoid/just-algorithm/blob/main/baekjoon-online-judge/Java/18405.java">Java</a></td>
+  	<td align="center">Breadth first search</td>
   </tr>
   <tr>
     <td align="center">19236</td>

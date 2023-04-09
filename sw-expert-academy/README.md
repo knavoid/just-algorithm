@@ -1447,5 +1447,17 @@
     <td align="center"><a href="https://github.com/knavoid/just-algorithm/blob/main/sw-expert-academy/Test/등산로%20조성.cpp">C++</a></td>
   	<td align="center">Brute force</td>
   </tr>
+  <tr>
+    <td align="center">2382</td>
+    <td><a href="https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV597vbqAH0DFAVl">미생물 격리</a></td>
+    <td align="center"><a href="https://github.com/knavoid/just-algorithm/blob/main/sw-expert-academy/Test/미생물%20격리.java">Java</a></td>
+  	<td align="center">Implementation</td>
+  </tr>
+  <tr>
+    <td align="center">4014</td>
+    <td><a href="https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWIeW7FakkUDFAVH">활주로 건설</a></td>
+    <td align="center"><a href="https://github.com/knavoid/just-algorithm/blob/main/sw-expert-academy/Test/활주로%20건설.java">Java</a></td>
+  	<td align="center">Implementation</td>
+  </tr>
   
 </table>

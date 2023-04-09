@@ -517,6 +517,12 @@
   	<td align="center">Backtracking</td>
   </tr>
   <tr>
+    <td align="center">15961</td>
+    <td><a href="https://www.acmicpc.net/problem/15961">회전 초밥</a></td>
+    <td align="center"><a href="https://github.com/knavoid/just-algorithm/blob/main/baekjoon-online-judge/Java/15961.java">Java</a></td>
+  	<td align="center">Sliding window</td>
+  </tr>
+  <tr>
     <td align="center">16236</td>
     <td><a href="https://www.acmicpc.net/problem/16236">아기 상어</a></td>
     <td align="center"><a href="https://github.com/knavoid/just-algorithm/blob/main/baekjoon-online-judge/C%2B%2B/16236.cpp">C++</a></td>

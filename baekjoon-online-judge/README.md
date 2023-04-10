@@ -175,6 +175,12 @@
   	<td align="center">Greedy</td>
   </tr>
   <tr>
+    <td align="center">1956</td>
+    <td><a href="https://www.acmicpc.net/problem/1956">운동</a></td>
+    <td align="center"><a href="https://github.com/knavoid/just-algorithm/blob/main/baekjoon-online-judge/Java/1956.java">Java</a></td>
+  	<td align="center">Floyd-Warshall</td>
+  </tr>
+  <tr>
     <td align="center">1987</td>
     <td><a href="https://www.acmicpc.net/problem/1987">알파벳</a></td>
     <td align="center"><a href="https://github.com/knavoid/just-algorithm/blob/main/baekjoon-online-judge/Java/1987.java">Java</a></td>

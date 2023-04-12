@@ -180,7 +180,7 @@
     <td align="center"><a href="https://github.com/knavoid/just-algorithm/blob/main/baekjoon-online-judge/Java/1956.java">Java</a></td>
   	<td align="center">Floyd-Warshall</td>
   </tr>
-  <tr>
+  <tr> 
     <td align="center">1987</td>
     <td><a href="https://www.acmicpc.net/problem/1987">알파벳</a></td>
     <td align="center"><a href="https://github.com/knavoid/just-algorithm/blob/main/baekjoon-online-judge/Java/1987.java">Java</a></td>
@@ -425,6 +425,12 @@
     <td><a href="https://www.acmicpc.net/problem/11286">절댓값 힙</a></td>
     <td align="center"><a href="https://github.com/knavoid/just-algorithm/blob/main/baekjoon-online-judge/Java/10867.cpp">C++</a></td>
   	<td align="center">Priority queue</td>
+  </tr>
+  <tr>
+    <td align="center">11401</td>
+    <td><a href="https://www.acmicpc.net/problem/11401">이항 계수 3</a></td>
+    <td align="center"><a href="https://github.com/knavoid/just-algorithm/blob/main/baekjoon-online-judge/Java/11401.java">Java</a></td>
+  	<td align="center">Fermat's little theorem</td>
   </tr>
   <tr>
     <td align="center">11657</td>

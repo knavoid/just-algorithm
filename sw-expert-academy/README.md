@@ -1372,6 +1372,12 @@
     <td align="center"><a href="https://github.com/knavoid/just-algorithm/blob/main/sw-expert-academy/D4/수열%20편집.cpp">C++</a></td>
   	<td align="center">Bit mask</td>
   </tr>
+  <tr>
+    <td align="center">4193</td>
+    <td><a href="https://swexpertacademy.com/main/code/userProblem/userProblemDetail.do?contestProbId=AWKaG6_6AGQDFARV">수영대회 결승전</a></td>
+    <td align="center"><a href="https://github.com/knavoid/just-algorithm/blob/main/sw-expert-academy/D4/수영대회%결승전.java">Java</a></td>
+  	<td align="center">Implementation</td>
+  </tr>
   
   
   

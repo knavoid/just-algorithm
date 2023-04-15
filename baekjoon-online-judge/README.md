@@ -61,6 +61,12 @@
   	<td align="center">Dynamic programming</td>
   </tr>
   <tr>
+    <td align="center">1162</td>
+    <td><a href="https://www.acmicpc.net/problem/1162">도로포장</a></td>
+    <td align="center"><a href="https://github.com/knavoid/just-algorithm/blob/main/baekjoon-online-judge/Java/1162.java">Java</a></td>
+  	<td align="center">Dijkstra</td>
+  </tr>
+  <tr>
     <td align="center">1197</td>
     <td><a href="https://www.acmicpc.net/problem/1197">최소 스패닝 트리</a></td>
     <td align="center"><a href="https://github.com/knavoid/just-algorithm/blob/main/baekjoon-online-judge/Java/1197.java">Java</a></td>

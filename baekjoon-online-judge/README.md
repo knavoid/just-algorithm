@@ -559,6 +559,18 @@
   	<td align="center">Depth first search</td>
   </tr>
   <tr>
+    <td align="center">16918</td>
+    <td><a href="https://www.acmicpc.net/problem/16918">봄버맨</a></td>
+    <td align="center"><a href="https://github.com/knavoid/just-algorithm/blob/main/baekjoon-online-judge/Java/16918.java">Java</a></td>
+  	<td align="center">Implementation</td>
+  </tr>
+  <tr>
+    <td align="center">16919</td>
+    <td><a href="https://www.acmicpc.net/problem/16919">봄버맨 2</a></td>
+    <td align="center"><a href="https://github.com/knavoid/just-algorithm/blob/main/baekjoon-online-judge/Java/16919.java">Java</a></td>
+  	<td align="center">Implementation</td>
+  </tr>
+  <tr>
     <td align="center">16926</td>
     <td><a href="https://www.acmicpc.net/problem/16926">배열 돌리기 1</a></td>
     <td align="center"><a href="https://github.com/knavoid/just-algorithm/blob/main/baekjoon-online-judge/Java/16926.java">Java</a></td>

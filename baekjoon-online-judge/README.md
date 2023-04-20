@@ -505,6 +505,12 @@
   	<td align="center">Brute force, Breadth first search</td>
   </tr>
   <tr>
+    <td align="center">14698</td>
+    <td><a href="https://www.acmicpc.net/problem/14698">전생했더니 슬라임 연구자였던 건에 대하여 (Hard)</a></td>
+    <td align="center"><a href="https://github.com/knavoid/just-algorithm/blob/main/baekjoon-online-judge/Java/14698.java">Java</a></td>
+  	<td align="center">Greedy</td>
+  </tr>
+  <tr>
     <td align="center">14699</td>
     <td><a href="https://www.acmicpc.net/problem/14699">관악산 등산</a></td>
     <td align="center"><a href="https://github.com/knavoid/just-algorithm/blob/main/baekjoon-online-judge/Java/14699.java">Java</a></td>

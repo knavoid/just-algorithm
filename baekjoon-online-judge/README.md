@@ -157,6 +157,12 @@
   	<td align="center">String, KMP</td>
   </tr>
   <tr>
+    <td align="center">1863</td>
+    <td><a href="https://www.acmicpc.net/problem/1863">스카이라인 쉬운거</a></td>
+    <td align="center"><a href="https://github.com/knavoid/just-algorithm/blob/main/baekjoon-online-judge/Java/1863.java">Java</a></td>
+  	<td align="center">Stack</td>
+  </tr>
+  <tr>
     <td align="center">1874</td>
     <td><a href="https://www.acmicpc.net/problem/1874">스택 수열</a></td>
     <td align="center"><a href="https://github.com/knavoid/just-algorithm/blob/main/baekjoon-online-judge/Java/1874.java">Java</a></td>

@@ -313,6 +313,12 @@
   	<td align="center">-</td>
   </tr>
   <tr>
+    <td align="center">2812</td>
+    <td><a href="https://www.acmicpc.net/problem/2812">크게 만들기</a></td>
+    <td align="center"><a href="https://github.com/knavoid/just-algorithm/blob/main/baekjoon-online-judge/Java/2812.java">Java</a></td>
+  	<td align="center">Greedy, Stack</td>
+  </tr>
+  <tr>
     <td align="center">2879</td>
     <td><a href="https://www.acmicpc.net/problem/2879">코딩은 예쁘게</a></td>
     <td align="center"><a href="https://github.com/knavoid/just-algorithm/blob/main/baekjoon-online-judge/Java/2879.java">Java</a></td>

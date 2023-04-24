@@ -350,7 +350,7 @@
   </tr>
   <tr>
     <td><a href="https://school.programmers.co.kr/learn/courses/30/lessons/42579">베스트앨범</a></td> 
-    <td align="center"><a href="https://github.com/knavoid/just-algorithm/blob/main/programmers/C%2B%2B/Level3/%EB%B2%A0%EC%8A%A4%ED%8A%B8%EC%95%A8%EB%B2%94.cpp">C++</a></td>
+    <td align="center"><a href="https://github.com/knavoid/just-algorithm/blob/main/programmers/C%2B%2B/Level3/%EB%B2%A0%EC%8A%A4%ED%8A%B8%EC%95%A8%EB%B2%94.cpp">C++</a> / <a href="https://github.com/knavoid/just-algorithm/blob/main/programmers/Java/Level3/%EB%B2%A0%EC%8A%A4%ED%8A%B8%EC%95%A8%EB%B2%94.java">Java</a></td>
   	<td align="center">Tree map</td>
   </tr>
   <tr>

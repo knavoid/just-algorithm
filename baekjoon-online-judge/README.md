@@ -97,6 +97,12 @@
   	<td align="center">Breadth first search</td>
   </tr>
   <tr>
+    <td align="center">1379</td>
+    <td><a href="https://www.acmicpc.net/problem/1379">강의실 2</a></td>
+    <td align="center"><a href="https://github.com/knavoid/just-algorithm/blob/main/baekjoon-online-judge/Java/1379.java">Java</a></td>
+  	<td align="center">Greedy</td>
+  </tr>
+  <tr>
     <td align="center">1422</td>
     <td><a href="https://www.acmicpc.net/problem/1422">숫자의 신</a></td>
     <td align="center"><a href="https://github.com/knavoid/just-algorithm/blob/main/baekjoon-online-judge/C%2B%2B/1422.cpp">C++</a></td>

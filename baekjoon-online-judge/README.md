@@ -493,6 +493,12 @@
   	<td align="center">Recursion</td>
   </tr>
   <tr>
+    <td align="center">11967</td>
+    <td><a href="https://www.acmicpc.net/problem/11967">불켜기</a></td>
+    <td align="center"><a href="https://github.com/knavoid/just-algorithm/blob/main/baekjoon-online-judge/Java/11967.java">Java</a></td>
+  	<td align="center">Breadth First Search</td>
+  </tr>
+  <tr>
     <td align="center">12015</td>
     <td><a href="https://www.acmicpc.net/problem/12015">가장 긴 증가하는 부분 수열 2</a></td>
     <td align="center"><a href="https://github.com/knavoid/just-algorithm/blob/main/baekjoon-online-judge/Java/12015.java">Java</a></td>

@@ -397,6 +397,12 @@
   	<td align="center">Tree map</td>
   </tr>
   <tr>
+    <td align="center">8980</td>
+    <td><a href="https://www.acmicpc.net/problem/8980">택배</a></td>
+    <td align="center"><a href="https://github.com/knavoid/just-algorithm/blob/main/baekjoon-online-judge/Java/8980.java">Java</a></td>
+  	<td align="center">Greedy</td>
+  </tr>
+  <tr>
     <td align="center">9077</td>
     <td><a href="https://www.acmicpc.net/problem/9077">지뢰제거</a></td>
     <td align="center"><a href="https://github.com/knavoid/just-algorithm/blob/main/baekjoon-online-judge/Java/9077.java">Java</a></td>

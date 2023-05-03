@@ -553,6 +553,12 @@
   	<td align="center">Implementation</td>
   </tr>
   <tr>
+    <td align="center">14908</td>
+    <td><a href="https://www.acmicpc.net/problem/14908">구두 수선공</a></td>
+    <td align="center"><a href="https://github.com/knavoid/just-algorithm/blob/main/baekjoon-online-judge/Java/14908.java">Java</a></td>
+  	<td align="center">Greedy, Sorting</td>
+  </tr>
+  <tr>
     <td align="center">15649</td>
     <td><a href="https://www.acmicpc.net/problem/15649">N과 M (1)</a></td>
     <td align="center"><a href="https://github.com/knavoid/just-algorithm/blob/main/baekjoon-online-judge/Java/15649.java">Java</a></td>

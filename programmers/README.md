@@ -80,18 +80,18 @@
   <tr>
     <td><a href="https://school.programmers.co.kr/learn/courses/30/lessons/81301">숫자 문자열과 영단어</a> (2021 KAKAO)</td> 
     <td align="center"><a href="https://github.com/knavoid/just-algorithm/blob/main/programmers/C%2B%2B/Level1/%EC%88%AB%EC%9E%90%20%EB%AC%B8%EC%9E%90%EC%97%B4%EA%B3%BC%20%EC%98%81%EB%8B%A8%EC%96%B4.cpp">C++</a> / <a href="https://github.com/knavoid/just-algorithm/blob/main/programmers/Java/Level1/%EC%88%AB%EC%9E%90%20%EB%AC%B8%EC%9E%90%EC%97%B4%EA%B3%BC%20%EC%98%81%EB%8B%A8%EC%96%B4.java">Java</a></td>
-  	<td align="center">Regular expression</td>
+  	<td align="center">Regular Expression</td>
   </tr>
   <tr>
     <td><a href="https://school.programmers.co.kr/learn/courses/30/lessons/92334">신고 결과 받기</a> (2022 KAKAO)</td> 
     <td align="center"><a href="https://github.com/knavoid/just-algorithm/blob/main/programmers/C%2B%2B/Level1/%EC%8B%A0%EA%B3%A0%20%EA%B2%B0%EA%B3%BC%20%EB%B0%9B%EA%B8%B0.cpp">C++</a></td>
-  	<td align="center">Hash map</td>
+  	<td align="center">Hash Map</td>
   </tr>
   <tr>
     <td><a href="https://school.programmers.co.kr/learn/courses/30/lessons/118666">성격 유형 검사하기
 </a> (2022 KAKAO)</td> 
     <td align="center"><a href="https://github.com/knavoid/just-algorithm/blob/main/programmers/C%2B%2B/Level1/%EC%84%B1%EA%B2%A9%20%EC%9C%A0%ED%98%95%20%EA%B2%80%EC%82%AC%ED%95%98%EA%B8%B0.cpp">C++</a> / <a href="https://github.com/knavoid/just-algorithm/blob/main/programmers/Java/Level1/%EC%84%B1%EA%B2%A9%20%EC%9C%A0%ED%98%95%20%EA%B2%80%EC%82%AC%ED%95%98%EA%B8%B0.java">Java</a></td>
-  	<td align="center">Hash map</td>
+  	<td align="center">Hash Map</td>
   </tr>
   <tr>
     <td><a href="https://school.programmers.co.kr/learn/courses/30/lessons/133499">옹알이</a></td> 
@@ -146,7 +146,7 @@
   <tr>
     <td><a href="https://school.programmers.co.kr/learn/courses/30/lessons/12905">가장 큰 정사각형 찾기</a></td> 
     <td align="center"><a href="https://github.com/knavoid/just-algorithm/blob/main/programmers/C%2B%2B/Level2/%EA%B0%80%EC%9E%A5%20%ED%81%B0%20%EC%A0%95%EC%82%AC%EA%B0%81%ED%98%95%20%EC%B0%BE%EA%B8%B0.cpp">C++</a></td>
-  	<td align="center">Dynamic programming</td>
+  	<td align="center">Dynamic Programming</td>
   </tr>
   <tr>
     <td><a href="https://school.programmers.co.kr/learn/courses/30/lessons/60058">괄호 변환</a> (2020 KAKAO)</td> 
@@ -191,12 +191,12 @@
   <tr>
     <td><a href="https://school.programmers.co.kr/learn/courses/30/lessons/42839">소수 찾기</a></td> 
     <td align="center"><a href="https://github.com/knavoid/just-algorithm/blob/main/programmers/C%2B%2B/Level2/%EC%86%8C%EC%88%98%20%EC%B0%BE%EA%B8%B0.cpp">C++</a></td>
-  	<td align="center">Brute force</td>
+  	<td align="center">Brute Force</td>
   </tr>
   <tr>
     <td><a href="https://school.programmers.co.kr/learn/courses/30/lessons/67257">수식 최대화</a> (2020 KAKAO)</td> 
     <td align="center"><a href="https://github.com/knavoid/just-algorithm/blob/main/programmers/C%2B%2B/Level2/%EC%88%98%EC%8B%9D%20%EC%B5%9C%EB%8C%80%ED%99%94.cpp">C++</a></td>
-  	<td align="center">Depth first search</td>
+  	<td align="center">Depth First Search</td>
   </tr>
   <tr>
     <td><a href="https://school.programmers.co.kr/learn/courses/30/lessons/49993">스킬트리</a> (Summer/Winter Coding)</td> 
@@ -211,12 +211,12 @@
   <tr>
     <td><a href="https://school.programmers.co.kr/learn/courses/30/lessons/42888">오픈채팅방</a> (2019 KAKAO)</td> 
     <td align="center"><a href="https://github.com/knavoid/just-algorithm/blob/main/programmers/C%2B%2B/Level2/%EC%98%A4%ED%94%88%EC%B1%84%ED%8C%85%EB%B0%A9.cpp">C++</a></td>
-  	<td align="center">Hash map</td>
+  	<td align="center">Hash Map</td>
   </tr>
   <tr>
     <td><a href="https://school.programmers.co.kr/learn/courses/30/lessons/42578">위장</a></td> 
     <td align="center"><a href="https://github.com/knavoid/just-algorithm/blob/main/programmers/C%2B%2B/Level2/%EC%9C%84%EC%9E%A5.cpp">C++</a> / <a href="https://github.com/knavoid/just-algorithm/blob/main/programmers/Python/Level2/%EC%9C%84%EC%9E%A5.py">Python</a></td>
-  	<td align="center">Hash map</td>
+  	<td align="center">Hash Map</td>
   </tr>
   <tr>
     <td><a href="https://school.programmers.co.kr/learn/courses/30/lessons/42860">조이스틱</a></td> 
@@ -226,12 +226,12 @@
   <tr>
     <td><a href="https://school.programmers.co.kr/learn/courses/30/lessons/1829">카카오프렌즈 컬러링북</a> (2017 KAKAO)</td> 
     <td align="center"><a href="https://github.com/knavoid/just-algorithm/blob/main/programmers/C%2B%2B/Level2/%EC%B9%B4%EC%B9%B4%EC%98%A4%ED%94%84%EB%A0%8C%EC%A6%88%20%EC%BB%AC%EB%9F%AC%EB%A7%81%EB%B6%81.cpp">C++</a></td>
-  	<td align="center">Breadth first search</td>
+  	<td align="center">Breadth First Search</td>
   </tr>
   <tr>
     <td><a href="https://school.programmers.co.kr/learn/courses/30/lessons/42842">카펫</a></td> 
     <td align="center"><a href="https://github.com/knavoid/just-algorithm/blob/main/programmers/C%2B%2B/Level2/%EC%B9%B4%ED%8E%AB.cpp">C++</a> / <a href="https://github.com/knavoid/just-algorithm/blob/main/programmers/Python/Level2/%EC%B9%B4%ED%8E%AB.py">Python</a></td>
-  	<td align="center">Brute force</td>
+  	<td align="center">Brute Force</td>
   </tr>
   <tr>
     <td><a href="https://school.programmers.co.kr/learn/courses/30/lessons/42883">큰 수 만들기</a></td> 
@@ -241,7 +241,7 @@
   <tr>
     <td><a href="https://school.programmers.co.kr/learn/courses/30/lessons/43165">타겟 넘버</a></td> 
     <td align="center"><a href="https://github.com/knavoid/just-algorithm/blob/main/programmers/C%2B%2B/Level2/%ED%83%80%EA%B2%9F%20%EB%84%98%EB%B2%84.cpp">C++</a> / <a href="https://github.com/knavoid/just-algorithm/blob/main/programmers/Python/Level2/%ED%83%80%EA%B2%9F%20%EB%84%98%EB%B2%84.py">Python</a></td>
-  	<td align="center">Depth first search</td>
+  	<td align="center">Depth First Search</td>
   </tr>
   <tr>
     <td><a href="https://school.programmers.co.kr/learn/courses/30/lessons/42587">프린터</a></td> 
@@ -251,17 +251,17 @@
   <tr>
     <td><a href="https://school.programmers.co.kr/learn/courses/30/lessons/87946">피로도</a></td> 
     <td align="center"><a href="https://github.com/knavoid/just-algorithm/blob/main/programmers/C%2B%2B/Level2/%ED%94%BC%EB%A1%9C%EB%8F%84.cpp">C++</a> / <a href="https://github.com/knavoid/just-algorithm/blob/main/programmers/Java/Level2/%ED%94%BC%EB%A1%9C%EB%8F%84.java">Java</a></td>
-  	<td align="center">Brute force</td>
+  	<td align="center">Brute Force</td>
   </tr>
   <tr>
     <td><a href="https://school.programmers.co.kr/learn/courses/30/lessons/131127">할인 행사</a></td> 
     <td align="center"><a href="https://github.com/knavoid/just-algorithm/blob/main/programmers/C%2B%2B/Level2/%ED%95%A0%EC%9D%B8%20%ED%96%89%EC%82%AC.cpp">C++</a> / <a href="https://github.com/knavoid/just-algorithm/blob/main/programmers/Java/Level2/%ED%95%A0%EC%9D%B8%20%ED%96%89%EC%82%AC.java">Java</a></td>
-  	<td align="center">Hasp map</td>
+  	<td align="center">Hasp Map</td>
   </tr>
   <tr>
     <td><a href="https://school.programmers.co.kr/learn/courses/30/lessons/138476">귤 고르기</a></td> 
     <td align="center"><a href="https://github.com/knavoid/just-algorithm/blob/main/programmers/C%2B%2B/Level2/%EA%B7%A4%20%EA%B3%A0%EB%A5%B4%EA%B8%B0.cpp">C++</a> / <a href="https://github.com/knavoid/just-algorithm/blob/main/programmers/Java/Level2/%EA%B7%A4%20%EA%B3%A0%EB%A5%B4%EA%B8%B0.java">Java</a></td>
-  	<td align="center">Hash map</td>
+  	<td align="center">Hash Map</td>
   </tr>
   <tr>
     <td><a href="https://school.programmers.co.kr/learn/courses/30/lessons/135807">숫자 카드 나누기</a></td> 
@@ -271,7 +271,7 @@
   <tr>
     <td><a href="https://school.programmers.co.kr/learn/courses/30/lessons/92342">양궁대회</a></td> 
     <td align="center"><a href="https://github.com/knavoid/just-algorithm/blob/main/programmers/Java/Level2/양궁대회.java">Java</a></td>
-  	<td align="center">Depth first search</td>
+  	<td align="center">Depth First Search</td>
   </tr>
 
 </table>
@@ -296,12 +296,12 @@
   <tr>
     <td><a href="https://school.programmers.co.kr/learn/courses/30/lessons/12952">N-Queen</a></td> 
     <td align="center"><a href="https://github.com/knavoid/just-algorithm/blob/main/programmers/C%2B%2B/Level3/N-Queen.cpp">C++</a> / <a href="https://github.com/knavoid/just-algorithm/blob/main/programmers/Python/Level3/N-Queen.py">Python</a></td>
-  	<td align="center">Depth first search</td>
+  	<td align="center">Depth First Search</td>
   </tr>
   <tr>
     <td><a href="https://school.programmers.co.kr/learn/courses/30/lessons/42895">N으로 표현</a></td> 
     <td align="center"><a href="https://github.com/knavoid/just-algorithm/blob/main/programmers/C%2B%2B/Level3/N%EC%9C%BC%EB%A1%9C%20%ED%91%9C%ED%98%84.cpp">C++</a></td>
-  	<td align="center">Depth firsh search</td>
+  	<td align="center">Depth First Search</td>
   </tr>
   <tr>
     <td><a href="https://school.programmers.co.kr/learn/courses/30/lessons/12904">가장 긴 팰린드롬</a></td> 
@@ -311,7 +311,7 @@
   <tr>
     <td><a href="https://school.programmers.co.kr/learn/courses/30/lessons/49189">가장 먼 노드</a></td> 
     <td align="center"><a href="https://github.com/knavoid/just-algorithm/blob/main/programmers/C%2B%2B/Level3/%EA%B0%80%EC%9E%A5%20%EB%A8%BC%20%EB%85%B8%EB%93%9C.cpp">C++</a></td>
-  	<td align="center">Breadth first search</td>
+  	<td align="center">Breadth First Search</td>
   </tr>
   <tr>
     <td><a href="https://school.programmers.co.kr/learn/courses/30/lessons/60061">기둥과 보 설치</a> (2020 KAKAO)</td> 
@@ -321,12 +321,12 @@
   <tr>
     <td><a href="https://school.programmers.co.kr/learn/courses/30/lessons/43162">네트워크</a></td> 
     <td align="center"><a href="https://github.com/knavoid/just-algorithm/blob/main/programmers/C%2B%2B/Level3/%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC.cpp">C++</a> / <a href="https://github.com/knavoid/just-algorithm/blob/main/programmers/Python/Level3/%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC.py">Python</a></td>
-  	<td align="center">Depth first search</td>
+  	<td align="center">Depth First Search</td>
   </tr>
   <tr>
     <td><a href="https://school.programmers.co.kr/learn/courses/30/lessons/77486">다단계 칫솔 판매</a> (2021 Dev-Matching)</td> 
     <td align="center"><a href="https://github.com/knavoid/just-algorithm/blob/main/programmers/C%2B%2B/Level3/%EB%8B%A4%EB%8B%A8%EA%B3%84%20%EC%B9%AB%EC%86%94%20%ED%8C%90%EB%A7%A4.cpp">C++</a> / <a href="https://github.com/knavoid/just-algorithm/blob/main/programmers/Python/Level3/%EB%8B%A4%EB%8B%A8%EA%B3%84%20%EC%B9%AB%EC%86%94%20%ED%8C%90%EB%A7%A4.py">Python</a></td>
-  	<td align="center">Tree map</td>
+  	<td align="center">Tree Map</td>
   </tr>
   <tr>
     <td><a href="https://school.programmers.co.kr/learn/courses/30/lessons/42884">단속카메라</a></td> 
@@ -336,12 +336,12 @@
   <tr>
     <td><a href="https://school.programmers.co.kr/learn/courses/30/lessons/43163">단어 변환</a></td> 
     <td align="center"><a href="https://github.com/knavoid/just-algorithm/blob/main/programmers/C%2B%2B/Level3/%EB%8B%A8%EC%96%B4%20%EB%B3%80%ED%99%98.cpp">C++</a> / <a href="https://github.com/knavoid/just-algorithm/blob/main/programmers/Python/Level3/%EB%8B%A8%EC%96%B4%20%EB%B3%80%ED%99%98.py">Python</a></td>
-  	<td align="center">Depth first search</td>
+  	<td align="center">Depth First Search</td>
   </tr>
   <tr>
     <td><a href="https://school.programmers.co.kr/learn/courses/30/lessons/42898">등굣길</a></td> 
     <td align="center"><a href="https://github.com/knavoid/just-algorithm/blob/main/programmers/C%2B%2B/Level3/%EB%93%B1%EA%B5%A3%EA%B8%B8.cpp">C++</a></td>
-  	<td align="center">Dynamic programming</td>
+  	<td align="center">Dynamic Programming</td>
   </tr>
   <tr>
     <td><a href="https://school.programmers.co.kr/learn/courses/30/lessons/42627">디스크 컨트롤러</a></td> 
@@ -351,12 +351,12 @@
   <tr>
     <td><a href="https://school.programmers.co.kr/learn/courses/30/lessons/42579">베스트앨범</a></td> 
     <td align="center"><a href="https://github.com/knavoid/just-algorithm/blob/main/programmers/C%2B%2B/Level3/%EB%B2%A0%EC%8A%A4%ED%8A%B8%EC%95%A8%EB%B2%94.cpp">C++</a> / <a href="https://github.com/knavoid/just-algorithm/blob/main/programmers/Java/Level3/%EB%B2%A0%EC%8A%A4%ED%8A%B8%EC%95%A8%EB%B2%94.java">Java</a></td>
-  	<td align="center">Tree map</td>
+  	<td align="center">Tree Map</td>
   </tr>
   <tr>
     <td><a href="https://school.programmers.co.kr/learn/courses/30/lessons/64064">불량 사용자</a> (2019 KAKAO)</td> 
     <td align="center"><a href="https://github.com/knavoid/just-algorithm/blob/main/programmers/C%2B%2B/Level3/%EB%B6%88%EB%9F%89%20%EC%82%AC%EC%9A%A9%EC%9E%90.cpp">C++</a></td>
-  	<td align="center">Depth first search</td>
+  	<td align="center">Depth First Search</td>
   </tr>
   <tr>
     <td><a href="https://school.programmers.co.kr/learn/courses/30/lessons/49191">순위</a></td> 
@@ -371,7 +371,7 @@
   <tr>
     <td><a href="https://school.programmers.co.kr/learn/courses/30/lessons/43164">여행경로</a></td> 
     <td align="center"><a href="https://github.com/knavoid/just-algorithm/blob/main/programmers/C%2B%2B/Level3/%EC%97%AC%ED%96%89%EA%B2%BD%EB%A1%9C.cpp">C++</a></td>
-  	<td align="center">Depth first search</td>
+  	<td align="center">Depth First Search</td>
   </tr>
   <tr>
     <td><a href="https://school.programmers.co.kr/learn/courses/30/lessons/60059">자물쇠와 열쇠</a> (2020 KAKAO)</td> 
@@ -381,7 +381,7 @@
   <tr>
     <td><a href="https://school.programmers.co.kr/learn/courses/30/lessons/43105">정수 삼각형</a></td> 
     <td align="center"><a href="https://github.com/knavoid/just-algorithm/blob/main/programmers/C%2B%2B/Level3/%EC%A0%95%EC%88%98%20%EC%82%BC%EA%B0%81%ED%98%95.cpp">C++</a></td>
-  	<td align="center">Dynamic programming</td>
+  	<td align="center">Dynamic Programming</td>
   </tr>
   <tr>
     <td><a href="https://school.programmers.co.kr/learn/courses/30/lessons/12946">하노이의 탑</a></td> 
@@ -392,6 +392,11 @@
     <td><a href="https://school.programmers.co.kr/learn/courses/30/lessons/12979">기지국 설치</a></td> 
     <td align="center"><a href="https://github.com/knavoid/just-algorithm/blob/main/programmers/Java/Level3/기지국%20설치.java">Java</a></td>
   	<td align="center">Greedy</td>
+  </tr>
+  <tr>
+    <td><a href="https://school.programmers.co.kr/learn/courses/30/lessons/42861">섬 연결하기</a></td> 
+    <td align="center"><a href="https://github.com/knavoid/just-algorithm/blob/main/programmers/Java/Level3/섬%20연결하기.java">Java</a></td>
+  	<td align="center">Minimum Spanning Tree</td>
   </tr>
   
 </table>

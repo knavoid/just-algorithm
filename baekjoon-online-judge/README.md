@@ -331,6 +331,12 @@
   	<td align="center">Greedy</td>
   </tr>
   <tr>
+    <td align="center">2904</td>
+    <td><a href="https://www.acmicpc.net/problem/2904">수학은 너무 쉬워</a></td>
+    <td align="center"><a href="https://github.com/knavoid/just-algorithm/blob/main/baekjoon-online-judge/Java/2904.java">Java</a></td>
+  	<td align="center">Sieve of Eratosthenes</td>
+  </tr>
+  <tr>
     <td align="center">2961</td>
     <td><a href="https://www.acmicpc.net/problem/2961">도영이가 만든 맛있는 음식</a></td>
     <td align="center"><a href="https://github.com/knavoid/just-algorithm/blob/main/baekjoon-online-judge/Java/2961.java">Java</a></td>

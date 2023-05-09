@@ -517,6 +517,12 @@
   	<td align="center">LIS, Binary Search</td>
   </tr>
   <tr>
+    <td align="center">12865</td>
+    <td><a href="https://www.acmicpc.net/problem/12865">평범한 배낭</a></td>
+    <td align="center"><a href="https://github.com/knavoid/just-algorithm/blob/main/baekjoon-online-judge/C++/12865.cpp">C++</a></td>
+  	<td align="center">Knapsack</td>
+  </tr>
+  <tr>
     <td align="center">12891</td>
     <td><a href="https://www.acmicpc.net/problem/12891">DNA 비밀번호</a></td>
     <td align="center"><a href="https://github.com/knavoid/just-algorithm/blob/main/baekjoon-online-judge/Java/12891.java">Java</a></td>

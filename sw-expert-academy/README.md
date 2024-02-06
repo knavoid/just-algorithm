@@ -1413,6 +1413,12 @@
     <td align="center"><a href="https://github.com/knavoid/just-algorithm/blob/main/sw-expert-academy/D6/사람%20네트워크2.java">Java</a></td>
   	<td align="center">Floyd-Warshall</td>
   </tr>
+  <tr>
+    <td align="center">1855</td>
+    <td><a href="https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV18P2B6Iu8CFAZN&categoryId=AV18P2B6Iu8CFAZN&categoryType=CODE&problemTitle=%EC%82%AC%EB%9E%8C&orderBy=FIRST_REG_DATETIME&selectCodeLang=ALL&select-1=&pageSize=10&pageIndex=1">영준이의 진짜 BFS</a></td>
+    <td align="center"><a href="https://github.com/knavoid/just-algorithm/blob/main/sw-expert-academy/D6/영준이의%20진짜%20BFS.cpp">C++</a></td>
+  	<td align="center">LCA, Dynamic programming</td>
+  </tr>
 
   <tr>
     <td align="center" colspan=4>Test</td>
